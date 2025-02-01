@@ -4,8 +4,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Dubai Partner Site",
-        "description": "Partner Tower",
+        "name": "Dubai Partner Teleport",
+        "description": "Partner Teleport",
         "country": "UAE",
         "image": "https://uploads-ssl.webflow.com/6453980466edcb7b60b5acc6/65776401c7f7a5fa70f7e240_tower.svg"
       },
@@ -17,8 +17,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Riyadh Partner Site",
-        "description": "Partner Tower",
+        "name": "Riyadh Partner Teleport",
+        "description": "Partner Teleport",
         "country": "SAUDI ARABIA",
         "image": "https://uploads-ssl.webflow.com/6453980466edcb7b60b5acc6/65776401c7f7a5fa70f7e240_tower.svg"
       },
@@ -30,8 +30,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Nicosia Partner Site",
-        "description": "Partner Tower",
+        "name": "Nicosia Partner Teleport",
+        "description": "Partner Teleport",
         "country": "CYPRUS",
         "image": "https://uploads-ssl.webflow.com/6453980466edcb7b60b5acc6/65776401c7f7a5fa70f7e240_tower.svg"
       },
@@ -43,8 +43,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Frankfurt Partner Site",
-        "description": "Partner Tower",
+        "name": "Frankfurt Partner Teleport",
+        "description": "Partner Teleport",
         "country": "GERMANY",
         "image": "https://uploads-ssl.webflow.com/6453980466edcb7b60b5acc6/65776401c7f7a5fa70f7e240_tower.svg"
       },
@@ -56,8 +56,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Zurich Partner Site",
-        "description": "Partner Tower",
+        "name": "Zurich Partner Teleport",
+        "description": "Partner Teleport",
         "country": "SWITZERLAND",
         "image": "https://uploads-ssl.webflow.com/6453980466edcb7b60b5acc6/65776401c7f7a5fa70f7e240_tower.svg"
       },
@@ -69,8 +69,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Nairobi Partner Site",
-        "description": "Partner Tower",
+        "name": "Nairobi Partner Teleport",
+        "description": "Partner Teleport",
         "country": "KENYA",
         "image": "https://uploads-ssl.webflow.com/6453980466edcb7b60b5acc6/65776401c7f7a5fa70f7e240_tower.svg"
       },
@@ -82,8 +82,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Singapore Partner Site",
-        "description": "Partner Tower",
+        "name": "Singapore Partner Teleport",
+        "description": "Partner Teleport",
         "country": "SINGAPORE",
         "image": "https://uploads-ssl.webflow.com/6453980466edcb7b60b5acc6/65776401c7f7a5fa70f7e240_tower.svg"
       },
@@ -95,8 +95,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Islamabad Partner Site",
-        "description": "Partner Tower",
+        "name": "Islamabad Partner Teleport",
+        "description": "Partner Teleport",
         "country": "PAKISTAN",
         "image": "https://uploads-ssl.webflow.com/6453980466edcb7b60b5acc6/65776401c7f7a5fa70f7e240_tower.svg"
       },
@@ -108,8 +108,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "London Partner Site",
-        "description": "Partner Tower",
+        "name": "London Partner Teleport",
+        "description": "Partner Teleport",
         "country": "UK",
         "image": "https://uploads-ssl.webflow.com/6453980466edcb7b60b5acc6/65776401c7f7a5fa70f7e240_tower.svg"
       },
@@ -121,8 +121,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Sydney Partner Site",
-        "description": "Partner Tower",
+        "name": "Sydney Partner Teleport",
+        "description": "Partner Teleport",
         "country": "AUSTRALIA",
         "image": "https://uploads-ssl.webflow.com/6453980466edcb7b60b5acc6/65776401c7f7a5fa70f7e240_tower.svg"
       },
