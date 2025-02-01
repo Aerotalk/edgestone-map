@@ -7,7 +7,7 @@
         "properties": {
           "Name": "Digital Realty MRS1 - Equinix SG1 - SMW5",
           "description": "SeaMeWe-5 (SMW5)",
-         "color": "#939597"
+          "color": "#913ac7"
         },
         "geometry": {
           "type": "LineString",
