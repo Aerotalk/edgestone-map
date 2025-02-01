@@ -353,6 +353,46 @@ a,
           }
         }
 
+        .mapboxgl-popup-content {
+          background: #fff;
+          border-radius: 0 !important;
+          clip-path: polygon(
+            15% 0%,
+            /* top-left */ 85% 0%,
+            /* top-right */ 100% 15%,
+            /* right-top */ 100% 85%,
+            /* right-bottom */ 85% 100%,
+            /* bottom-right */ 15% 100%,
+            /* bottom-left */ 0% 85%,
+            /* left-bottom */ 0% 15% /* left-top */
+          );
+          padding: 20px !important;
+          box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1) !important;
+          pointer-events: auto;
+          position: relative;
+          text-align: center;
+          min-width: 220px;
+          background: linear-gradient(145deg, #ffffff, #f5f5f5);
+        }
+
+        .mapboxgl-popup-tip {
+          display: none;
+        }
+
+        /* Apply to all popups */
+        .point-popup .mapboxgl-popup-content,
+        .line-popup .mapboxgl-popup-content {
+          background-color: #fff;
+          border: none;
+          text-align: center;
+        }
+
+        /* Hover effect */
+        .mapboxgl-popup-content:hover {
+          transform: scale(1.02);
+          transition: transform 0.2s ease;
+        }
+
         /* Line popup styles */
         .line-popup .mapboxgl-popup-content {
           background: transparent;
