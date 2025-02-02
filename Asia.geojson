@@ -290,7 +290,7 @@
       "type": "Feature",
       "properties": {
         "Name": "Equinix SG1 - IDC 3D Duren Tiga",
-        "description": "INDIGO"
+        "description": "INDIGO",
         "color": "#347928"
       },
       "geometry": {
