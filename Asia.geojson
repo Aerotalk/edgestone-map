@@ -6,7 +6,8 @@
       "type": "Feature",
       "properties": {
         "Name": "AT Tokyo CC1 - eASPNet",
-        "description": "REACH North Asia Loop (RNAL)"
+        "description": "REACH North Asia Loop (RNAL)",
+        "color": "#FAB12F"
       },
       "geometry": {
         "type": "LineString",
@@ -248,7 +249,8 @@
       "type": "Feature",
       "properties": {
         "Name": "Equinix TY2 - Chief LY - TPE",
-        "description": "Trans-Pacific Express (TPE)"
+        "description": "Trans-Pacific Express (TPE)",
+        "color": "#7ED4AD"
       },
       "geometry": {
         "type": "LineString",
@@ -289,6 +291,7 @@
       "properties": {
         "Name": "Equinix SG1 - IDC 3D Duren Tiga",
         "description": "INDIGO"
+        "color": "#347928"
       },
       "geometry": {
         "type": "LineString",
@@ -305,7 +308,8 @@
       "type": "Feature",
       "properties": {
         "Name": "Mega-i - Global Switch Tai Seng",
-        "description": "Tata TGN-Intra Asia (TGN-IA)"
+        "description": "Tata TGN-Intra Asia (TGN-IA)",
+        "color": "#859F3D"
         
       },
       "geometry": {
@@ -445,7 +449,8 @@
       "type": "Feature",
       "properties": {
         "Name": "Mega-i - Global Switch Tai Seng",
-        "description": "Tata TGN-Intra Asia (TGN-IA)"
+        "description": "Tata TGN-Intra Asia (TGN-IA)",
+        "color": "#859F3D"
       },
       "geometry": {
         "type": "LineString",
@@ -682,7 +687,8 @@
       "type": "Feature",
       "properties": {
         "Name": "Metfone VTC6 - Mega-i",
-        "description": "Tata TGN-Intra Asia (TGN-IA)"
+        "description": "Tata TGN-Intra Asia (TGN-IA)",
+        "color": "#859F3D"
       },
       "geometry": {
         "type": "LineString",
