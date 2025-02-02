@@ -61,7 +61,8 @@
       "type": "Feature",
       "properties": {
         "Name": "Chief LY - Equinix HK1",
-        "description": "City-to-City (C2C)"
+        "description": "City-to-City (C2C)",
+        "color": "#ADD8E6"
       },
       "geometry": {
         "type": "LineString",
@@ -91,7 +92,8 @@
       "type": "Feature",
       "properties": {
         "Name": "Global Switch Tai Seng - AT Tokyo CC1",
-        "description": "City-to-City (C2C)"
+        "description": "City-to-City (C2C)",
+        "color": "#ADD8E6"
       },
       "geometry": {
         "type": "LineString",
@@ -123,7 +125,8 @@
       "type": "Feature",
       "properties": {
         "Name": "Equinix HK1 - Equinix SG1",
-        "description": "City-to-City (C2C)"
+        "description": "City-to-City (C2C)",
+        "color": "#ADD8E6"
       },
       "geometry": {
         "type": "LineString",
