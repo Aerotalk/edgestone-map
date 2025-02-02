@@ -306,6 +306,7 @@
       "properties": {
         "Name": "Mega-i - Global Switch Tai Seng",
         "description": "Tata TGN-Intra Asia (TGN-IA)"
+        
       },
       "geometry": {
         "type": "LineString",
@@ -412,7 +413,8 @@
       "type": "Feature",
       "properties": {
         "Name": "TCCT Bangna - Equinix HK1",
-        "description": "Asia Africa Europe 1 (AAE-1)"
+        "description": "Asia Africa Europe 1 (AAE-1)",
+        "color": "#DA498D"
       },
       "geometry": {
         "type": "LineString",
@@ -509,7 +511,8 @@
       "type": "Feature",
       "properties": {
         "Name": "TCCT Bangna - Equinix HK1",
-        "description": "Asia Africa Europe 1 (AAE-1)"
+        "description": "Asia Africa Europe 1 (AAE-1)",
+        "color": "#DA498D"
       },
       "geometry": {
         "type": "LineString",
@@ -543,7 +546,8 @@
       "type": "Feature",
       "properties": {
         "Name": "Mega-i - Equinix SG1",
-        "description": "Southeast Asia-Japan Cable (SJC)"
+        "description": "Southeast Asia-Japan Cable (SJC)",
+        "color": "#00FF00"
       },
       "geometry": {
         "type": "LineString",
@@ -562,7 +566,8 @@
       "type": "Feature",
       "properties": {
         "Name": "Mega-i - Equinix SY1",
-        "description": "Mega-i - Equinix SY1"
+        "description": "Mega-i - Equinix SY1",
+        "color": "#E16A54"
       },
       "geometry": {
         "type": "LineString",
@@ -586,7 +591,8 @@
       "type": "Feature",
       "properties": {
         "Name": "Equinix SG1 - NEXTDC P1",
-        "description": "Protected - Australia-Singapore Cable (ASC) / INDIGO-West"
+        "description": "Australia-Singapore Cable (ASC) / INDIGO-West",
+        "color": "#DDA853"
       },
       "geometry": {
         "type": "LineString",
@@ -614,7 +620,8 @@
       "type": "Feature",
       "properties": {
         "Name": "TCCT Bangna - Equinix SG3",
-        "description": "Protected - Asia Pacific Gateway (APG) / Thailand-Indonesia-Singapore (TIS)"
+        "description": "Asia Pacific Gateway (APG) / Thailand-Indonesia-Singapore (TIS)",
+        "color": "#3E7B27"
       },
       "geometry": {
         "type": "LineString",
@@ -635,7 +642,8 @@
       "type": "Feature",
       "properties": {
         "Name": "Mega-i - Viettel IDC Hoan Hoa Tham",
-        "description": "Mega-i - Viettel IDC Hoan Hoa Tham"
+        "description": "Mega-i - Viettel IDC Hoan Hoa Tham",
+        "color": "#E195AB"
       },
       "geometry": {
         "type": "LineString",
@@ -653,7 +661,8 @@
       "type": "Feature",
       "properties": {
         "Name": "Viettel IDC Hoan Hoa Tham - Global Switch Tai Seng",
-        "description": "Viettel IDC Hoan Hoa Tham - Global Switch Tai Seng"
+        "description": "Viettel IDC Hoan Hoa Tham - Global Switch Tai Seng",
+        "color": "#F29F58"
       },
       "geometry": {
         "type": "LineString",
@@ -1059,7 +1068,8 @@
       "type": "Feature",
       "properties": {
         "Name": "Asia Submarine-cable Express (ASE)/Cahaya Malaysia",
-        "description": "RFS: 2012",
+        "description": "Asia Submarine-cable Express (ASE)/Cahaya Malaysia",
+        "color": "#79D7BE",
         "tessellate": 1,
         "extrude": 0,
         "visibility": -1
@@ -1096,14 +1106,8 @@
       },
       "properties": {
         "name": "Bay of Bengal Gateway (BBG)",
-        "description": "<div class=\"googft-info-window\">\n<b>id:</b> bay-of-bengal-gateway-bbg<br>\n<b>cable_id:</b> 1735<br>\n<b>description:</b> [{\"latlon\":\"23.679414,58.004373\",\"name\":\"Barka, Oman\",\"landing_point_id\":8947},{\"latlon\":\"13.063516,80.243049\",\"name\":\"Chennai, India\",\"landing_point_id\":4191},{\"latlon\":\"25.121671,56.333737\",\"name\":\"Fujairah, United Arab Emirates\",\"landing_point_id\":5962},{\"latlon\":\"19.075779,72.875866\",\"name\":\"Mumbai, India\",\"landing_point_id\":3212},{\"latlon\":\"5.353613,100.362961\",\"name\":\"Penang, Malaysia\",\"landing_point_id\":3307},{\"latlon\":\"6.820364,79.889286\",\"name\":\"Ratmalana, Sri Lanka\",\"landing_point_id\":14621}]<br>\n<b>name:</b> Bay of Bengal Gateway (BBG)<br>\n<b>color:</b> #9ea0a2<br>\n<b>length:</b> 8,000 km<br>\n<b>rfs:</b> December 2014<br>\n<b>owners:</b> Vodafone,  Telekom Malaysia,  Omantel,  Reliance Jio Infocomm,  Dialog Axiata,  Etisalat<br>\n<b>url:</b> <br>\n<b>col10:</b> \n</div>",
-        "id": "bay-of-bengal-gateway-bbg",
-        "cable_id": 1735,
+        "description": "Bay of Bengal Gateway (BBG)",
         "color": "#9ea0a2",
-        "length": "8,000 km",
-        "rfs": "December 2014",
-        "owners": "Vodafone,  Telekom Malaysia,  Omantel,  Reliance Jio Infocomm,  Dialog Axiata,  Etisalat",
-        "url": "",
         "": ""
       }
     },
@@ -1126,14 +1130,8 @@
       },
       "properties": {
         "name": "Bay of Bengal Gateway (BBG)",
-        "description": "<div class=\"googft-info-window\">\n<b>id:</b> bay-of-bengal-gateway-bbg<br>\n<b>cable_id:</b> 1735<br>\n<b>description:</b> [{\"latlon\":\"23.679414,58.004373\",\"name\":\"Barka, Oman\",\"landing_point_id\":8947},{\"latlon\":\"13.063516,80.243049\",\"name\":\"Chennai, India\",\"landing_point_id\":4191},{\"latlon\":\"25.121671,56.333737\",\"name\":\"Fujairah, United Arab Emirates\",\"landing_point_id\":5962},{\"latlon\":\"19.075779,72.875866\",\"name\":\"Mumbai, India\",\"landing_point_id\":3212},{\"latlon\":\"5.353613,100.362961\",\"name\":\"Penang, Malaysia\",\"landing_point_id\":3307},{\"latlon\":\"6.820364,79.889286\",\"name\":\"Ratmalana, Sri Lanka\",\"landing_point_id\":14621}]<br>\n<b>name:</b> Bay of Bengal Gateway (BBG)<br>\n<b>color:</b> #9ea0a2<br>\n<b>length:</b> 8,000 km<br>\n<b>rfs:</b> December 2014<br>\n<b>owners:</b> Vodafone,  Telekom Malaysia,  Omantel,  Reliance Jio Infocomm,  Dialog Axiata,  Etisalat<br>\n<b>url:</b> <br>\n<b>col10:</b> \n</div>",
-        "id": "bay-of-bengal-gateway-bbg",
-        "cable_id": 1735,
+        "description": "Bay of Bengal Gateway (BBG)",
         "color": "#9ea0a2",
-        "length": "8,000 km",
-        "rfs": "December 2014",
-        "owners": "Vodafone,  Telekom Malaysia,  Omantel,  Reliance Jio Infocomm,  Dialog Axiata,  Etisalat",
-        "url": "",
         "": ""
       }
     },
@@ -1156,14 +1154,8 @@
       },
       "properties": {
         "name": "Bay of Bengal Gateway (BBG)",
-        "description": "<div class=\"googft-info-window\">\n<b>id:</b> bay-of-bengal-gateway-bbg<br>\n<b>cable_id:</b> 1735<br>\n<b>description:</b> [{\"latlon\":\"23.679414,58.004373\",\"name\":\"Barka, Oman\",\"landing_point_id\":8947},{\"latlon\":\"13.063516,80.243049\",\"name\":\"Chennai, India\",\"landing_point_id\":4191},{\"latlon\":\"25.121671,56.333737\",\"name\":\"Fujairah, United Arab Emirates\",\"landing_point_id\":5962},{\"latlon\":\"19.075779,72.875866\",\"name\":\"Mumbai, India\",\"landing_point_id\":3212},{\"latlon\":\"5.353613,100.362961\",\"name\":\"Penang, Malaysia\",\"landing_point_id\":3307},{\"latlon\":\"6.820364,79.889286\",\"name\":\"Ratmalana, Sri Lanka\",\"landing_point_id\":14621}]<br>\n<b>name:</b> Bay of Bengal Gateway (BBG)<br>\n<b>color:</b> #9ea0a2<br>\n<b>length:</b> 8,000 km<br>\n<b>rfs:</b> December 2014<br>\n<b>owners:</b> Vodafone,  Telekom Malaysia,  Omantel,  Reliance Jio Infocomm,  Dialog Axiata,  Etisalat<br>\n<b>url:</b> <br>\n<b>col10:</b> \n</div>",
-        "id": "bay-of-bengal-gateway-bbg",
-        "cable_id": 1735,
+        "description": "Bay of Bengal Gateway (BBG)",
         "color": "#9ea0a2",
-        "length": "8,000 km",
-        "rfs": "December 2014",
-        "owners": "Vodafone,  Telekom Malaysia,  Omantel,  Reliance Jio Infocomm,  Dialog Axiata,  Etisalat",
-        "url": "",
         "": ""
       }
     },
@@ -1186,14 +1178,8 @@
       },
       "properties": {
         "name": "Bay of Bengal Gateway (BBG)",
-        "description": "<div class=\"googft-info-window\">\n<b>id:</b> bay-of-bengal-gateway-bbg<br>\n<b>cable_id:</b> 1735<br>\n<b>description:</b> [{\"latlon\":\"23.679414,58.004373\",\"name\":\"Barka, Oman\",\"landing_point_id\":8947},{\"latlon\":\"13.063516,80.243049\",\"name\":\"Chennai, India\",\"landing_point_id\":4191},{\"latlon\":\"25.121671,56.333737\",\"name\":\"Fujairah, United Arab Emirates\",\"landing_point_id\":5962},{\"latlon\":\"19.075779,72.875866\",\"name\":\"Mumbai, India\",\"landing_point_id\":3212},{\"latlon\":\"5.353613,100.362961\",\"name\":\"Penang, Malaysia\",\"landing_point_id\":3307},{\"latlon\":\"6.820364,79.889286\",\"name\":\"Ratmalana, Sri Lanka\",\"landing_point_id\":14621}]<br>\n<b>name:</b> Bay of Bengal Gateway (BBG)<br>\n<b>color:</b> #9ea0a2<br>\n<b>length:</b> 8,000 km<br>\n<b>rfs:</b> December 2014<br>\n<b>owners:</b> Vodafone,  Telekom Malaysia,  Omantel,  Reliance Jio Infocomm,  Dialog Axiata,  Etisalat<br>\n<b>url:</b> <br>\n<b>col10:</b> \n</div>",
-        "id": "bay-of-bengal-gateway-bbg",
-        "cable_id": 1735,
+        "description": "Bay of Bengal Gateway (BBG)",
         "color": "#9ea0a2",
-        "length": "8,000 km",
-        "rfs": "December 2014",
-        "owners": "Vodafone,  Telekom Malaysia,  Omantel,  Reliance Jio Infocomm,  Dialog Axiata,  Etisalat",
-        "url": "",
         "": ""
       }
     },
@@ -1216,14 +1202,8 @@
       },
       "properties": {
         "name": "Bay of Bengal Gateway (BBG)",
-        "description": "<div class=\"googft-info-window\">\n<b>id:</b> bay-of-bengal-gateway-bbg<br>\n<b>cable_id:</b> 1735<br>\n<b>description:</b> [{\"latlon\":\"23.679414,58.004373\",\"name\":\"Barka, Oman\",\"landing_point_id\":8947},{\"latlon\":\"13.063516,80.243049\",\"name\":\"Chennai, India\",\"landing_point_id\":4191},{\"latlon\":\"25.121671,56.333737\",\"name\":\"Fujairah, United Arab Emirates\",\"landing_point_id\":5962},{\"latlon\":\"19.075779,72.875866\",\"name\":\"Mumbai, India\",\"landing_point_id\":3212},{\"latlon\":\"5.353613,100.362961\",\"name\":\"Penang, Malaysia\",\"landing_point_id\":3307},{\"latlon\":\"6.820364,79.889286\",\"name\":\"Ratmalana, Sri Lanka\",\"landing_point_id\":14621}]<br>\n<b>name:</b> Bay of Bengal Gateway (BBG)<br>\n<b>color:</b> #9ea0a2<br>\n<b>length:</b> 8,000 km<br>\n<b>rfs:</b> December 2014<br>\n<b>owners:</b> Vodafone,  Telekom Malaysia,  Omantel,  Reliance Jio Infocomm,  Dialog Axiata,  Etisalat<br>\n<b>url:</b> <br>\n<b>col10:</b> \n</div>",
-        "id": "bay-of-bengal-gateway-bbg",
-        "cable_id": 1735,
+        "description": "Bay of Bengal Gateway (BBG)",
         "color": "#9ea0a2",
-        "length": "8,000 km",
-        "rfs": "December 2014",
-        "owners": "Vodafone,  Telekom Malaysia,  Omantel,  Reliance Jio Infocomm,  Dialog Axiata,  Etisalat",
-        "url": "",
         "": ""
       }
     },
@@ -1246,14 +1226,8 @@
       },
       "properties": {
         "name": "Bay of Bengal Gateway (BBG)",
-        "description": "<div class=\"googft-info-window\">\n<b>id:</b> bay-of-bengal-gateway-bbg<br>\n<b>cable_id:</b> 1735<br>\n<b>description:</b> [{\"latlon\":\"23.679414,58.004373\",\"name\":\"Barka, Oman\",\"landing_point_id\":8947},{\"latlon\":\"13.063516,80.243049\",\"name\":\"Chennai, India\",\"landing_point_id\":4191},{\"latlon\":\"25.121671,56.333737\",\"name\":\"Fujairah, United Arab Emirates\",\"landing_point_id\":5962},{\"latlon\":\"19.075779,72.875866\",\"name\":\"Mumbai, India\",\"landing_point_id\":3212},{\"latlon\":\"5.353613,100.362961\",\"name\":\"Penang, Malaysia\",\"landing_point_id\":3307},{\"latlon\":\"6.820364,79.889286\",\"name\":\"Ratmalana, Sri Lanka\",\"landing_point_id\":14621}]<br>\n<b>name:</b> Bay of Bengal Gateway (BBG)<br>\n<b>color:</b> #9ea0a2<br>\n<b>length:</b> 8,000 km<br>\n<b>rfs:</b> December 2014<br>\n<b>owners:</b> Vodafone,  Telekom Malaysia,  Omantel,  Reliance Jio Infocomm,  Dialog Axiata,  Etisalat<br>\n<b>url:</b> <br>\n<b>col10:</b> \n</div>",
-        "id": "bay-of-bengal-gateway-bbg",
-        "cable_id": 1735,
+        "description": "Bay of Bengal Gateway (BBG)",
         "color": "#9ea0a2",
-        "length": "8,000 km",
-        "rfs": "December 2014",
-        "owners": "Vodafone,  Telekom Malaysia,  Omantel,  Reliance Jio Infocomm,  Dialog Axiata,  Etisalat",
-        "url": "",
         "": ""
       }
     },
@@ -1281,14 +1255,8 @@
       },
       "properties": {
         "name": "Bay of Bengal Gateway (BBG)",
-        "description": "<div class=\"googft-info-window\">\n<b>id:</b> bay-of-bengal-gateway-bbg<br>\n<b>cable_id:</b> 1735<br>\n<b>description:</b> [{\"latlon\":\"23.679414,58.004373\",\"name\":\"Barka, Oman\",\"landing_point_id\":8947},{\"latlon\":\"13.063516,80.243049\",\"name\":\"Chennai, India\",\"landing_point_id\":4191},{\"latlon\":\"25.121671,56.333737\",\"name\":\"Fujairah, United Arab Emirates\",\"landing_point_id\":5962},{\"latlon\":\"19.075779,72.875866\",\"name\":\"Mumbai, India\",\"landing_point_id\":3212},{\"latlon\":\"5.353613,100.362961\",\"name\":\"Penang, Malaysia\",\"landing_point_id\":3307},{\"latlon\":\"6.820364,79.889286\",\"name\":\"Ratmalana, Sri Lanka\",\"landing_point_id\":14621}]<br>\n<b>name:</b> Bay of Bengal Gateway (BBG)<br>\n<b>color:</b> #9ea0a2<br>\n<b>length:</b> 8,000 km<br>\n<b>rfs:</b> December 2014<br>\n<b>owners:</b> Vodafone,  Telekom Malaysia,  Omantel,  Reliance Jio Infocomm,  Dialog Axiata,  Etisalat<br>\n<b>url:</b> <br>\n<b>col10:</b> \n</div>",
-        "id": "bay-of-bengal-gateway-bbg",
-        "cable_id": 1735,
+        "description": "Bay of Bengal Gateway (BBG)",
         "color": "#9ea0a2",
-        "length": "8,000 km",
-        "rfs": "December 2014",
-        "owners": "Vodafone,  Telekom Malaysia,  Omantel,  Reliance Jio Infocomm,  Dialog Axiata,  Etisalat",
-        "url": "",
         "": ""
       }
     },
@@ -1331,14 +1299,8 @@
       },
       "properties": {
         "name": "Bay of Bengal Gateway (BBG)",
-        "description": "<div class=\"googft-info-window\">\n<b>id:</b> bay-of-bengal-gateway-bbg<br>\n<b>cable_id:</b> 1735<br>\n<b>description:</b> [{\"latlon\":\"23.679414,58.004373\",\"name\":\"Barka, Oman\",\"landing_point_id\":8947},{\"latlon\":\"13.063516,80.243049\",\"name\":\"Chennai, India\",\"landing_point_id\":4191},{\"latlon\":\"25.121671,56.333737\",\"name\":\"Fujairah, United Arab Emirates\",\"landing_point_id\":5962},{\"latlon\":\"19.075779,72.875866\",\"name\":\"Mumbai, India\",\"landing_point_id\":3212},{\"latlon\":\"5.353613,100.362961\",\"name\":\"Penang, Malaysia\",\"landing_point_id\":3307},{\"latlon\":\"6.820364,79.889286\",\"name\":\"Ratmalana, Sri Lanka\",\"landing_point_id\":14621}]<br>\n<b>name:</b> Bay of Bengal Gateway (BBG)<br>\n<b>color:</b> #9ea0a2<br>\n<b>length:</b> 8,000 km<br>\n<b>rfs:</b> December 2014<br>\n<b>owners:</b> Vodafone,  Telekom Malaysia,  Omantel,  Reliance Jio Infocomm,  Dialog Axiata,  Etisalat<br>\n<b>url:</b> <br>\n<b>col10:</b> \n</div>",
-        "id": "bay-of-bengal-gateway-bbg",
-        "cable_id": 1735,
+        "description": "Bay of Bengal Gateway (BBG)",
         "color": "#9ea0a2",
-        "length": "8,000 km",
-        "rfs": "December 2014",
-        "owners": "Vodafone,  Telekom Malaysia,  Omantel,  Reliance Jio Infocomm,  Dialog Axiata,  Etisalat",
-        "url": "",
         "": ""
       }
     },
