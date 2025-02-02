@@ -36,14 +36,8 @@
       },
       "properties": {
         "name": "West African Cable System (WACS)",
-        "description": "<div class=\"googft-info-window\">\n<b>id:</b> west-african-cable-system-wacs<br>\n<b>cable_id:</b> 1560<br>\n<b>description:</b> [{\"latlon\":\"5.323497,-4.026252\",\"name\":\"Abidjan, Côte d'Ivoire\",\"landing_point_id\":3316},{\"latlon\":\"5.558302,-0.201065\",\"name\":\"Accra, Ghana\",\"landing_point_id\":4181},{\"latlon\":\"27.999558,-15.699976\",\"name\":\"El Goro, Canary Islands, Spain\",\"landing_point_id\":5720},{\"latlon\":\"51.222224,-2.975002\",\"name\":\"Highbridge, United Kingdom\",\"landing_point_id\":5745},{\"latlon\":\"6.438895,3.423247\",\"name\":\"Lagos, Nigeria\",\"landing_point_id\":3280},{\"latlon\":\"4.014555,9.208485\",\"name\":\"Limbe, Cameroon\",\"landing_point_id\":9846},{\"latlon\":\"6.125989,1.227840\",\"name\":\"Lome, Togo\",\"landing_point_id\":3317},{\"latlon\":\"-5.933370,12.349888\",\"name\":\"Muanda, Congo, Dem. Rep.\",\"landing_point_id\":9426},{\"latlon\":\"14.923080,-23.521257\",\"name\":\"Palmarejo, Cape Verde\",\"landing_point_id\":10725},{\"latlon\":\"-4.779123,11.863614\",\"name\":\"Point Noire, Congo, Rep.\",\"landing_point_id\":5971},{\"latlon\":\"-8.812863,13.234998\",\"name\":\"Sangano, Angola\",\"landing_point_id\":10727},{\"latlon\":\"38.642259,-9.107377\",\"name\":\"Seixal, Portugal\",\"landing_point_id\":9058},{\"latlon\":\"-22.678280,14.528079\",\"name\":\"Swakopmund, Namibia\",\"landing_point_id\":9845},{\"latlon\":\"-33.348187,18.155554\",\"name\":\"Yzerfontein, South Africa\",\"landing_point_id\":9844}]<br>\n<b>name:</b> West African Cable System (WACS)<br>\n<b>color:</b> #548f51<br>\n<b>length:</b> 14,916 km<br>\n<b>rfs:</b> May 2012<br>\n<b>owners:</b> Broadband Infraco,  Telkom South Africa,  Vodacom,  MTN Group,  Tata Communications,  Togo Telecom,  Telecom Namibia,  Office Congolais de Poste et Télécommunication,  Congo Telecom,  Portugal Telecom,  Angola Cables,  Cape Verde Telecom,  Vodafone Espana,  Vodafone,  Neotel<br>\n<b>url:</b> <a href=\"http://wacscable.com\" target=\"_blank\">http://wacscable.com</a><br>\n<b>col10:</b> \n</div>",
-        "id": "west-african-cable-system-wacs",
-        "cable_id": 1560,
-        "color": "#548f51",
-        "length": "14,916 km",
-        "rfs": "May 2012",
-        "owners": "Broadband Infraco,  Telkom South Africa,  Vodacom,  MTN Group,  Tata Communications,  Togo Telecom,  Telecom Namibia,  Office Congolais de Poste et Télécommunication,  Congo Telecom,  Portugal Telecom,  Angola Cables,  Cape Verde Telecom,  Vodafone Espana,  Vodafone,  Neotel",
-        "url": "http://wacscable.com",
+        "description": "West African Cable System (WACS)",
+        "color": "#548f51",     
         "": ""
       }
     },
@@ -145,15 +139,9 @@
         ]
       },
       "properties": {
-        "name": "West African Cable System (WACS)",
-        "description": "<div class=\"googft-info-window\">\n<b>id:</b> west-african-cable-system-wacs<br>\n<b>cable_id:</b> 1560<br>\n<b>description:</b> [{\"latlon\":\"5.323497,-4.026252\",\"name\":\"Abidjan, Côte d'Ivoire\",\"landing_point_id\":3316},{\"latlon\":\"5.558302,-0.201065\",\"name\":\"Accra, Ghana\",\"landing_point_id\":4181},{\"latlon\":\"27.999558,-15.699976\",\"name\":\"El Goro, Canary Islands, Spain\",\"landing_point_id\":5720},{\"latlon\":\"51.222224,-2.975002\",\"name\":\"Highbridge, United Kingdom\",\"landing_point_id\":5745},{\"latlon\":\"6.438895,3.423247\",\"name\":\"Lagos, Nigeria\",\"landing_point_id\":3280},{\"latlon\":\"4.014555,9.208485\",\"name\":\"Limbe, Cameroon\",\"landing_point_id\":9846},{\"latlon\":\"6.125989,1.227840\",\"name\":\"Lome, Togo\",\"landing_point_id\":3317},{\"latlon\":\"-5.933370,12.349888\",\"name\":\"Muanda, Congo, Dem. Rep.\",\"landing_point_id\":9426},{\"latlon\":\"14.923080,-23.521257\",\"name\":\"Palmarejo, Cape Verde\",\"landing_point_id\":10725},{\"latlon\":\"-4.779123,11.863614\",\"name\":\"Point Noire, Congo, Rep.\",\"landing_point_id\":5971},{\"latlon\":\"-8.812863,13.234998\",\"name\":\"Sangano, Angola\",\"landing_point_id\":10727},{\"latlon\":\"38.642259,-9.107377\",\"name\":\"Seixal, Portugal\",\"landing_point_id\":9058},{\"latlon\":\"-22.678280,14.528079\",\"name\":\"Swakopmund, Namibia\",\"landing_point_id\":9845},{\"latlon\":\"-33.348187,18.155554\",\"name\":\"Yzerfontein, South Africa\",\"landing_point_id\":9844}]<br>\n<b>name:</b> West African Cable System (WACS)<br>\n<b>color:</b> #548f51<br>\n<b>length:</b> 14,916 km<br>\n<b>rfs:</b> May 2012<br>\n<b>owners:</b> Broadband Infraco,  Telkom South Africa,  Vodacom,  MTN Group,  Tata Communications,  Togo Telecom,  Telecom Namibia,  Office Congolais de Poste et Télécommunication,  Congo Telecom,  Portugal Telecom,  Angola Cables,  Cape Verde Telecom,  Vodafone Espana,  Vodafone,  Neotel<br>\n<b>url:</b> <a href=\"http://wacscable.com\" target=\"_blank\">http://wacscable.com</a><br>\n<b>col10:</b> \n</div>",
-        "id": "west-african-cable-system-wacs",
-        "cable_id": 1560,
+         "name": "West African Cable System (WACS)",
+        "description": "West African Cable System (WACS)",
         "color": "#548f51",
-        "length": "14,916 km",
-        "rfs": "May 2012",
-        "owners": "Broadband Infraco,  Telkom South Africa,  Vodacom,  MTN Group,  Tata Communications,  Togo Telecom,  Telecom Namibia,  Office Congolais de Poste et Télécommunication,  Congo Telecom,  Portugal Telecom,  Angola Cables,  Cape Verde Telecom,  Vodafone Espana,  Vodafone,  Neotel",
-        "url": "http://wacscable.com",
         "": ""
       }
     },
@@ -175,15 +163,9 @@
         ]
       },
       "properties": {
-        "name": "West African Cable System (WACS)",
-        "description": "<div class=\"googft-info-window\">\n<b>id:</b> west-african-cable-system-wacs<br>\n<b>cable_id:</b> 1560<br>\n<b>description:</b> [{\"latlon\":\"5.323497,-4.026252\",\"name\":\"Abidjan, Côte d'Ivoire\",\"landing_point_id\":3316},{\"latlon\":\"5.558302,-0.201065\",\"name\":\"Accra, Ghana\",\"landing_point_id\":4181},{\"latlon\":\"27.999558,-15.699976\",\"name\":\"El Goro, Canary Islands, Spain\",\"landing_point_id\":5720},{\"latlon\":\"51.222224,-2.975002\",\"name\":\"Highbridge, United Kingdom\",\"landing_point_id\":5745},{\"latlon\":\"6.438895,3.423247\",\"name\":\"Lagos, Nigeria\",\"landing_point_id\":3280},{\"latlon\":\"4.014555,9.208485\",\"name\":\"Limbe, Cameroon\",\"landing_point_id\":9846},{\"latlon\":\"6.125989,1.227840\",\"name\":\"Lome, Togo\",\"landing_point_id\":3317},{\"latlon\":\"-5.933370,12.349888\",\"name\":\"Muanda, Congo, Dem. Rep.\",\"landing_point_id\":9426},{\"latlon\":\"14.923080,-23.521257\",\"name\":\"Palmarejo, Cape Verde\",\"landing_point_id\":10725},{\"latlon\":\"-4.779123,11.863614\",\"name\":\"Point Noire, Congo, Rep.\",\"landing_point_id\":5971},{\"latlon\":\"-8.812863,13.234998\",\"name\":\"Sangano, Angola\",\"landing_point_id\":10727},{\"latlon\":\"38.642259,-9.107377\",\"name\":\"Seixal, Portugal\",\"landing_point_id\":9058},{\"latlon\":\"-22.678280,14.528079\",\"name\":\"Swakopmund, Namibia\",\"landing_point_id\":9845},{\"latlon\":\"-33.348187,18.155554\",\"name\":\"Yzerfontein, South Africa\",\"landing_point_id\":9844}]<br>\n<b>name:</b> West African Cable System (WACS)<br>\n<b>color:</b> #548f51<br>\n<b>length:</b> 14,916 km<br>\n<b>rfs:</b> May 2012<br>\n<b>owners:</b> Broadband Infraco,  Telkom South Africa,  Vodacom,  MTN Group,  Tata Communications,  Togo Telecom,  Telecom Namibia,  Office Congolais de Poste et Télécommunication,  Congo Telecom,  Portugal Telecom,  Angola Cables,  Cape Verde Telecom,  Vodafone Espana,  Vodafone,  Neotel<br>\n<b>url:</b> <a href=\"http://wacscable.com\" target=\"_blank\">http://wacscable.com</a><br>\n<b>col10:</b> \n</div>",
-        "id": "west-african-cable-system-wacs",
-        "cable_id": 1560,
+         "name": "West African Cable System (WACS)",
+        "description": "West African Cable System (WACS)",
         "color": "#548f51",
-        "length": "14,916 km",
-        "rfs": "May 2012",
-        "owners": "Broadband Infraco,  Telkom South Africa,  Vodacom,  MTN Group,  Tata Communications,  Togo Telecom,  Telecom Namibia,  Office Congolais de Poste et Télécommunication,  Congo Telecom,  Portugal Telecom,  Angola Cables,  Cape Verde Telecom,  Vodafone Espana,  Vodafone,  Neotel",
-        "url": "http://wacscable.com",
         "": ""
       }
     },
@@ -206,14 +188,8 @@
       },
       "properties": {
         "name": "West African Cable System (WACS)",
-        "description": "<div class=\"googft-info-window\">\n<b>id:</b> west-african-cable-system-wacs<br>\n<b>cable_id:</b> 1560<br>\n<b>description:</b> [{\"latlon\":\"5.323497,-4.026252\",\"name\":\"Abidjan, Côte d'Ivoire\",\"landing_point_id\":3316},{\"latlon\":\"5.558302,-0.201065\",\"name\":\"Accra, Ghana\",\"landing_point_id\":4181},{\"latlon\":\"27.999558,-15.699976\",\"name\":\"El Goro, Canary Islands, Spain\",\"landing_point_id\":5720},{\"latlon\":\"51.222224,-2.975002\",\"name\":\"Highbridge, United Kingdom\",\"landing_point_id\":5745},{\"latlon\":\"6.438895,3.423247\",\"name\":\"Lagos, Nigeria\",\"landing_point_id\":3280},{\"latlon\":\"4.014555,9.208485\",\"name\":\"Limbe, Cameroon\",\"landing_point_id\":9846},{\"latlon\":\"6.125989,1.227840\",\"name\":\"Lome, Togo\",\"landing_point_id\":3317},{\"latlon\":\"-5.933370,12.349888\",\"name\":\"Muanda, Congo, Dem. Rep.\",\"landing_point_id\":9426},{\"latlon\":\"14.923080,-23.521257\",\"name\":\"Palmarejo, Cape Verde\",\"landing_point_id\":10725},{\"latlon\":\"-4.779123,11.863614\",\"name\":\"Point Noire, Congo, Rep.\",\"landing_point_id\":5971},{\"latlon\":\"-8.812863,13.234998\",\"name\":\"Sangano, Angola\",\"landing_point_id\":10727},{\"latlon\":\"38.642259,-9.107377\",\"name\":\"Seixal, Portugal\",\"landing_point_id\":9058},{\"latlon\":\"-22.678280,14.528079\",\"name\":\"Swakopmund, Namibia\",\"landing_point_id\":9845},{\"latlon\":\"-33.348187,18.155554\",\"name\":\"Yzerfontein, South Africa\",\"landing_point_id\":9844}]<br>\n<b>name:</b> West African Cable System (WACS)<br>\n<b>color:</b> #548f51<br>\n<b>length:</b> 14,916 km<br>\n<b>rfs:</b> May 2012<br>\n<b>owners:</b> Broadband Infraco,  Telkom South Africa,  Vodacom,  MTN Group,  Tata Communications,  Togo Telecom,  Telecom Namibia,  Office Congolais de Poste et Télécommunication,  Congo Telecom,  Portugal Telecom,  Angola Cables,  Cape Verde Telecom,  Vodafone Espana,  Vodafone,  Neotel<br>\n<b>url:</b> <a href=\"http://wacscable.com\" target=\"_blank\">http://wacscable.com</a><br>\n<b>col10:</b> \n</div>",
-        "id": "west-african-cable-system-wacs",
-        "cable_id": 1560,
+        "description": "West African Cable System (WACS)",
         "color": "#548f51",
-        "length": "14,916 km",
-        "rfs": "May 2012",
-        "owners": "Broadband Infraco,  Telkom South Africa,  Vodacom,  MTN Group,  Tata Communications,  Togo Telecom,  Telecom Namibia,  Office Congolais de Poste et Télécommunication,  Congo Telecom,  Portugal Telecom,  Angola Cables,  Cape Verde Telecom,  Vodafone Espana,  Vodafone,  Neotel",
-        "url": "http://wacscable.com",
         "": ""
       }
     },
@@ -236,14 +212,8 @@
       },
       "properties": {
         "name": "West African Cable System (WACS)",
-        "description": "<div class=\"googft-info-window\">\n<b>id:</b> west-african-cable-system-wacs<br>\n<b>cable_id:</b> 1560<br>\n<b>description:</b> [{\"latlon\":\"5.323497,-4.026252\",\"name\":\"Abidjan, Côte d'Ivoire\",\"landing_point_id\":3316},{\"latlon\":\"5.558302,-0.201065\",\"name\":\"Accra, Ghana\",\"landing_point_id\":4181},{\"latlon\":\"27.999558,-15.699976\",\"name\":\"El Goro, Canary Islands, Spain\",\"landing_point_id\":5720},{\"latlon\":\"51.222224,-2.975002\",\"name\":\"Highbridge, United Kingdom\",\"landing_point_id\":5745},{\"latlon\":\"6.438895,3.423247\",\"name\":\"Lagos, Nigeria\",\"landing_point_id\":3280},{\"latlon\":\"4.014555,9.208485\",\"name\":\"Limbe, Cameroon\",\"landing_point_id\":9846},{\"latlon\":\"6.125989,1.227840\",\"name\":\"Lome, Togo\",\"landing_point_id\":3317},{\"latlon\":\"-5.933370,12.349888\",\"name\":\"Muanda, Congo, Dem. Rep.\",\"landing_point_id\":9426},{\"latlon\":\"14.923080,-23.521257\",\"name\":\"Palmarejo, Cape Verde\",\"landing_point_id\":10725},{\"latlon\":\"-4.779123,11.863614\",\"name\":\"Point Noire, Congo, Rep.\",\"landing_point_id\":5971},{\"latlon\":\"-8.812863,13.234998\",\"name\":\"Sangano, Angola\",\"landing_point_id\":10727},{\"latlon\":\"38.642259,-9.107377\",\"name\":\"Seixal, Portugal\",\"landing_point_id\":9058},{\"latlon\":\"-22.678280,14.528079\",\"name\":\"Swakopmund, Namibia\",\"landing_point_id\":9845},{\"latlon\":\"-33.348187,18.155554\",\"name\":\"Yzerfontein, South Africa\",\"landing_point_id\":9844}]<br>\n<b>name:</b> West African Cable System (WACS)<br>\n<b>color:</b> #548f51<br>\n<b>length:</b> 14,916 km<br>\n<b>rfs:</b> May 2012<br>\n<b>owners:</b> Broadband Infraco,  Telkom South Africa,  Vodacom,  MTN Group,  Tata Communications,  Togo Telecom,  Telecom Namibia,  Office Congolais de Poste et Télécommunication,  Congo Telecom,  Portugal Telecom,  Angola Cables,  Cape Verde Telecom,  Vodafone Espana,  Vodafone,  Neotel<br>\n<b>url:</b> <a href=\"http://wacscable.com\" target=\"_blank\">http://wacscable.com</a><br>\n<b>col10:</b> \n</div>",
-        "id": "west-african-cable-system-wacs",
-        "cable_id": 1560,
+        "description": "West African Cable System (WACS)",
         "color": "#548f51",
-        "length": "14,916 km",
-        "rfs": "May 2012",
-        "owners": "Broadband Infraco,  Telkom South Africa,  Vodacom,  MTN Group,  Tata Communications,  Togo Telecom,  Telecom Namibia,  Office Congolais de Poste et Télécommunication,  Congo Telecom,  Portugal Telecom,  Angola Cables,  Cape Verde Telecom,  Vodafone Espana,  Vodafone,  Neotel",
-        "url": "http://wacscable.com",
         "": ""
       }
     },
@@ -266,14 +236,8 @@
       },
       "properties": {
         "name": "West African Cable System (WACS)",
-        "description": "<div class=\"googft-info-window\">\n<b>id:</b> west-african-cable-system-wacs<br>\n<b>cable_id:</b> 1560<br>\n<b>description:</b> [{\"latlon\":\"5.323497,-4.026252\",\"name\":\"Abidjan, Côte d'Ivoire\",\"landing_point_id\":3316},{\"latlon\":\"5.558302,-0.201065\",\"name\":\"Accra, Ghana\",\"landing_point_id\":4181},{\"latlon\":\"27.999558,-15.699976\",\"name\":\"El Goro, Canary Islands, Spain\",\"landing_point_id\":5720},{\"latlon\":\"51.222224,-2.975002\",\"name\":\"Highbridge, United Kingdom\",\"landing_point_id\":5745},{\"latlon\":\"6.438895,3.423247\",\"name\":\"Lagos, Nigeria\",\"landing_point_id\":3280},{\"latlon\":\"4.014555,9.208485\",\"name\":\"Limbe, Cameroon\",\"landing_point_id\":9846},{\"latlon\":\"6.125989,1.227840\",\"name\":\"Lome, Togo\",\"landing_point_id\":3317},{\"latlon\":\"-5.933370,12.349888\",\"name\":\"Muanda, Congo, Dem. Rep.\",\"landing_point_id\":9426},{\"latlon\":\"14.923080,-23.521257\",\"name\":\"Palmarejo, Cape Verde\",\"landing_point_id\":10725},{\"latlon\":\"-4.779123,11.863614\",\"name\":\"Point Noire, Congo, Rep.\",\"landing_point_id\":5971},{\"latlon\":\"-8.812863,13.234998\",\"name\":\"Sangano, Angola\",\"landing_point_id\":10727},{\"latlon\":\"38.642259,-9.107377\",\"name\":\"Seixal, Portugal\",\"landing_point_id\":9058},{\"latlon\":\"-22.678280,14.528079\",\"name\":\"Swakopmund, Namibia\",\"landing_point_id\":9845},{\"latlon\":\"-33.348187,18.155554\",\"name\":\"Yzerfontein, South Africa\",\"landing_point_id\":9844}]<br>\n<b>name:</b> West African Cable System (WACS)<br>\n<b>color:</b> #548f51<br>\n<b>length:</b> 14,916 km<br>\n<b>rfs:</b> May 2012<br>\n<b>owners:</b> Broadband Infraco,  Telkom South Africa,  Vodacom,  MTN Group,  Tata Communications,  Togo Telecom,  Telecom Namibia,  Office Congolais de Poste et Télécommunication,  Congo Telecom,  Portugal Telecom,  Angola Cables,  Cape Verde Telecom,  Vodafone Espana,  Vodafone,  Neotel<br>\n<b>url:</b> <a href=\"http://wacscable.com\" target=\"_blank\">http://wacscable.com</a><br>\n<b>col10:</b> \n</div>",
-        "id": "west-african-cable-system-wacs",
-        "cable_id": 1560,
+        "description": "West African Cable System (WACS)",
         "color": "#548f51",
-        "length": "14,916 km",
-        "rfs": "May 2012",
-        "owners": "Broadband Infraco,  Telkom South Africa,  Vodacom,  MTN Group,  Tata Communications,  Togo Telecom,  Telecom Namibia,  Office Congolais de Poste et Télécommunication,  Congo Telecom,  Portugal Telecom,  Angola Cables,  Cape Verde Telecom,  Vodafone Espana,  Vodafone,  Neotel",
-        "url": "http://wacscable.com",
         "": ""
       }
     },
@@ -296,14 +260,8 @@
       },
       "properties": {
         "name": "West African Cable System (WACS)",
-        "description": "<div class=\"googft-info-window\">\n<b>id:</b> west-african-cable-system-wacs<br>\n<b>cable_id:</b> 1560<br>\n<b>description:</b> [{\"latlon\":\"5.323497,-4.026252\",\"name\":\"Abidjan, Côte d'Ivoire\",\"landing_point_id\":3316},{\"latlon\":\"5.558302,-0.201065\",\"name\":\"Accra, Ghana\",\"landing_point_id\":4181},{\"latlon\":\"27.999558,-15.699976\",\"name\":\"El Goro, Canary Islands, Spain\",\"landing_point_id\":5720},{\"latlon\":\"51.222224,-2.975002\",\"name\":\"Highbridge, United Kingdom\",\"landing_point_id\":5745},{\"latlon\":\"6.438895,3.423247\",\"name\":\"Lagos, Nigeria\",\"landing_point_id\":3280},{\"latlon\":\"4.014555,9.208485\",\"name\":\"Limbe, Cameroon\",\"landing_point_id\":9846},{\"latlon\":\"6.125989,1.227840\",\"name\":\"Lome, Togo\",\"landing_point_id\":3317},{\"latlon\":\"-5.933370,12.349888\",\"name\":\"Muanda, Congo, Dem. Rep.\",\"landing_point_id\":9426},{\"latlon\":\"14.923080,-23.521257\",\"name\":\"Palmarejo, Cape Verde\",\"landing_point_id\":10725},{\"latlon\":\"-4.779123,11.863614\",\"name\":\"Point Noire, Congo, Rep.\",\"landing_point_id\":5971},{\"latlon\":\"-8.812863,13.234998\",\"name\":\"Sangano, Angola\",\"landing_point_id\":10727},{\"latlon\":\"38.642259,-9.107377\",\"name\":\"Seixal, Portugal\",\"landing_point_id\":9058},{\"latlon\":\"-22.678280,14.528079\",\"name\":\"Swakopmund, Namibia\",\"landing_point_id\":9845},{\"latlon\":\"-33.348187,18.155554\",\"name\":\"Yzerfontein, South Africa\",\"landing_point_id\":9844}]<br>\n<b>name:</b> West African Cable System (WACS)<br>\n<b>color:</b> #548f51<br>\n<b>length:</b> 14,916 km<br>\n<b>rfs:</b> May 2012<br>\n<b>owners:</b> Broadband Infraco,  Telkom South Africa,  Vodacom,  MTN Group,  Tata Communications,  Togo Telecom,  Telecom Namibia,  Office Congolais de Poste et Télécommunication,  Congo Telecom,  Portugal Telecom,  Angola Cables,  Cape Verde Telecom,  Vodafone Espana,  Vodafone,  Neotel<br>\n<b>url:</b> <a href=\"http://wacscable.com\" target=\"_blank\">http://wacscable.com</a><br>\n<b>col10:</b> \n</div>",
-        "id": "west-african-cable-system-wacs",
-        "cable_id": 1560,
+        "description": "West African Cable System (WACS)",
         "color": "#548f51",
-        "length": "14,916 km",
-        "rfs": "May 2012",
-        "owners": "Broadband Infraco,  Telkom South Africa,  Vodacom,  MTN Group,  Tata Communications,  Togo Telecom,  Telecom Namibia,  Office Congolais de Poste et Télécommunication,  Congo Telecom,  Portugal Telecom,  Angola Cables,  Cape Verde Telecom,  Vodafone Espana,  Vodafone,  Neotel",
-        "url": "http://wacscable.com",
         "": ""
       }
     },
@@ -326,14 +284,8 @@
       },
       "properties": {
         "name": "West African Cable System (WACS)",
-        "description": "<div class=\"googft-info-window\">\n<b>id:</b> west-african-cable-system-wacs<br>\n<b>cable_id:</b> 1560<br>\n<b>description:</b> [{\"latlon\":\"5.323497,-4.026252\",\"name\":\"Abidjan, Côte d'Ivoire\",\"landing_point_id\":3316},{\"latlon\":\"5.558302,-0.201065\",\"name\":\"Accra, Ghana\",\"landing_point_id\":4181},{\"latlon\":\"27.999558,-15.699976\",\"name\":\"El Goro, Canary Islands, Spain\",\"landing_point_id\":5720},{\"latlon\":\"51.222224,-2.975002\",\"name\":\"Highbridge, United Kingdom\",\"landing_point_id\":5745},{\"latlon\":\"6.438895,3.423247\",\"name\":\"Lagos, Nigeria\",\"landing_point_id\":3280},{\"latlon\":\"4.014555,9.208485\",\"name\":\"Limbe, Cameroon\",\"landing_point_id\":9846},{\"latlon\":\"6.125989,1.227840\",\"name\":\"Lome, Togo\",\"landing_point_id\":3317},{\"latlon\":\"-5.933370,12.349888\",\"name\":\"Muanda, Congo, Dem. Rep.\",\"landing_point_id\":9426},{\"latlon\":\"14.923080,-23.521257\",\"name\":\"Palmarejo, Cape Verde\",\"landing_point_id\":10725},{\"latlon\":\"-4.779123,11.863614\",\"name\":\"Point Noire, Congo, Rep.\",\"landing_point_id\":5971},{\"latlon\":\"-8.812863,13.234998\",\"name\":\"Sangano, Angola\",\"landing_point_id\":10727},{\"latlon\":\"38.642259,-9.107377\",\"name\":\"Seixal, Portugal\",\"landing_point_id\":9058},{\"latlon\":\"-22.678280,14.528079\",\"name\":\"Swakopmund, Namibia\",\"landing_point_id\":9845},{\"latlon\":\"-33.348187,18.155554\",\"name\":\"Yzerfontein, South Africa\",\"landing_point_id\":9844}]<br>\n<b>name:</b> West African Cable System (WACS)<br>\n<b>color:</b> #548f51<br>\n<b>length:</b> 14,916 km<br>\n<b>rfs:</b> May 2012<br>\n<b>owners:</b> Broadband Infraco,  Telkom South Africa,  Vodacom,  MTN Group,  Tata Communications,  Togo Telecom,  Telecom Namibia,  Office Congolais de Poste et Télécommunication,  Congo Telecom,  Portugal Telecom,  Angola Cables,  Cape Verde Telecom,  Vodafone Espana,  Vodafone,  Neotel<br>\n<b>url:</b> <a href=\"http://wacscable.com\" target=\"_blank\">http://wacscable.com</a><br>\n<b>col10:</b> \n</div>",
-        "id": "west-african-cable-system-wacs",
-        "cable_id": 1560,
+        "description": "West African Cable System (WACS)",
         "color": "#548f51",
-        "length": "14,916 km",
-        "rfs": "May 2012",
-        "owners": "Broadband Infraco,  Telkom South Africa,  Vodacom,  MTN Group,  Tata Communications,  Togo Telecom,  Telecom Namibia,  Office Congolais de Poste et Télécommunication,  Congo Telecom,  Portugal Telecom,  Angola Cables,  Cape Verde Telecom,  Vodafone Espana,  Vodafone,  Neotel",
-        "url": "http://wacscable.com",
         "": ""
       }
     },
@@ -356,14 +308,8 @@
       },
       "properties": {
         "name": "West African Cable System (WACS)",
-        "description": "<div class=\"googft-info-window\">\n<b>id:</b> west-african-cable-system-wacs<br>\n<b>cable_id:</b> 1560<br>\n<b>description:</b> [{\"latlon\":\"5.323497,-4.026252\",\"name\":\"Abidjan, Côte d'Ivoire\",\"landing_point_id\":3316},{\"latlon\":\"5.558302,-0.201065\",\"name\":\"Accra, Ghana\",\"landing_point_id\":4181},{\"latlon\":\"27.999558,-15.699976\",\"name\":\"El Goro, Canary Islands, Spain\",\"landing_point_id\":5720},{\"latlon\":\"51.222224,-2.975002\",\"name\":\"Highbridge, United Kingdom\",\"landing_point_id\":5745},{\"latlon\":\"6.438895,3.423247\",\"name\":\"Lagos, Nigeria\",\"landing_point_id\":3280},{\"latlon\":\"4.014555,9.208485\",\"name\":\"Limbe, Cameroon\",\"landing_point_id\":9846},{\"latlon\":\"6.125989,1.227840\",\"name\":\"Lome, Togo\",\"landing_point_id\":3317},{\"latlon\":\"-5.933370,12.349888\",\"name\":\"Muanda, Congo, Dem. Rep.\",\"landing_point_id\":9426},{\"latlon\":\"14.923080,-23.521257\",\"name\":\"Palmarejo, Cape Verde\",\"landing_point_id\":10725},{\"latlon\":\"-4.779123,11.863614\",\"name\":\"Point Noire, Congo, Rep.\",\"landing_point_id\":5971},{\"latlon\":\"-8.812863,13.234998\",\"name\":\"Sangano, Angola\",\"landing_point_id\":10727},{\"latlon\":\"38.642259,-9.107377\",\"name\":\"Seixal, Portugal\",\"landing_point_id\":9058},{\"latlon\":\"-22.678280,14.528079\",\"name\":\"Swakopmund, Namibia\",\"landing_point_id\":9845},{\"latlon\":\"-33.348187,18.155554\",\"name\":\"Yzerfontein, South Africa\",\"landing_point_id\":9844}]<br>\n<b>name:</b> West African Cable System (WACS)<br>\n<b>color:</b> #548f51<br>\n<b>length:</b> 14,916 km<br>\n<b>rfs:</b> May 2012<br>\n<b>owners:</b> Broadband Infraco,  Telkom South Africa,  Vodacom,  MTN Group,  Tata Communications,  Togo Telecom,  Telecom Namibia,  Office Congolais de Poste et Télécommunication,  Congo Telecom,  Portugal Telecom,  Angola Cables,  Cape Verde Telecom,  Vodafone Espana,  Vodafone,  Neotel<br>\n<b>url:</b> <a href=\"http://wacscable.com\" target=\"_blank\">http://wacscable.com</a><br>\n<b>col10:</b> \n</div>",
-        "id": "west-african-cable-system-wacs",
-        "cable_id": 1560,
+        "description": "West African Cable System (WACS)",
         "color": "#548f51",
-        "length": "14,916 km",
-        "rfs": "May 2012",
-        "owners": "Broadband Infraco,  Telkom South Africa,  Vodacom,  MTN Group,  Tata Communications,  Togo Telecom,  Telecom Namibia,  Office Congolais de Poste et Télécommunication,  Congo Telecom,  Portugal Telecom,  Angola Cables,  Cape Verde Telecom,  Vodafone Espana,  Vodafone,  Neotel",
-        "url": "http://wacscable.com",
         "": ""
       }
     },
@@ -385,15 +331,9 @@
         ]
       },
       "properties": {
-        "name": "West African Cable System (WACS)",
-        "description": "<div class=\"googft-info-window\">\n<b>id:</b> west-african-cable-system-wacs<br>\n<b>cable_id:</b> 1560<br>\n<b>description:</b> [{\"latlon\":\"5.323497,-4.026252\",\"name\":\"Abidjan, Côte d'Ivoire\",\"landing_point_id\":3316},{\"latlon\":\"5.558302,-0.201065\",\"name\":\"Accra, Ghana\",\"landing_point_id\":4181},{\"latlon\":\"27.999558,-15.699976\",\"name\":\"El Goro, Canary Islands, Spain\",\"landing_point_id\":5720},{\"latlon\":\"51.222224,-2.975002\",\"name\":\"Highbridge, United Kingdom\",\"landing_point_id\":5745},{\"latlon\":\"6.438895,3.423247\",\"name\":\"Lagos, Nigeria\",\"landing_point_id\":3280},{\"latlon\":\"4.014555,9.208485\",\"name\":\"Limbe, Cameroon\",\"landing_point_id\":9846},{\"latlon\":\"6.125989,1.227840\",\"name\":\"Lome, Togo\",\"landing_point_id\":3317},{\"latlon\":\"-5.933370,12.349888\",\"name\":\"Muanda, Congo, Dem. Rep.\",\"landing_point_id\":9426},{\"latlon\":\"14.923080,-23.521257\",\"name\":\"Palmarejo, Cape Verde\",\"landing_point_id\":10725},{\"latlon\":\"-4.779123,11.863614\",\"name\":\"Point Noire, Congo, Rep.\",\"landing_point_id\":5971},{\"latlon\":\"-8.812863,13.234998\",\"name\":\"Sangano, Angola\",\"landing_point_id\":10727},{\"latlon\":\"38.642259,-9.107377\",\"name\":\"Seixal, Portugal\",\"landing_point_id\":9058},{\"latlon\":\"-22.678280,14.528079\",\"name\":\"Swakopmund, Namibia\",\"landing_point_id\":9845},{\"latlon\":\"-33.348187,18.155554\",\"name\":\"Yzerfontein, South Africa\",\"landing_point_id\":9844}]<br>\n<b>name:</b> West African Cable System (WACS)<br>\n<b>color:</b> #548f51<br>\n<b>length:</b> 14,916 km<br>\n<b>rfs:</b> May 2012<br>\n<b>owners:</b> Broadband Infraco,  Telkom South Africa,  Vodacom,  MTN Group,  Tata Communications,  Togo Telecom,  Telecom Namibia,  Office Congolais de Poste et Télécommunication,  Congo Telecom,  Portugal Telecom,  Angola Cables,  Cape Verde Telecom,  Vodafone Espana,  Vodafone,  Neotel<br>\n<b>url:</b> <a href=\"http://wacscable.com\" target=\"_blank\">http://wacscable.com</a><br>\n<b>col10:</b> \n</div>",
-        "id": "west-african-cable-system-wacs",
-        "cable_id": 1560,
+         "name": "West African Cable System (WACS)",
+        "description": "West African Cable System (WACS)",
         "color": "#548f51",
-        "length": "14,916 km",
-        "rfs": "May 2012",
-        "owners": "Broadband Infraco,  Telkom South Africa,  Vodacom,  MTN Group,  Tata Communications,  Togo Telecom,  Telecom Namibia,  Office Congolais de Poste et Télécommunication,  Congo Telecom,  Portugal Telecom,  Angola Cables,  Cape Verde Telecom,  Vodafone Espana,  Vodafone,  Neotel",
-        "url": "http://wacscable.com",
         "": ""
       }
     },
@@ -415,15 +355,9 @@
         ]
       },
       "properties": {
-        "name": "West African Cable System (WACS)",
-        "description": "<div class=\"googft-info-window\">\n<b>id:</b> west-african-cable-system-wacs<br>\n<b>cable_id:</b> 1560<br>\n<b>description:</b> [{\"latlon\":\"5.323497,-4.026252\",\"name\":\"Abidjan, Côte d'Ivoire\",\"landing_point_id\":3316},{\"latlon\":\"5.558302,-0.201065\",\"name\":\"Accra, Ghana\",\"landing_point_id\":4181},{\"latlon\":\"27.999558,-15.699976\",\"name\":\"El Goro, Canary Islands, Spain\",\"landing_point_id\":5720},{\"latlon\":\"51.222224,-2.975002\",\"name\":\"Highbridge, United Kingdom\",\"landing_point_id\":5745},{\"latlon\":\"6.438895,3.423247\",\"name\":\"Lagos, Nigeria\",\"landing_point_id\":3280},{\"latlon\":\"4.014555,9.208485\",\"name\":\"Limbe, Cameroon\",\"landing_point_id\":9846},{\"latlon\":\"6.125989,1.227840\",\"name\":\"Lome, Togo\",\"landing_point_id\":3317},{\"latlon\":\"-5.933370,12.349888\",\"name\":\"Muanda, Congo, Dem. Rep.\",\"landing_point_id\":9426},{\"latlon\":\"14.923080,-23.521257\",\"name\":\"Palmarejo, Cape Verde\",\"landing_point_id\":10725},{\"latlon\":\"-4.779123,11.863614\",\"name\":\"Point Noire, Congo, Rep.\",\"landing_point_id\":5971},{\"latlon\":\"-8.812863,13.234998\",\"name\":\"Sangano, Angola\",\"landing_point_id\":10727},{\"latlon\":\"38.642259,-9.107377\",\"name\":\"Seixal, Portugal\",\"landing_point_id\":9058},{\"latlon\":\"-22.678280,14.528079\",\"name\":\"Swakopmund, Namibia\",\"landing_point_id\":9845},{\"latlon\":\"-33.348187,18.155554\",\"name\":\"Yzerfontein, South Africa\",\"landing_point_id\":9844}]<br>\n<b>name:</b> West African Cable System (WACS)<br>\n<b>color:</b> #548f51<br>\n<b>length:</b> 14,916 km<br>\n<b>rfs:</b> May 2012<br>\n<b>owners:</b> Broadband Infraco,  Telkom South Africa,  Vodacom,  MTN Group,  Tata Communications,  Togo Telecom,  Telecom Namibia,  Office Congolais de Poste et Télécommunication,  Congo Telecom,  Portugal Telecom,  Angola Cables,  Cape Verde Telecom,  Vodafone Espana,  Vodafone,  Neotel<br>\n<b>url:</b> <a href=\"http://wacscable.com\" target=\"_blank\">http://wacscable.com</a><br>\n<b>col10:</b> \n</div>",
-        "id": "west-african-cable-system-wacs",
-        "cable_id": 1560,
+         "name": "West African Cable System (WACS)",
+        "description": "West African Cable System (WACS)",
         "color": "#548f51",
-        "length": "14,916 km",
-        "rfs": "May 2012",
-        "owners": "Broadband Infraco,  Telkom South Africa,  Vodacom,  MTN Group,  Tata Communications,  Togo Telecom,  Telecom Namibia,  Office Congolais de Poste et Télécommunication,  Congo Telecom,  Portugal Telecom,  Angola Cables,  Cape Verde Telecom,  Vodafone Espana,  Vodafone,  Neotel",
-        "url": "http://wacscable.com",
         "": ""
       }
     },
@@ -445,15 +379,9 @@
         ]
       },
       "properties": {
-        "name": "West African Cable System (WACS)",
-        "description": "<div class=\"googft-info-window\">\n<b>id:</b> west-african-cable-system-wacs<br>\n<b>cable_id:</b> 1560<br>\n<b>description:</b> [{\"latlon\":\"5.323497,-4.026252\",\"name\":\"Abidjan, Côte d'Ivoire\",\"landing_point_id\":3316},{\"latlon\":\"5.558302,-0.201065\",\"name\":\"Accra, Ghana\",\"landing_point_id\":4181},{\"latlon\":\"27.999558,-15.699976\",\"name\":\"El Goro, Canary Islands, Spain\",\"landing_point_id\":5720},{\"latlon\":\"51.222224,-2.975002\",\"name\":\"Highbridge, United Kingdom\",\"landing_point_id\":5745},{\"latlon\":\"6.438895,3.423247\",\"name\":\"Lagos, Nigeria\",\"landing_point_id\":3280},{\"latlon\":\"4.014555,9.208485\",\"name\":\"Limbe, Cameroon\",\"landing_point_id\":9846},{\"latlon\":\"6.125989,1.227840\",\"name\":\"Lome, Togo\",\"landing_point_id\":3317},{\"latlon\":\"-5.933370,12.349888\",\"name\":\"Muanda, Congo, Dem. Rep.\",\"landing_point_id\":9426},{\"latlon\":\"14.923080,-23.521257\",\"name\":\"Palmarejo, Cape Verde\",\"landing_point_id\":10725},{\"latlon\":\"-4.779123,11.863614\",\"name\":\"Point Noire, Congo, Rep.\",\"landing_point_id\":5971},{\"latlon\":\"-8.812863,13.234998\",\"name\":\"Sangano, Angola\",\"landing_point_id\":10727},{\"latlon\":\"38.642259,-9.107377\",\"name\":\"Seixal, Portugal\",\"landing_point_id\":9058},{\"latlon\":\"-22.678280,14.528079\",\"name\":\"Swakopmund, Namibia\",\"landing_point_id\":9845},{\"latlon\":\"-33.348187,18.155554\",\"name\":\"Yzerfontein, South Africa\",\"landing_point_id\":9844}]<br>\n<b>name:</b> West African Cable System (WACS)<br>\n<b>color:</b> #548f51<br>\n<b>length:</b> 14,916 km<br>\n<b>rfs:</b> May 2012<br>\n<b>owners:</b> Broadband Infraco,  Telkom South Africa,  Vodacom,  MTN Group,  Tata Communications,  Togo Telecom,  Telecom Namibia,  Office Congolais de Poste et Télécommunication,  Congo Telecom,  Portugal Telecom,  Angola Cables,  Cape Verde Telecom,  Vodafone Espana,  Vodafone,  Neotel<br>\n<b>url:</b> <a href=\"http://wacscable.com\" target=\"_blank\">http://wacscable.com</a><br>\n<b>col10:</b> \n</div>",
-        "id": "west-african-cable-system-wacs",
-        "cable_id": 1560,
+         "name": "West African Cable System (WACS)",
+        "description": "West African Cable System (WACS)",
         "color": "#548f51",
-        "length": "14,916 km",
-        "rfs": "May 2012",
-        "owners": "Broadband Infraco,  Telkom South Africa,  Vodacom,  MTN Group,  Tata Communications,  Togo Telecom,  Telecom Namibia,  Office Congolais de Poste et Télécommunication,  Congo Telecom,  Portugal Telecom,  Angola Cables,  Cape Verde Telecom,  Vodafone Espana,  Vodafone,  Neotel",
-        "url": "http://wacscable.com",
         "": ""
       }
     },
@@ -481,14 +409,8 @@
       },
       "properties": {
         "name": "West African Cable System (WACS)",
-        "description": "<div class=\"googft-info-window\">\n<b>id:</b> west-african-cable-system-wacs<br>\n<b>cable_id:</b> 1560<br>\n<b>description:</b> [{\"latlon\":\"5.323497,-4.026252\",\"name\":\"Abidjan, Côte d'Ivoire\",\"landing_point_id\":3316},{\"latlon\":\"5.558302,-0.201065\",\"name\":\"Accra, Ghana\",\"landing_point_id\":4181},{\"latlon\":\"27.999558,-15.699976\",\"name\":\"El Goro, Canary Islands, Spain\",\"landing_point_id\":5720},{\"latlon\":\"51.222224,-2.975002\",\"name\":\"Highbridge, United Kingdom\",\"landing_point_id\":5745},{\"latlon\":\"6.438895,3.423247\",\"name\":\"Lagos, Nigeria\",\"landing_point_id\":3280},{\"latlon\":\"4.014555,9.208485\",\"name\":\"Limbe, Cameroon\",\"landing_point_id\":9846},{\"latlon\":\"6.125989,1.227840\",\"name\":\"Lome, Togo\",\"landing_point_id\":3317},{\"latlon\":\"-5.933370,12.349888\",\"name\":\"Muanda, Congo, Dem. Rep.\",\"landing_point_id\":9426},{\"latlon\":\"14.923080,-23.521257\",\"name\":\"Palmarejo, Cape Verde\",\"landing_point_id\":10725},{\"latlon\":\"-4.779123,11.863614\",\"name\":\"Point Noire, Congo, Rep.\",\"landing_point_id\":5971},{\"latlon\":\"-8.812863,13.234998\",\"name\":\"Sangano, Angola\",\"landing_point_id\":10727},{\"latlon\":\"38.642259,-9.107377\",\"name\":\"Seixal, Portugal\",\"landing_point_id\":9058},{\"latlon\":\"-22.678280,14.528079\",\"name\":\"Swakopmund, Namibia\",\"landing_point_id\":9845},{\"latlon\":\"-33.348187,18.155554\",\"name\":\"Yzerfontein, South Africa\",\"landing_point_id\":9844}]<br>\n<b>name:</b> West African Cable System (WACS)<br>\n<b>color:</b> #548f51<br>\n<b>length:</b> 14,916 km<br>\n<b>rfs:</b> May 2012<br>\n<b>owners:</b> Broadband Infraco,  Telkom South Africa,  Vodacom,  MTN Group,  Tata Communications,  Togo Telecom,  Telecom Namibia,  Office Congolais de Poste et Télécommunication,  Congo Telecom,  Portugal Telecom,  Angola Cables,  Cape Verde Telecom,  Vodafone Espana,  Vodafone,  Neotel<br>\n<b>url:</b> <a href=\"http://wacscable.com\" target=\"_blank\">http://wacscable.com</a><br>\n<b>col10:</b> \n</div>",
-        "id": "west-african-cable-system-wacs",
-        "cable_id": 1560,
+        "description": "West African Cable System (WACS)",
         "color": "#548f51",
-        "length": "14,916 km",
-        "rfs": "May 2012",
-        "owners": "Broadband Infraco,  Telkom South Africa,  Vodacom,  MTN Group,  Tata Communications,  Togo Telecom,  Telecom Namibia,  Office Congolais de Poste et Télécommunication,  Congo Telecom,  Portugal Telecom,  Angola Cables,  Cape Verde Telecom,  Vodafone Espana,  Vodafone,  Neotel",
-        "url": "http://wacscable.com",
         "": ""
       }
     },
@@ -526,14 +448,8 @@
       },
       "properties": {
         "name": "West African Cable System (WACS)",
-        "description": "<div class=\"googft-info-window\">\n<b>id:</b> west-african-cable-system-wacs<br>\n<b>cable_id:</b> 1560<br>\n<b>description:</b> [{\"latlon\":\"5.323497,-4.026252\",\"name\":\"Abidjan, Côte d'Ivoire\",\"landing_point_id\":3316},{\"latlon\":\"5.558302,-0.201065\",\"name\":\"Accra, Ghana\",\"landing_point_id\":4181},{\"latlon\":\"27.999558,-15.699976\",\"name\":\"El Goro, Canary Islands, Spain\",\"landing_point_id\":5720},{\"latlon\":\"51.222224,-2.975002\",\"name\":\"Highbridge, United Kingdom\",\"landing_point_id\":5745},{\"latlon\":\"6.438895,3.423247\",\"name\":\"Lagos, Nigeria\",\"landing_point_id\":3280},{\"latlon\":\"4.014555,9.208485\",\"name\":\"Limbe, Cameroon\",\"landing_point_id\":9846},{\"latlon\":\"6.125989,1.227840\",\"name\":\"Lome, Togo\",\"landing_point_id\":3317},{\"latlon\":\"-5.933370,12.349888\",\"name\":\"Muanda, Congo, Dem. Rep.\",\"landing_point_id\":9426},{\"latlon\":\"14.923080,-23.521257\",\"name\":\"Palmarejo, Cape Verde\",\"landing_point_id\":10725},{\"latlon\":\"-4.779123,11.863614\",\"name\":\"Point Noire, Congo, Rep.\",\"landing_point_id\":5971},{\"latlon\":\"-8.812863,13.234998\",\"name\":\"Sangano, Angola\",\"landing_point_id\":10727},{\"latlon\":\"38.642259,-9.107377\",\"name\":\"Seixal, Portugal\",\"landing_point_id\":9058},{\"latlon\":\"-22.678280,14.528079\",\"name\":\"Swakopmund, Namibia\",\"landing_point_id\":9845},{\"latlon\":\"-33.348187,18.155554\",\"name\":\"Yzerfontein, South Africa\",\"landing_point_id\":9844}]<br>\n<b>name:</b> West African Cable System (WACS)<br>\n<b>color:</b> #548f51<br>\n<b>length:</b> 14,916 km<br>\n<b>rfs:</b> May 2012<br>\n<b>owners:</b> Broadband Infraco,  Telkom South Africa,  Vodacom,  MTN Group,  Tata Communications,  Togo Telecom,  Telecom Namibia,  Office Congolais de Poste et Télécommunication,  Congo Telecom,  Portugal Telecom,  Angola Cables,  Cape Verde Telecom,  Vodafone Espana,  Vodafone,  Neotel<br>\n<b>url:</b> <a href=\"http://wacscable.com\" target=\"_blank\">http://wacscable.com</a><br>\n<b>col10:</b> \n</div>",
-        "id": "west-african-cable-system-wacs",
-        "cable_id": 1560,
+        "description": "West African Cable System (WACS)",
         "color": "#548f51",
-        "length": "14,916 km",
-        "rfs": "May 2012",
-        "owners": "Broadband Infraco,  Telkom South Africa,  Vodacom,  MTN Group,  Tata Communications,  Togo Telecom,  Telecom Namibia,  Office Congolais de Poste et Télécommunication,  Congo Telecom,  Portugal Telecom,  Angola Cables,  Cape Verde Telecom,  Vodafone Espana,  Vodafone,  Neotel",
-        "url": "http://wacscable.com",
         "": ""
       }
     },
@@ -556,14 +472,8 @@
       },
       "properties": {
         "name": "Eastern Africa Submarine System (EASSy)",
-        "description": "<div class=\"googft-info-window\">\n<b>id:</b> eastern-africa-submarine-system-eassy<br>\n<b>cable_id:</b> 1246<br>\n<b>description:</b> [{\"latlon\":\"-6.823198,39.269697\",\"name\":\"Dar Es Salaam, Tanzania\",\"landing_point_id\":4182},{\"latlon\":\"11.594657,43.148039\",\"name\":\"Djibouti City, Djibouti\",\"landing_point_id\":4177},{\"latlon\":\"-25.968556,32.580627\",\"name\":\"Maputo, Mozambique\",\"landing_point_id\":4252},{\"latlon\":\"2.041152,45.344200\",\"name\":\"Mogadishu, Somalia\",\"landing_point_id\":4255},{\"latlon\":\"-4.053227,39.672850\",\"name\":\"Mombasa, Kenya\",\"landing_point_id\":5896},{\"latlon\":\"-11.700689,43.243406\",\"name\":\"Moroni, Comoros\",\"landing_point_id\":4227},{\"latlon\":\"-28.950645,31.757858\",\"name\":\"Mtunzini, South Africa\",\"landing_point_id\":5942},{\"latlon\":\"19.615558,37.219700\",\"name\":\"Port Sudan, Sudan\",\"landing_point_id\":5950},{\"latlon\":\"-23.354787,43.663123\",\"name\":\"Toliary, Madagascar\",\"landing_point_id\":7398}]<br>\n<b>name:</b> Eastern Africa Submarine System (EASSy)<br>\n<b>color:</b> #b16f3f<br>\n<b>length:</b> 10,500 km<br>\n<b>rfs:</b> July 2010<br>\n<b>owners:</b> Botswana Telecom,  Telkom South Africa,  Sudan Telecom Company,  Telecom Malagasy,  Tanzania Telecommunications Company Limited,  Zambia Telecom,  Mauritius Telecom,  Vodacom,  MTN Group,  Comores Telecom,  Neotel,  BT,  Etisalat,  Saudi Telecom,  France Telecom,  airtel (Bharti),  WIOCC<br>\n<b>url:</b> <a href=\"http://www.eassy.org\" target=\"_blank\">http://www.eassy.org</a><br>\n<b>col10:</b> \n</div>",
-        "id": "eastern-africa-submarine-system-eassy",
-        "cable_id": 1246,
-        "color": "#b16f3f",
-        "length": "10,500 km",
-        "rfs": "July 2010",
-        "owners": "Botswana Telecom,  Telkom South Africa,  Sudan Telecom Company,  Telecom Malagasy,  Tanzania Telecommunications Company Limited,  Zambia Telecom,  Mauritius Telecom,  Vodacom,  MTN Group,  Comores Telecom,  Neotel,  BT,  Etisalat,  Saudi Telecom,  France Telecom,  airtel (Bharti),  WIOCC",
-        "url": "http://www.eassy.org",
+        "description": "Eastern Africa Submarine System (EASSy)",
+        "color": "#b16f3f",      
         "": ""
       }
     },
@@ -585,15 +495,9 @@
         ]
       },
       "properties": {
-        "name": "Eastern Africa Submarine System (EASSy)",
-        "description": "<div class=\"googft-info-window\">\n<b>id:</b> eastern-africa-submarine-system-eassy<br>\n<b>cable_id:</b> 1246<br>\n<b>description:</b> [{\"latlon\":\"-6.823198,39.269697\",\"name\":\"Dar Es Salaam, Tanzania\",\"landing_point_id\":4182},{\"latlon\":\"11.594657,43.148039\",\"name\":\"Djibouti City, Djibouti\",\"landing_point_id\":4177},{\"latlon\":\"-25.968556,32.580627\",\"name\":\"Maputo, Mozambique\",\"landing_point_id\":4252},{\"latlon\":\"2.041152,45.344200\",\"name\":\"Mogadishu, Somalia\",\"landing_point_id\":4255},{\"latlon\":\"-4.053227,39.672850\",\"name\":\"Mombasa, Kenya\",\"landing_point_id\":5896},{\"latlon\":\"-11.700689,43.243406\",\"name\":\"Moroni, Comoros\",\"landing_point_id\":4227},{\"latlon\":\"-28.950645,31.757858\",\"name\":\"Mtunzini, South Africa\",\"landing_point_id\":5942},{\"latlon\":\"19.615558,37.219700\",\"name\":\"Port Sudan, Sudan\",\"landing_point_id\":5950},{\"latlon\":\"-23.354787,43.663123\",\"name\":\"Toliary, Madagascar\",\"landing_point_id\":7398}]<br>\n<b>name:</b> Eastern Africa Submarine System (EASSy)<br>\n<b>color:</b> #b16f3f<br>\n<b>length:</b> 10,500 km<br>\n<b>rfs:</b> July 2010<br>\n<b>owners:</b> Botswana Telecom,  Telkom South Africa,  Sudan Telecom Company,  Telecom Malagasy,  Tanzania Telecommunications Company Limited,  Zambia Telecom,  Mauritius Telecom,  Vodacom,  MTN Group,  Comores Telecom,  Neotel,  BT,  Etisalat,  Saudi Telecom,  France Telecom,  airtel (Bharti),  WIOCC<br>\n<b>url:</b> <a href=\"http://www.eassy.org\" target=\"_blank\">http://www.eassy.org</a><br>\n<b>col10:</b> \n</div>",
-        "id": "eastern-africa-submarine-system-eassy",
-        "cable_id": 1246,
+       "name": "Eastern Africa Submarine System (EASSy)",
+        "description": "Eastern Africa Submarine System (EASSy)",
         "color": "#b16f3f",
-        "length": "10,500 km",
-        "rfs": "July 2010",
-        "owners": "Botswana Telecom,  Telkom South Africa,  Sudan Telecom Company,  Telecom Malagasy,  Tanzania Telecommunications Company Limited,  Zambia Telecom,  Mauritius Telecom,  Vodacom,  MTN Group,  Comores Telecom,  Neotel,  BT,  Etisalat,  Saudi Telecom,  France Telecom,  airtel (Bharti),  WIOCC",
-        "url": "http://www.eassy.org",
         "": ""
       }
     },
@@ -615,15 +519,9 @@
         ]
       },
       "properties": {
-        "name": "Eastern Africa Submarine System (EASSy)",
-        "description": "<div class=\"googft-info-window\">\n<b>id:</b> eastern-africa-submarine-system-eassy<br>\n<b>cable_id:</b> 1246<br>\n<b>description:</b> [{\"latlon\":\"-6.823198,39.269697\",\"name\":\"Dar Es Salaam, Tanzania\",\"landing_point_id\":4182},{\"latlon\":\"11.594657,43.148039\",\"name\":\"Djibouti City, Djibouti\",\"landing_point_id\":4177},{\"latlon\":\"-25.968556,32.580627\",\"name\":\"Maputo, Mozambique\",\"landing_point_id\":4252},{\"latlon\":\"2.041152,45.344200\",\"name\":\"Mogadishu, Somalia\",\"landing_point_id\":4255},{\"latlon\":\"-4.053227,39.672850\",\"name\":\"Mombasa, Kenya\",\"landing_point_id\":5896},{\"latlon\":\"-11.700689,43.243406\",\"name\":\"Moroni, Comoros\",\"landing_point_id\":4227},{\"latlon\":\"-28.950645,31.757858\",\"name\":\"Mtunzini, South Africa\",\"landing_point_id\":5942},{\"latlon\":\"19.615558,37.219700\",\"name\":\"Port Sudan, Sudan\",\"landing_point_id\":5950},{\"latlon\":\"-23.354787,43.663123\",\"name\":\"Toliary, Madagascar\",\"landing_point_id\":7398}]<br>\n<b>name:</b> Eastern Africa Submarine System (EASSy)<br>\n<b>color:</b> #b16f3f<br>\n<b>length:</b> 10,500 km<br>\n<b>rfs:</b> July 2010<br>\n<b>owners:</b> Botswana Telecom,  Telkom South Africa,  Sudan Telecom Company,  Telecom Malagasy,  Tanzania Telecommunications Company Limited,  Zambia Telecom,  Mauritius Telecom,  Vodacom,  MTN Group,  Comores Telecom,  Neotel,  BT,  Etisalat,  Saudi Telecom,  France Telecom,  airtel (Bharti),  WIOCC<br>\n<b>url:</b> <a href=\"http://www.eassy.org\" target=\"_blank\">http://www.eassy.org</a><br>\n<b>col10:</b> \n</div>",
-        "id": "eastern-africa-submarine-system-eassy",
-        "cable_id": 1246,
+       "name": "Eastern Africa Submarine System (EASSy)",
+        "description": "Eastern Africa Submarine System (EASSy)",
         "color": "#b16f3f",
-        "length": "10,500 km",
-        "rfs": "July 2010",
-        "owners": "Botswana Telecom,  Telkom South Africa,  Sudan Telecom Company,  Telecom Malagasy,  Tanzania Telecommunications Company Limited,  Zambia Telecom,  Mauritius Telecom,  Vodacom,  MTN Group,  Comores Telecom,  Neotel,  BT,  Etisalat,  Saudi Telecom,  France Telecom,  airtel (Bharti),  WIOCC",
-        "url": "http://www.eassy.org",
         "": ""
       }
     },
@@ -645,15 +543,9 @@
         ]
       },
       "properties": {
-        "name": "Eastern Africa Submarine System (EASSy)",
-        "description": "<div class=\"googft-info-window\">\n<b>id:</b> eastern-africa-submarine-system-eassy<br>\n<b>cable_id:</b> 1246<br>\n<b>description:</b> [{\"latlon\":\"-6.823198,39.269697\",\"name\":\"Dar Es Salaam, Tanzania\",\"landing_point_id\":4182},{\"latlon\":\"11.594657,43.148039\",\"name\":\"Djibouti City, Djibouti\",\"landing_point_id\":4177},{\"latlon\":\"-25.968556,32.580627\",\"name\":\"Maputo, Mozambique\",\"landing_point_id\":4252},{\"latlon\":\"2.041152,45.344200\",\"name\":\"Mogadishu, Somalia\",\"landing_point_id\":4255},{\"latlon\":\"-4.053227,39.672850\",\"name\":\"Mombasa, Kenya\",\"landing_point_id\":5896},{\"latlon\":\"-11.700689,43.243406\",\"name\":\"Moroni, Comoros\",\"landing_point_id\":4227},{\"latlon\":\"-28.950645,31.757858\",\"name\":\"Mtunzini, South Africa\",\"landing_point_id\":5942},{\"latlon\":\"19.615558,37.219700\",\"name\":\"Port Sudan, Sudan\",\"landing_point_id\":5950},{\"latlon\":\"-23.354787,43.663123\",\"name\":\"Toliary, Madagascar\",\"landing_point_id\":7398}]<br>\n<b>name:</b> Eastern Africa Submarine System (EASSy)<br>\n<b>color:</b> #b16f3f<br>\n<b>length:</b> 10,500 km<br>\n<b>rfs:</b> July 2010<br>\n<b>owners:</b> Botswana Telecom,  Telkom South Africa,  Sudan Telecom Company,  Telecom Malagasy,  Tanzania Telecommunications Company Limited,  Zambia Telecom,  Mauritius Telecom,  Vodacom,  MTN Group,  Comores Telecom,  Neotel,  BT,  Etisalat,  Saudi Telecom,  France Telecom,  airtel (Bharti),  WIOCC<br>\n<b>url:</b> <a href=\"http://www.eassy.org\" target=\"_blank\">http://www.eassy.org</a><br>\n<b>col10:</b> \n</div>",
-        "id": "eastern-africa-submarine-system-eassy",
-        "cable_id": 1246,
+       "name": "Eastern Africa Submarine System (EASSy)",
+        "description": "Eastern Africa Submarine System (EASSy)",
         "color": "#b16f3f",
-        "length": "10,500 km",
-        "rfs": "July 2010",
-        "owners": "Botswana Telecom,  Telkom South Africa,  Sudan Telecom Company,  Telecom Malagasy,  Tanzania Telecommunications Company Limited,  Zambia Telecom,  Mauritius Telecom,  Vodacom,  MTN Group,  Comores Telecom,  Neotel,  BT,  Etisalat,  Saudi Telecom,  France Telecom,  airtel (Bharti),  WIOCC",
-        "url": "http://www.eassy.org",
         "": ""
       }
     },
@@ -675,15 +567,9 @@
         ]
       },
       "properties": {
-        "name": "Eastern Africa Submarine System (EASSy)",
-        "description": "<div class=\"googft-info-window\">\n<b>id:</b> eastern-africa-submarine-system-eassy<br>\n<b>cable_id:</b> 1246<br>\n<b>description:</b> [{\"latlon\":\"-6.823198,39.269697\",\"name\":\"Dar Es Salaam, Tanzania\",\"landing_point_id\":4182},{\"latlon\":\"11.594657,43.148039\",\"name\":\"Djibouti City, Djibouti\",\"landing_point_id\":4177},{\"latlon\":\"-25.968556,32.580627\",\"name\":\"Maputo, Mozambique\",\"landing_point_id\":4252},{\"latlon\":\"2.041152,45.344200\",\"name\":\"Mogadishu, Somalia\",\"landing_point_id\":4255},{\"latlon\":\"-4.053227,39.672850\",\"name\":\"Mombasa, Kenya\",\"landing_point_id\":5896},{\"latlon\":\"-11.700689,43.243406\",\"name\":\"Moroni, Comoros\",\"landing_point_id\":4227},{\"latlon\":\"-28.950645,31.757858\",\"name\":\"Mtunzini, South Africa\",\"landing_point_id\":5942},{\"latlon\":\"19.615558,37.219700\",\"name\":\"Port Sudan, Sudan\",\"landing_point_id\":5950},{\"latlon\":\"-23.354787,43.663123\",\"name\":\"Toliary, Madagascar\",\"landing_point_id\":7398}]<br>\n<b>name:</b> Eastern Africa Submarine System (EASSy)<br>\n<b>color:</b> #b16f3f<br>\n<b>length:</b> 10,500 km<br>\n<b>rfs:</b> July 2010<br>\n<b>owners:</b> Botswana Telecom,  Telkom South Africa,  Sudan Telecom Company,  Telecom Malagasy,  Tanzania Telecommunications Company Limited,  Zambia Telecom,  Mauritius Telecom,  Vodacom,  MTN Group,  Comores Telecom,  Neotel,  BT,  Etisalat,  Saudi Telecom,  France Telecom,  airtel (Bharti),  WIOCC<br>\n<b>url:</b> <a href=\"http://www.eassy.org\" target=\"_blank\">http://www.eassy.org</a><br>\n<b>col10:</b> \n</div>",
-        "id": "eastern-africa-submarine-system-eassy",
-        "cable_id": 1246,
+       "name": "Eastern Africa Submarine System (EASSy)",
+        "description": "Eastern Africa Submarine System (EASSy)",
         "color": "#b16f3f",
-        "length": "10,500 km",
-        "rfs": "July 2010",
-        "owners": "Botswana Telecom,  Telkom South Africa,  Sudan Telecom Company,  Telecom Malagasy,  Tanzania Telecommunications Company Limited,  Zambia Telecom,  Mauritius Telecom,  Vodacom,  MTN Group,  Comores Telecom,  Neotel,  BT,  Etisalat,  Saudi Telecom,  France Telecom,  airtel (Bharti),  WIOCC",
-        "url": "http://www.eassy.org",
         "": ""
       }
     },
@@ -706,14 +592,8 @@
       },
       "properties": {
         "name": "Eastern Africa Submarine System (EASSy)",
-        "description": "<div class=\"googft-info-window\">\n<b>id:</b> eastern-africa-submarine-system-eassy<br>\n<b>cable_id:</b> 1246<br>\n<b>description:</b> [{\"latlon\":\"-6.823198,39.269697\",\"name\":\"Dar Es Salaam, Tanzania\",\"landing_point_id\":4182},{\"latlon\":\"11.594657,43.148039\",\"name\":\"Djibouti City, Djibouti\",\"landing_point_id\":4177},{\"latlon\":\"-25.968556,32.580627\",\"name\":\"Maputo, Mozambique\",\"landing_point_id\":4252},{\"latlon\":\"2.041152,45.344200\",\"name\":\"Mogadishu, Somalia\",\"landing_point_id\":4255},{\"latlon\":\"-4.053227,39.672850\",\"name\":\"Mombasa, Kenya\",\"landing_point_id\":5896},{\"latlon\":\"-11.700689,43.243406\",\"name\":\"Moroni, Comoros\",\"landing_point_id\":4227},{\"latlon\":\"-28.950645,31.757858\",\"name\":\"Mtunzini, South Africa\",\"landing_point_id\":5942},{\"latlon\":\"19.615558,37.219700\",\"name\":\"Port Sudan, Sudan\",\"landing_point_id\":5950},{\"latlon\":\"-23.354787,43.663123\",\"name\":\"Toliary, Madagascar\",\"landing_point_id\":7398}]<br>\n<b>name:</b> Eastern Africa Submarine System (EASSy)<br>\n<b>color:</b> #b16f3f<br>\n<b>length:</b> 10,500 km<br>\n<b>rfs:</b> July 2010<br>\n<b>owners:</b> Botswana Telecom,  Telkom South Africa,  Sudan Telecom Company,  Telecom Malagasy,  Tanzania Telecommunications Company Limited,  Zambia Telecom,  Mauritius Telecom,  Vodacom,  MTN Group,  Comores Telecom,  Neotel,  BT,  Etisalat,  Saudi Telecom,  France Telecom,  airtel (Bharti),  WIOCC<br>\n<b>url:</b> <a href=\"http://www.eassy.org\" target=\"_blank\">http://www.eassy.org</a><br>\n<b>col10:</b> \n</div>",
-        "id": "eastern-africa-submarine-system-eassy",
-        "cable_id": 1246,
+        "description": "Eastern Africa Submarine System (EASSy)",
         "color": "#b16f3f",
-        "length": "10,500 km",
-        "rfs": "July 2010",
-        "owners": "Botswana Telecom,  Telkom South Africa,  Sudan Telecom Company,  Telecom Malagasy,  Tanzania Telecommunications Company Limited,  Zambia Telecom,  Mauritius Telecom,  Vodacom,  MTN Group,  Comores Telecom,  Neotel,  BT,  Etisalat,  Saudi Telecom,  France Telecom,  airtel (Bharti),  WIOCC",
-        "url": "http://www.eassy.org",
         "": ""
       }
     },
@@ -735,15 +615,9 @@
         ]
       },
       "properties": {
-        "name": "Eastern Africa Submarine System (EASSy)",
-        "description": "<div class=\"googft-info-window\">\n<b>id:</b> eastern-africa-submarine-system-eassy<br>\n<b>cable_id:</b> 1246<br>\n<b>description:</b> [{\"latlon\":\"-6.823198,39.269697\",\"name\":\"Dar Es Salaam, Tanzania\",\"landing_point_id\":4182},{\"latlon\":\"11.594657,43.148039\",\"name\":\"Djibouti City, Djibouti\",\"landing_point_id\":4177},{\"latlon\":\"-25.968556,32.580627\",\"name\":\"Maputo, Mozambique\",\"landing_point_id\":4252},{\"latlon\":\"2.041152,45.344200\",\"name\":\"Mogadishu, Somalia\",\"landing_point_id\":4255},{\"latlon\":\"-4.053227,39.672850\",\"name\":\"Mombasa, Kenya\",\"landing_point_id\":5896},{\"latlon\":\"-11.700689,43.243406\",\"name\":\"Moroni, Comoros\",\"landing_point_id\":4227},{\"latlon\":\"-28.950645,31.757858\",\"name\":\"Mtunzini, South Africa\",\"landing_point_id\":5942},{\"latlon\":\"19.615558,37.219700\",\"name\":\"Port Sudan, Sudan\",\"landing_point_id\":5950},{\"latlon\":\"-23.354787,43.663123\",\"name\":\"Toliary, Madagascar\",\"landing_point_id\":7398}]<br>\n<b>name:</b> Eastern Africa Submarine System (EASSy)<br>\n<b>color:</b> #b16f3f<br>\n<b>length:</b> 10,500 km<br>\n<b>rfs:</b> July 2010<br>\n<b>owners:</b> Botswana Telecom,  Telkom South Africa,  Sudan Telecom Company,  Telecom Malagasy,  Tanzania Telecommunications Company Limited,  Zambia Telecom,  Mauritius Telecom,  Vodacom,  MTN Group,  Comores Telecom,  Neotel,  BT,  Etisalat,  Saudi Telecom,  France Telecom,  airtel (Bharti),  WIOCC<br>\n<b>url:</b> <a href=\"http://www.eassy.org\" target=\"_blank\">http://www.eassy.org</a><br>\n<b>col10:</b> \n</div>",
-        "id": "eastern-africa-submarine-system-eassy",
-        "cable_id": 1246,
+       "name": "Eastern Africa Submarine System (EASSy)",
+        "description": "Eastern Africa Submarine System (EASSy)",
         "color": "#b16f3f",
-        "length": "10,500 km",
-        "rfs": "July 2010",
-        "owners": "Botswana Telecom,  Telkom South Africa,  Sudan Telecom Company,  Telecom Malagasy,  Tanzania Telecommunications Company Limited,  Zambia Telecom,  Mauritius Telecom,  Vodacom,  MTN Group,  Comores Telecom,  Neotel,  BT,  Etisalat,  Saudi Telecom,  France Telecom,  airtel (Bharti),  WIOCC",
-        "url": "http://www.eassy.org",
         "": ""
       }
     },
@@ -770,15 +644,9 @@
         ]
       },
       "properties": {
-        "name": "Eastern Africa Submarine System (EASSy)",
-        "description": "<div class=\"googft-info-window\">\n<b>id:</b> eastern-africa-submarine-system-eassy<br>\n<b>cable_id:</b> 1246<br>\n<b>description:</b> [{\"latlon\":\"-6.823198,39.269697\",\"name\":\"Dar Es Salaam, Tanzania\",\"landing_point_id\":4182},{\"latlon\":\"11.594657,43.148039\",\"name\":\"Djibouti City, Djibouti\",\"landing_point_id\":4177},{\"latlon\":\"-25.968556,32.580627\",\"name\":\"Maputo, Mozambique\",\"landing_point_id\":4252},{\"latlon\":\"2.041152,45.344200\",\"name\":\"Mogadishu, Somalia\",\"landing_point_id\":4255},{\"latlon\":\"-4.053227,39.672850\",\"name\":\"Mombasa, Kenya\",\"landing_point_id\":5896},{\"latlon\":\"-11.700689,43.243406\",\"name\":\"Moroni, Comoros\",\"landing_point_id\":4227},{\"latlon\":\"-28.950645,31.757858\",\"name\":\"Mtunzini, South Africa\",\"landing_point_id\":5942},{\"latlon\":\"19.615558,37.219700\",\"name\":\"Port Sudan, Sudan\",\"landing_point_id\":5950},{\"latlon\":\"-23.354787,43.663123\",\"name\":\"Toliary, Madagascar\",\"landing_point_id\":7398}]<br>\n<b>name:</b> Eastern Africa Submarine System (EASSy)<br>\n<b>color:</b> #b16f3f<br>\n<b>length:</b> 10,500 km<br>\n<b>rfs:</b> July 2010<br>\n<b>owners:</b> Botswana Telecom,  Telkom South Africa,  Sudan Telecom Company,  Telecom Malagasy,  Tanzania Telecommunications Company Limited,  Zambia Telecom,  Mauritius Telecom,  Vodacom,  MTN Group,  Comores Telecom,  Neotel,  BT,  Etisalat,  Saudi Telecom,  France Telecom,  airtel (Bharti),  WIOCC<br>\n<b>url:</b> <a href=\"http://www.eassy.org\" target=\"_blank\">http://www.eassy.org</a><br>\n<b>col10:</b> \n</div>",
-        "id": "eastern-africa-submarine-system-eassy",
-        "cable_id": 1246,
+       "name": "Eastern Africa Submarine System (EASSy)",
+        "description": "Eastern Africa Submarine System (EASSy)",
         "color": "#b16f3f",
-        "length": "10,500 km",
-        "rfs": "July 2010",
-        "owners": "Botswana Telecom,  Telkom South Africa,  Sudan Telecom Company,  Telecom Malagasy,  Tanzania Telecommunications Company Limited,  Zambia Telecom,  Mauritius Telecom,  Vodacom,  MTN Group,  Comores Telecom,  Neotel,  BT,  Etisalat,  Saudi Telecom,  France Telecom,  airtel (Bharti),  WIOCC",
-        "url": "http://www.eassy.org",
         "": ""
       }
     },
@@ -800,15 +668,9 @@
         ]
       },
       "properties": {
-        "name": "Eastern Africa Submarine System (EASSy)",
-        "description": "<div class=\"googft-info-window\">\n<b>id:</b> eastern-africa-submarine-system-eassy<br>\n<b>cable_id:</b> 1246<br>\n<b>description:</b> [{\"latlon\":\"-6.823198,39.269697\",\"name\":\"Dar Es Salaam, Tanzania\",\"landing_point_id\":4182},{\"latlon\":\"11.594657,43.148039\",\"name\":\"Djibouti City, Djibouti\",\"landing_point_id\":4177},{\"latlon\":\"-25.968556,32.580627\",\"name\":\"Maputo, Mozambique\",\"landing_point_id\":4252},{\"latlon\":\"2.041152,45.344200\",\"name\":\"Mogadishu, Somalia\",\"landing_point_id\":4255},{\"latlon\":\"-4.053227,39.672850\",\"name\":\"Mombasa, Kenya\",\"landing_point_id\":5896},{\"latlon\":\"-11.700689,43.243406\",\"name\":\"Moroni, Comoros\",\"landing_point_id\":4227},{\"latlon\":\"-28.950645,31.757858\",\"name\":\"Mtunzini, South Africa\",\"landing_point_id\":5942},{\"latlon\":\"19.615558,37.219700\",\"name\":\"Port Sudan, Sudan\",\"landing_point_id\":5950},{\"latlon\":\"-23.354787,43.663123\",\"name\":\"Toliary, Madagascar\",\"landing_point_id\":7398}]<br>\n<b>name:</b> Eastern Africa Submarine System (EASSy)<br>\n<b>color:</b> #b16f3f<br>\n<b>length:</b> 10,500 km<br>\n<b>rfs:</b> July 2010<br>\n<b>owners:</b> Botswana Telecom,  Telkom South Africa,  Sudan Telecom Company,  Telecom Malagasy,  Tanzania Telecommunications Company Limited,  Zambia Telecom,  Mauritius Telecom,  Vodacom,  MTN Group,  Comores Telecom,  Neotel,  BT,  Etisalat,  Saudi Telecom,  France Telecom,  airtel (Bharti),  WIOCC<br>\n<b>url:</b> <a href=\"http://www.eassy.org\" target=\"_blank\">http://www.eassy.org</a><br>\n<b>col10:</b> \n</div>",
-        "id": "eastern-africa-submarine-system-eassy",
-        "cable_id": 1246,
+       "name": "Eastern Africa Submarine System (EASSy)",
+        "description": "Eastern Africa Submarine System (EASSy)",
         "color": "#b16f3f",
-        "length": "10,500 km",
-        "rfs": "July 2010",
-        "owners": "Botswana Telecom,  Telkom South Africa,  Sudan Telecom Company,  Telecom Malagasy,  Tanzania Telecommunications Company Limited,  Zambia Telecom,  Mauritius Telecom,  Vodacom,  MTN Group,  Comores Telecom,  Neotel,  BT,  Etisalat,  Saudi Telecom,  France Telecom,  airtel (Bharti),  WIOCC",
-        "url": "http://www.eassy.org",
         "": ""
       }
     },
@@ -835,15 +697,9 @@
         ]
       },
       "properties": {
-        "name": "Eastern Africa Submarine System (EASSy)",
-        "description": "<div class=\"googft-info-window\">\n<b>id:</b> eastern-africa-submarine-system-eassy<br>\n<b>cable_id:</b> 1246<br>\n<b>description:</b> [{\"latlon\":\"-6.823198,39.269697\",\"name\":\"Dar Es Salaam, Tanzania\",\"landing_point_id\":4182},{\"latlon\":\"11.594657,43.148039\",\"name\":\"Djibouti City, Djibouti\",\"landing_point_id\":4177},{\"latlon\":\"-25.968556,32.580627\",\"name\":\"Maputo, Mozambique\",\"landing_point_id\":4252},{\"latlon\":\"2.041152,45.344200\",\"name\":\"Mogadishu, Somalia\",\"landing_point_id\":4255},{\"latlon\":\"-4.053227,39.672850\",\"name\":\"Mombasa, Kenya\",\"landing_point_id\":5896},{\"latlon\":\"-11.700689,43.243406\",\"name\":\"Moroni, Comoros\",\"landing_point_id\":4227},{\"latlon\":\"-28.950645,31.757858\",\"name\":\"Mtunzini, South Africa\",\"landing_point_id\":5942},{\"latlon\":\"19.615558,37.219700\",\"name\":\"Port Sudan, Sudan\",\"landing_point_id\":5950},{\"latlon\":\"-23.354787,43.663123\",\"name\":\"Toliary, Madagascar\",\"landing_point_id\":7398}]<br>\n<b>name:</b> Eastern Africa Submarine System (EASSy)<br>\n<b>color:</b> #b16f3f<br>\n<b>length:</b> 10,500 km<br>\n<b>rfs:</b> July 2010<br>\n<b>owners:</b> Botswana Telecom,  Telkom South Africa,  Sudan Telecom Company,  Telecom Malagasy,  Tanzania Telecommunications Company Limited,  Zambia Telecom,  Mauritius Telecom,  Vodacom,  MTN Group,  Comores Telecom,  Neotel,  BT,  Etisalat,  Saudi Telecom,  France Telecom,  airtel (Bharti),  WIOCC<br>\n<b>url:</b> <a href=\"http://www.eassy.org\" target=\"_blank\">http://www.eassy.org</a><br>\n<b>col10:</b> \n</div>",
-        "id": "eastern-africa-submarine-system-eassy",
-        "cable_id": 1246,
+       "name": "Eastern Africa Submarine System (EASSy)",
+        "description": "Eastern Africa Submarine System (EASSy)",
         "color": "#b16f3f",
-        "length": "10,500 km",
-        "rfs": "July 2010",
-        "owners": "Botswana Telecom,  Telkom South Africa,  Sudan Telecom Company,  Telecom Malagasy,  Tanzania Telecommunications Company Limited,  Zambia Telecom,  Mauritius Telecom,  Vodacom,  MTN Group,  Comores Telecom,  Neotel,  BT,  Etisalat,  Saudi Telecom,  France Telecom,  airtel (Bharti),  WIOCC",
-        "url": "http://www.eassy.org",
         "": ""
       }
     },
@@ -866,14 +722,8 @@
       },
       "properties": {
         "name": "Eastern Africa Submarine System (EASSy)",
-        "description": "<div class=\"googft-info-window\">\n<b>id:</b> eastern-africa-submarine-system-eassy<br>\n<b>cable_id:</b> 1246<br>\n<b>description:</b> [{\"latlon\":\"-6.823198,39.269697\",\"name\":\"Dar Es Salaam, Tanzania\",\"landing_point_id\":4182},{\"latlon\":\"11.594657,43.148039\",\"name\":\"Djibouti City, Djibouti\",\"landing_point_id\":4177},{\"latlon\":\"-25.968556,32.580627\",\"name\":\"Maputo, Mozambique\",\"landing_point_id\":4252},{\"latlon\":\"2.041152,45.344200\",\"name\":\"Mogadishu, Somalia\",\"landing_point_id\":4255},{\"latlon\":\"-4.053227,39.672850\",\"name\":\"Mombasa, Kenya\",\"landing_point_id\":5896},{\"latlon\":\"-11.700689,43.243406\",\"name\":\"Moroni, Comoros\",\"landing_point_id\":4227},{\"latlon\":\"-28.950645,31.757858\",\"name\":\"Mtunzini, South Africa\",\"landing_point_id\":5942},{\"latlon\":\"19.615558,37.219700\",\"name\":\"Port Sudan, Sudan\",\"landing_point_id\":5950},{\"latlon\":\"-23.354787,43.663123\",\"name\":\"Toliary, Madagascar\",\"landing_point_id\":7398}]<br>\n<b>name:</b> Eastern Africa Submarine System (EASSy)<br>\n<b>color:</b> #b16f3f<br>\n<b>length:</b> 10,500 km<br>\n<b>rfs:</b> July 2010<br>\n<b>owners:</b> Botswana Telecom,  Telkom South Africa,  Sudan Telecom Company,  Telecom Malagasy,  Tanzania Telecommunications Company Limited,  Zambia Telecom,  Mauritius Telecom,  Vodacom,  MTN Group,  Comores Telecom,  Neotel,  BT,  Etisalat,  Saudi Telecom,  France Telecom,  airtel (Bharti),  WIOCC<br>\n<b>url:</b> <a href=\"http://www.eassy.org\" target=\"_blank\">http://www.eassy.org</a><br>\n<b>col10:</b> \n</div>",
-        "id": "eastern-africa-submarine-system-eassy",
-        "cable_id": 1246,
+        "description": "Eastern Africa Submarine System (EASSy)",
         "color": "#b16f3f",
-        "length": "10,500 km",
-        "rfs": "July 2010",
-        "owners": "Botswana Telecom,  Telkom South Africa,  Sudan Telecom Company,  Telecom Malagasy,  Tanzania Telecommunications Company Limited,  Zambia Telecom,  Mauritius Telecom,  Vodacom,  MTN Group,  Comores Telecom,  Neotel,  BT,  Etisalat,  Saudi Telecom,  France Telecom,  airtel (Bharti),  WIOCC",
-        "url": "http://www.eassy.org",
         "": ""
       }
     },
@@ -895,15 +745,9 @@
         ]
       },
       "properties": {
-        "name": "Eastern Africa Submarine System (EASSy)",
-        "description": "<div class=\"googft-info-window\">\n<b>id:</b> eastern-africa-submarine-system-eassy<br>\n<b>cable_id:</b> 1246<br>\n<b>description:</b> [{\"latlon\":\"-6.823198,39.269697\",\"name\":\"Dar Es Salaam, Tanzania\",\"landing_point_id\":4182},{\"latlon\":\"11.594657,43.148039\",\"name\":\"Djibouti City, Djibouti\",\"landing_point_id\":4177},{\"latlon\":\"-25.968556,32.580627\",\"name\":\"Maputo, Mozambique\",\"landing_point_id\":4252},{\"latlon\":\"2.041152,45.344200\",\"name\":\"Mogadishu, Somalia\",\"landing_point_id\":4255},{\"latlon\":\"-4.053227,39.672850\",\"name\":\"Mombasa, Kenya\",\"landing_point_id\":5896},{\"latlon\":\"-11.700689,43.243406\",\"name\":\"Moroni, Comoros\",\"landing_point_id\":4227},{\"latlon\":\"-28.950645,31.757858\",\"name\":\"Mtunzini, South Africa\",\"landing_point_id\":5942},{\"latlon\":\"19.615558,37.219700\",\"name\":\"Port Sudan, Sudan\",\"landing_point_id\":5950},{\"latlon\":\"-23.354787,43.663123\",\"name\":\"Toliary, Madagascar\",\"landing_point_id\":7398}]<br>\n<b>name:</b> Eastern Africa Submarine System (EASSy)<br>\n<b>color:</b> #b16f3f<br>\n<b>length:</b> 10,500 km<br>\n<b>rfs:</b> July 2010<br>\n<b>owners:</b> Botswana Telecom,  Telkom South Africa,  Sudan Telecom Company,  Telecom Malagasy,  Tanzania Telecommunications Company Limited,  Zambia Telecom,  Mauritius Telecom,  Vodacom,  MTN Group,  Comores Telecom,  Neotel,  BT,  Etisalat,  Saudi Telecom,  France Telecom,  airtel (Bharti),  WIOCC<br>\n<b>url:</b> <a href=\"http://www.eassy.org\" target=\"_blank\">http://www.eassy.org</a><br>\n<b>col10:</b> \n</div>",
-        "id": "eastern-africa-submarine-system-eassy",
-        "cable_id": 1246,
+       "name": "Eastern Africa Submarine System (EASSy)",
+        "description": "Eastern Africa Submarine System (EASSy)",
         "color": "#b16f3f",
-        "length": "10,500 km",
-        "rfs": "July 2010",
-        "owners": "Botswana Telecom,  Telkom South Africa,  Sudan Telecom Company,  Telecom Malagasy,  Tanzania Telecommunications Company Limited,  Zambia Telecom,  Mauritius Telecom,  Vodacom,  MTN Group,  Comores Telecom,  Neotel,  BT,  Etisalat,  Saudi Telecom,  France Telecom,  airtel (Bharti),  WIOCC",
-        "url": "http://www.eassy.org",
         "": ""
       }
     },
@@ -986,14 +830,8 @@
       },
       "properties": {
         "name": "Eastern Africa Submarine System (EASSy)",
-        "description": "<div class=\"googft-info-window\">\n<b>id:</b> eastern-africa-submarine-system-eassy<br>\n<b>cable_id:</b> 1246<br>\n<b>description:</b> [{\"latlon\":\"-6.823198,39.269697\",\"name\":\"Dar Es Salaam, Tanzania\",\"landing_point_id\":4182},{\"latlon\":\"11.594657,43.148039\",\"name\":\"Djibouti City, Djibouti\",\"landing_point_id\":4177},{\"latlon\":\"-25.968556,32.580627\",\"name\":\"Maputo, Mozambique\",\"landing_point_id\":4252},{\"latlon\":\"2.041152,45.344200\",\"name\":\"Mogadishu, Somalia\",\"landing_point_id\":4255},{\"latlon\":\"-4.053227,39.672850\",\"name\":\"Mombasa, Kenya\",\"landing_point_id\":5896},{\"latlon\":\"-11.700689,43.243406\",\"name\":\"Moroni, Comoros\",\"landing_point_id\":4227},{\"latlon\":\"-28.950645,31.757858\",\"name\":\"Mtunzini, South Africa\",\"landing_point_id\":5942},{\"latlon\":\"19.615558,37.219700\",\"name\":\"Port Sudan, Sudan\",\"landing_point_id\":5950},{\"latlon\":\"-23.354787,43.663123\",\"name\":\"Toliary, Madagascar\",\"landing_point_id\":7398}]<br>\n<b>name:</b> Eastern Africa Submarine System (EASSy)<br>\n<b>color:</b> #b16f3f<br>\n<b>length:</b> 10,500 km<br>\n<b>rfs:</b> July 2010<br>\n<b>owners:</b> Botswana Telecom,  Telkom South Africa,  Sudan Telecom Company,  Telecom Malagasy,  Tanzania Telecommunications Company Limited,  Zambia Telecom,  Mauritius Telecom,  Vodacom,  MTN Group,  Comores Telecom,  Neotel,  BT,  Etisalat,  Saudi Telecom,  France Telecom,  airtel (Bharti),  WIOCC<br>\n<b>url:</b> <a href=\"http://www.eassy.org\" target=\"_blank\">http://www.eassy.org</a><br>\n<b>col10:</b> \n</div>",
-        "id": "eastern-africa-submarine-system-eassy",
-        "cable_id": 1246,
+        "description": "Eastern Africa Submarine System (EASSy)",
         "color": "#b16f3f",
-        "length": "10,500 km",
-        "rfs": "July 2010",
-        "owners": "Botswana Telecom,  Telkom South Africa,  Sudan Telecom Company,  Telecom Malagasy,  Tanzania Telecommunications Company Limited,  Zambia Telecom,  Mauritius Telecom,  Vodacom,  MTN Group,  Comores Telecom,  Neotel,  BT,  Etisalat,  Saudi Telecom,  France Telecom,  airtel (Bharti),  WIOCC",
-        "url": "http://www.eassy.org",
         "": ""
       }
     },
@@ -1016,14 +854,8 @@
       },
       "properties": {
         "name": "SAFE",
-        "description": "<div class=\"googft-info-window\">\n<b>id:</b> safe<br>\n<b>cable_id:</b> 1220<br>\n<b>description:</b> [{\"latlon\":\"-20.473988,57.485374\",\"name\":\"Baie Jacotet, Mauritius\",\"landing_point_id\":5906},{\"latlon\":\"9.938075,76.269541\",\"name\":\"Cochin, India\",\"landing_point_id\":4322},{\"latlon\":\"-33.727247,18.445772\",\"name\":\"Melkbosstrand, South Africa\",\"landing_point_id\":5941},{\"latlon\":\"-28.950645,31.757858\",\"name\":\"Mtunzini, South Africa\",\"landing_point_id\":5942},{\"latlon\":\"5.353613,100.362961\",\"name\":\"Penang, Malaysia\",\"landing_point_id\":3307},{\"latlon\":\"-21.000216,55.279174\",\"name\":\"Saint Paul, Réunion\",\"landing_point_id\":5978}]<br>\n<b>name:</b> SAFE<br>\n<b>color:</b> #8cc751<br>\n<b>length:</b> 13,500 km<br>\n<b>rfs:</b> April 2002<br>\n<b>owners:</b> France Telecom,  Telekom Malaysia,  Telkom South Africa,  Tata Communications,  AT&amp;T,  BT,  Camtel,  Angola Telecom,  Ghana Telecommunications Company,  Mauritius Telecom,  Verizon Business,  Nitel,  OPT,  Telefonica,  Belgacom,  China Telecom,  Chunghwa Telecom,  Cote d’Ivoire Telecom,  Maroc Telecom,  KT,  KPN,  SingTel,  Sprint,  Telecom Italia Sparkle,  Telecom Namibia,  Telstra,  PCCW,  Sonatel,  Neotel,  Vodafone<br>\n<b>url:</b> <a href=\"http://www.safe-sat3.co.za\" target=\"_blank\">http://www.safe-sat3.co.za</a><br>\n<b>col10:</b> \n</div>",
-        "id": "safe",
-        "cable_id": 1220,
-        "color": "#8cc751",
-        "length": "13,500 km",
-        "rfs": "April 2002",
-        "owners": "France Telecom,  Telekom Malaysia,  Telkom South Africa,  Tata Communications,  AT&T,  BT,  Camtel,  Angola Telecom,  Ghana Telecommunications Company,  Mauritius Telecom,  Verizon Business,  Nitel,  OPT,  Telefonica,  Belgacom,  China Telecom,  Chunghwa Telecom,  Cote d’Ivoire Telecom,  Maroc Telecom,  KT,  KPN,  SingTel,  Sprint,  Telecom Italia Sparkle,  Telecom Namibia,  Telstra,  PCCW,  Sonatel,  Neotel,  Vodafone",
-        "url": "http://www.safe-sat3.co.za",
+        "description": "SAFE",
+        "color": "#8cc751",      
         "": ""
       }
     },
@@ -1045,15 +877,9 @@
         ]
       },
       "properties": {
-        "name": "SAFE",
-        "description": "<div class=\"googft-info-window\">\n<b>id:</b> safe<br>\n<b>cable_id:</b> 1220<br>\n<b>description:</b> [{\"latlon\":\"-20.473988,57.485374\",\"name\":\"Baie Jacotet, Mauritius\",\"landing_point_id\":5906},{\"latlon\":\"9.938075,76.269541\",\"name\":\"Cochin, India\",\"landing_point_id\":4322},{\"latlon\":\"-33.727247,18.445772\",\"name\":\"Melkbosstrand, South Africa\",\"landing_point_id\":5941},{\"latlon\":\"-28.950645,31.757858\",\"name\":\"Mtunzini, South Africa\",\"landing_point_id\":5942},{\"latlon\":\"5.353613,100.362961\",\"name\":\"Penang, Malaysia\",\"landing_point_id\":3307},{\"latlon\":\"-21.000216,55.279174\",\"name\":\"Saint Paul, Réunion\",\"landing_point_id\":5978}]<br>\n<b>name:</b> SAFE<br>\n<b>color:</b> #8cc751<br>\n<b>length:</b> 13,500 km<br>\n<b>rfs:</b> April 2002<br>\n<b>owners:</b> France Telecom,  Telekom Malaysia,  Telkom South Africa,  Tata Communications,  AT&amp;T,  BT,  Camtel,  Angola Telecom,  Ghana Telecommunications Company,  Mauritius Telecom,  Verizon Business,  Nitel,  OPT,  Telefonica,  Belgacom,  China Telecom,  Chunghwa Telecom,  Cote d’Ivoire Telecom,  Maroc Telecom,  KT,  KPN,  SingTel,  Sprint,  Telecom Italia Sparkle,  Telecom Namibia,  Telstra,  PCCW,  Sonatel,  Neotel,  Vodafone<br>\n<b>url:</b> <a href=\"http://www.safe-sat3.co.za\" target=\"_blank\">http://www.safe-sat3.co.za</a><br>\n<b>col10:</b> \n</div>",
-        "id": "safe",
-        "cable_id": 1220,
-        "color": "#8cc751",
-        "length": "13,500 km",
-        "rfs": "April 2002",
-        "owners": "France Telecom,  Telekom Malaysia,  Telkom South Africa,  Tata Communications,  AT&T,  BT,  Camtel,  Angola Telecom,  Ghana Telecommunications Company,  Mauritius Telecom,  Verizon Business,  Nitel,  OPT,  Telefonica,  Belgacom,  China Telecom,  Chunghwa Telecom,  Cote d’Ivoire Telecom,  Maroc Telecom,  KT,  KPN,  SingTel,  Sprint,  Telecom Italia Sparkle,  Telecom Namibia,  Telstra,  PCCW,  Sonatel,  Neotel,  Vodafone",
-        "url": "http://www.safe-sat3.co.za",
+       "name": "SAFE",
+        "description": "SAFE",
+        "color": "#8cc751",  
         "": ""
       }
     },
@@ -1100,15 +926,9 @@
         ]
       },
       "properties": {
-        "name": "SAFE",
-        "description": "<div class=\"googft-info-window\">\n<b>id:</b> safe<br>\n<b>cable_id:</b> 1220<br>\n<b>description:</b> [{\"latlon\":\"-20.473988,57.485374\",\"name\":\"Baie Jacotet, Mauritius\",\"landing_point_id\":5906},{\"latlon\":\"9.938075,76.269541\",\"name\":\"Cochin, India\",\"landing_point_id\":4322},{\"latlon\":\"-33.727247,18.445772\",\"name\":\"Melkbosstrand, South Africa\",\"landing_point_id\":5941},{\"latlon\":\"-28.950645,31.757858\",\"name\":\"Mtunzini, South Africa\",\"landing_point_id\":5942},{\"latlon\":\"5.353613,100.362961\",\"name\":\"Penang, Malaysia\",\"landing_point_id\":3307},{\"latlon\":\"-21.000216,55.279174\",\"name\":\"Saint Paul, Réunion\",\"landing_point_id\":5978}]<br>\n<b>name:</b> SAFE<br>\n<b>color:</b> #8cc751<br>\n<b>length:</b> 13,500 km<br>\n<b>rfs:</b> April 2002<br>\n<b>owners:</b> France Telecom,  Telekom Malaysia,  Telkom South Africa,  Tata Communications,  AT&amp;T,  BT,  Camtel,  Angola Telecom,  Ghana Telecommunications Company,  Mauritius Telecom,  Verizon Business,  Nitel,  OPT,  Telefonica,  Belgacom,  China Telecom,  Chunghwa Telecom,  Cote d’Ivoire Telecom,  Maroc Telecom,  KT,  KPN,  SingTel,  Sprint,  Telecom Italia Sparkle,  Telecom Namibia,  Telstra,  PCCW,  Sonatel,  Neotel,  Vodafone<br>\n<b>url:</b> <a href=\"http://www.safe-sat3.co.za\" target=\"_blank\">http://www.safe-sat3.co.za</a><br>\n<b>col10:</b> \n</div>",
-        "id": "safe",
-        "cable_id": 1220,
-        "color": "#8cc751",
-        "length": "13,500 km",
-        "rfs": "April 2002",
-        "owners": "France Telecom,  Telekom Malaysia,  Telkom South Africa,  Tata Communications,  AT&T,  BT,  Camtel,  Angola Telecom,  Ghana Telecommunications Company,  Mauritius Telecom,  Verizon Business,  Nitel,  OPT,  Telefonica,  Belgacom,  China Telecom,  Chunghwa Telecom,  Cote d’Ivoire Telecom,  Maroc Telecom,  KT,  KPN,  SingTel,  Sprint,  Telecom Italia Sparkle,  Telecom Namibia,  Telstra,  PCCW,  Sonatel,  Neotel,  Vodafone",
-        "url": "http://www.safe-sat3.co.za",
+       "name": "SAFE",
+        "description": "SAFE",
+        "color": "#8cc751",  
         "": ""
       }
     },
@@ -1140,15 +960,9 @@
         ]
       },
       "properties": {
-        "name": "SAFE",
-        "description": "<div class=\"googft-info-window\">\n<b>id:</b> safe<br>\n<b>cable_id:</b> 1220<br>\n<b>description:</b> [{\"latlon\":\"-20.473988,57.485374\",\"name\":\"Baie Jacotet, Mauritius\",\"landing_point_id\":5906},{\"latlon\":\"9.938075,76.269541\",\"name\":\"Cochin, India\",\"landing_point_id\":4322},{\"latlon\":\"-33.727247,18.445772\",\"name\":\"Melkbosstrand, South Africa\",\"landing_point_id\":5941},{\"latlon\":\"-28.950645,31.757858\",\"name\":\"Mtunzini, South Africa\",\"landing_point_id\":5942},{\"latlon\":\"5.353613,100.362961\",\"name\":\"Penang, Malaysia\",\"landing_point_id\":3307},{\"latlon\":\"-21.000216,55.279174\",\"name\":\"Saint Paul, Réunion\",\"landing_point_id\":5978}]<br>\n<b>name:</b> SAFE<br>\n<b>color:</b> #8cc751<br>\n<b>length:</b> 13,500 km<br>\n<b>rfs:</b> April 2002<br>\n<b>owners:</b> France Telecom,  Telekom Malaysia,  Telkom South Africa,  Tata Communications,  AT&amp;T,  BT,  Camtel,  Angola Telecom,  Ghana Telecommunications Company,  Mauritius Telecom,  Verizon Business,  Nitel,  OPT,  Telefonica,  Belgacom,  China Telecom,  Chunghwa Telecom,  Cote d’Ivoire Telecom,  Maroc Telecom,  KT,  KPN,  SingTel,  Sprint,  Telecom Italia Sparkle,  Telecom Namibia,  Telstra,  PCCW,  Sonatel,  Neotel,  Vodafone<br>\n<b>url:</b> <a href=\"http://www.safe-sat3.co.za\" target=\"_blank\">http://www.safe-sat3.co.za</a><br>\n<b>col10:</b> \n</div>",
-        "id": "safe",
-        "cable_id": 1220,
-        "color": "#8cc751",
-        "length": "13,500 km",
-        "rfs": "April 2002",
-        "owners": "France Telecom,  Telekom Malaysia,  Telkom South Africa,  Tata Communications,  AT&T,  BT,  Camtel,  Angola Telecom,  Ghana Telecommunications Company,  Mauritius Telecom,  Verizon Business,  Nitel,  OPT,  Telefonica,  Belgacom,  China Telecom,  Chunghwa Telecom,  Cote d’Ivoire Telecom,  Maroc Telecom,  KT,  KPN,  SingTel,  Sprint,  Telecom Italia Sparkle,  Telecom Namibia,  Telstra,  PCCW,  Sonatel,  Neotel,  Vodafone",
-        "url": "http://www.safe-sat3.co.za",
+       "name": "SAFE",
+        "description": "SAFE",
+        "color": "#8cc751",  
         "": ""
       }
     },
@@ -1186,14 +1000,8 @@
       },
       "properties": {
         "name": "SAFE",
-        "description": "<div class=\"googft-info-window\">\n<b>id:</b> safe<br>\n<b>cable_id:</b> 1220<br>\n<b>description:</b> [{\"latlon\":\"-20.473988,57.485374\",\"name\":\"Baie Jacotet, Mauritius\",\"landing_point_id\":5906},{\"latlon\":\"9.938075,76.269541\",\"name\":\"Cochin, India\",\"landing_point_id\":4322},{\"latlon\":\"-33.727247,18.445772\",\"name\":\"Melkbosstrand, South Africa\",\"landing_point_id\":5941},{\"latlon\":\"-28.950645,31.757858\",\"name\":\"Mtunzini, South Africa\",\"landing_point_id\":5942},{\"latlon\":\"5.353613,100.362961\",\"name\":\"Penang, Malaysia\",\"landing_point_id\":3307},{\"latlon\":\"-21.000216,55.279174\",\"name\":\"Saint Paul, Réunion\",\"landing_point_id\":5978}]<br>\n<b>name:</b> SAFE<br>\n<b>color:</b> #8cc751<br>\n<b>length:</b> 13,500 km<br>\n<b>rfs:</b> April 2002<br>\n<b>owners:</b> France Telecom,  Telekom Malaysia,  Telkom South Africa,  Tata Communications,  AT&amp;T,  BT,  Camtel,  Angola Telecom,  Ghana Telecommunications Company,  Mauritius Telecom,  Verizon Business,  Nitel,  OPT,  Telefonica,  Belgacom,  China Telecom,  Chunghwa Telecom,  Cote d’Ivoire Telecom,  Maroc Telecom,  KT,  KPN,  SingTel,  Sprint,  Telecom Italia Sparkle,  Telecom Namibia,  Telstra,  PCCW,  Sonatel,  Neotel,  Vodafone<br>\n<b>url:</b> <a href=\"http://www.safe-sat3.co.za\" target=\"_blank\">http://www.safe-sat3.co.za</a><br>\n<b>col10:</b> \n</div>",
-        "id": "safe",
-        "cable_id": 1220,
-        "color": "#8cc751",
-        "length": "13,500 km",
-        "rfs": "April 2002",
-        "owners": "France Telecom,  Telekom Malaysia,  Telkom South Africa,  Tata Communications,  AT&T,  BT,  Camtel,  Angola Telecom,  Ghana Telecommunications Company,  Mauritius Telecom,  Verizon Business,  Nitel,  OPT,  Telefonica,  Belgacom,  China Telecom,  Chunghwa Telecom,  Cote d’Ivoire Telecom,  Maroc Telecom,  KT,  KPN,  SingTel,  Sprint,  Telecom Italia Sparkle,  Telecom Namibia,  Telstra,  PCCW,  Sonatel,  Neotel,  Vodafone",
-        "url": "http://www.safe-sat3.co.za",
+        "description": "SAFE",
+        "color": "#8cc751",  
         "": ""
       }
     },
@@ -1216,15 +1024,8 @@
       },
       "properties": {
         "name": "SEACOM/Tata TGN-Eurasia",
-        "description": "<div class=\"googft-info-window\">\n<b>id:</b> seacomtata-tgn-eurasia<br>\n<b>cable_id:</b> 1552<br>\n<b>description:</b> [{\"latlon\":\"-6.823198,39.269697\",\"name\":\"Dar Es Salaam, Tanzania\",\"landing_point_id\":4182},{\"latlon\":\"11.594657,43.148039\",\"name\":\"Djibouti City, Djibouti\",\"landing_point_id\":4177},{\"latlon\":\"21.481246,39.182762\",\"name\":\"Jeddah, Saudi Arabia\",\"landing_point_id\":4361},{\"latlon\":\"-25.968556,32.580627\",\"name\":\"Maputo, Mozambique\",\"landing_point_id\":4252},{\"latlon\":\"-4.053227,39.672850\",\"name\":\"Mombasa, Kenya\",\"landing_point_id\":5896},{\"latlon\":\"-28.950645,31.757858\",\"name\":\"Mtunzini, South Africa\",\"landing_point_id\":5942},{\"latlon\":\"19.075779,72.875866\",\"name\":\"Mumbai, India\",\"landing_point_id\":3212},{\"latlon\":\"29.116662,32.649894\",\"name\":\"Zafarana, Egypt\",\"landing_point_id\":9486}]<br>\n<b>name:</b> SEACOM/Tata TGN-Eurasia<br>\n<b>color:</b> #00a6e5<br>\n<b>length:</b> 15,000 km<br>\n<b>rfs:</b> July 2009<br>\n<b>owners:</b> Industrial Promotion Services,  Remgro Limited,  Herakles Telecom LLC,  Convergence Partners,  Shanduka,  Tata Communications<br>\n<b>url:</b> <a href=\"http://www.seacom.mu\" target=\"_blank\">http://www.seacom.mu</a><br>\n<b>col10:</b> <a href=\"SEACOM%20wholly%20owns%20the%20East%20African%20portion%20of%20the%20system%20and%20two%20fiber%20pairs%20between%20Egypt%20and%20India.%20Tata%20Communications%20owns%20two%20fiber%20pairs%20from%20Egypt%20to%20India%20and%20the%20branch%20to%20Jeddah,%20which%20the%20company%20refers%20to%20as%20TGN-Eurasia.%20Both%20SEACOM%20and%20Tata%20Communications%20own%20fiber%20pairs%20on%20TE%20North%20for%20connectivity%20across%20Egypt%20to%20Europe.\" target=\"_blank\">SEACOM wholly owns the East African portion of the system and two fiber pairs between Egypt and India. Tata Communications owns two fiber pairs from Egypt to India and the branch to Jeddah, which the company refers to as TGN-Eurasia. Both SEACOM and Tata Communications own fiber pairs on TE North for connectivity across Egypt to Europe.</a>\n</div>",
-        "id": "seacomtata-tgn-eurasia",
-        "cable_id": 1552,
-        "color": "#00a6e5",
-        "length": "15,000 km",
-        "rfs": "July 2009",
-        "owners": "Industrial Promotion Services,  Remgro Limited,  Herakles Telecom LLC,  Convergence Partners,  Shanduka,  Tata Communications",
-        "url": "http://www.seacom.mu",
-        "": "SEACOM wholly owns the East African portion of the system and two fiber pairs between Egypt and India. Tata Communications owns two fiber pairs from Egypt to India and the branch to Jeddah, which the company refers to as TGN-Eurasia. Both SEACOM and Tata Communications own fiber pairs on TE North for connectivity across Egypt to Europe."
+        "description": "SEACOM/Tata TGN-Eurasia",
+        "color": "#00a6e5"
       }
     },
     {
@@ -1245,16 +1046,9 @@
         ]
       },
       "properties": {
-        "name": "SEACOM/Tata TGN-Eurasia",
-        "description": "<div class=\"googft-info-window\">\n<b>id:</b> seacomtata-tgn-eurasia<br>\n<b>cable_id:</b> 1552<br>\n<b>description:</b> [{\"latlon\":\"-6.823198,39.269697\",\"name\":\"Dar Es Salaam, Tanzania\",\"landing_point_id\":4182},{\"latlon\":\"11.594657,43.148039\",\"name\":\"Djibouti City, Djibouti\",\"landing_point_id\":4177},{\"latlon\":\"21.481246,39.182762\",\"name\":\"Jeddah, Saudi Arabia\",\"landing_point_id\":4361},{\"latlon\":\"-25.968556,32.580627\",\"name\":\"Maputo, Mozambique\",\"landing_point_id\":4252},{\"latlon\":\"-4.053227,39.672850\",\"name\":\"Mombasa, Kenya\",\"landing_point_id\":5896},{\"latlon\":\"-28.950645,31.757858\",\"name\":\"Mtunzini, South Africa\",\"landing_point_id\":5942},{\"latlon\":\"19.075779,72.875866\",\"name\":\"Mumbai, India\",\"landing_point_id\":3212},{\"latlon\":\"29.116662,32.649894\",\"name\":\"Zafarana, Egypt\",\"landing_point_id\":9486}]<br>\n<b>name:</b> SEACOM/Tata TGN-Eurasia<br>\n<b>color:</b> #00a6e5<br>\n<b>length:</b> 15,000 km<br>\n<b>rfs:</b> July 2009<br>\n<b>owners:</b> Industrial Promotion Services,  Remgro Limited,  Herakles Telecom LLC,  Convergence Partners,  Shanduka,  Tata Communications<br>\n<b>url:</b> <a href=\"http://www.seacom.mu\" target=\"_blank\">http://www.seacom.mu</a><br>\n<b>col10:</b> <a href=\"SEACOM%20wholly%20owns%20the%20East%20African%20portion%20of%20the%20system%20and%20two%20fiber%20pairs%20between%20Egypt%20and%20India.%20Tata%20Communications%20owns%20two%20fiber%20pairs%20from%20Egypt%20to%20India%20and%20the%20branch%20to%20Jeddah,%20which%20the%20company%20refers%20to%20as%20TGN-Eurasia.%20Both%20SEACOM%20and%20Tata%20Communications%20own%20fiber%20pairs%20on%20TE%20North%20for%20connectivity%20across%20Egypt%20to%20Europe.\" target=\"_blank\">SEACOM wholly owns the East African portion of the system and two fiber pairs between Egypt and India. Tata Communications owns two fiber pairs from Egypt to India and the branch to Jeddah, which the company refers to as TGN-Eurasia. Both SEACOM and Tata Communications own fiber pairs on TE North for connectivity across Egypt to Europe.</a>\n</div>",
-        "id": "seacomtata-tgn-eurasia",
-        "cable_id": 1552,
-        "color": "#00a6e5",
-        "length": "15,000 km",
-        "rfs": "July 2009",
-        "owners": "Industrial Promotion Services,  Remgro Limited,  Herakles Telecom LLC,  Convergence Partners,  Shanduka,  Tata Communications",
-        "url": "http://www.seacom.mu",
-        "": "SEACOM wholly owns the East African portion of the system and two fiber pairs between Egypt and India. Tata Communications owns two fiber pairs from Egypt to India and the branch to Jeddah, which the company refers to as TGN-Eurasia. Both SEACOM and Tata Communications own fiber pairs on TE North for connectivity across Egypt to Europe."
+         "name": "SEACOM/Tata TGN-Eurasia",
+        "description": "SEACOM/Tata TGN-Eurasia",
+        "color": "#00a6e5"
       }
     },
     {
@@ -1286,15 +1080,8 @@
       },
       "properties": {
         "name": "SEACOM/Tata TGN-Eurasia",
-        "description": "<div class=\"googft-info-window\">\n<b>id:</b> seacomtata-tgn-eurasia<br>\n<b>cable_id:</b> 1552<br>\n<b>description:</b> [{\"latlon\":\"-6.823198,39.269697\",\"name\":\"Dar Es Salaam, Tanzania\",\"landing_point_id\":4182},{\"latlon\":\"11.594657,43.148039\",\"name\":\"Djibouti City, Djibouti\",\"landing_point_id\":4177},{\"latlon\":\"21.481246,39.182762\",\"name\":\"Jeddah, Saudi Arabia\",\"landing_point_id\":4361},{\"latlon\":\"-25.968556,32.580627\",\"name\":\"Maputo, Mozambique\",\"landing_point_id\":4252},{\"latlon\":\"-4.053227,39.672850\",\"name\":\"Mombasa, Kenya\",\"landing_point_id\":5896},{\"latlon\":\"-28.950645,31.757858\",\"name\":\"Mtunzini, South Africa\",\"landing_point_id\":5942},{\"latlon\":\"19.075779,72.875866\",\"name\":\"Mumbai, India\",\"landing_point_id\":3212},{\"latlon\":\"29.116662,32.649894\",\"name\":\"Zafarana, Egypt\",\"landing_point_id\":9486}]<br>\n<b>name:</b> SEACOM/Tata TGN-Eurasia<br>\n<b>color:</b> #00a6e5<br>\n<b>length:</b> 15,000 km<br>\n<b>rfs:</b> July 2009<br>\n<b>owners:</b> Industrial Promotion Services,  Remgro Limited,  Herakles Telecom LLC,  Convergence Partners,  Shanduka,  Tata Communications<br>\n<b>url:</b> <a href=\"http://www.seacom.mu\" target=\"_blank\">http://www.seacom.mu</a><br>\n<b>col10:</b> <a href=\"SEACOM%20wholly%20owns%20the%20East%20African%20portion%20of%20the%20system%20and%20two%20fiber%20pairs%20between%20Egypt%20and%20India.%20Tata%20Communications%20owns%20two%20fiber%20pairs%20from%20Egypt%20to%20India%20and%20the%20branch%20to%20Jeddah,%20which%20the%20company%20refers%20to%20as%20TGN-Eurasia.%20Both%20SEACOM%20and%20Tata%20Communications%20own%20fiber%20pairs%20on%20TE%20North%20for%20connectivity%20across%20Egypt%20to%20Europe.\" target=\"_blank\">SEACOM wholly owns the East African portion of the system and two fiber pairs between Egypt and India. Tata Communications owns two fiber pairs from Egypt to India and the branch to Jeddah, which the company refers to as TGN-Eurasia. Both SEACOM and Tata Communications own fiber pairs on TE North for connectivity across Egypt to Europe.</a>\n</div>",
-        "id": "seacomtata-tgn-eurasia",
-        "cable_id": 1552,
-        "color": "#00a6e5",
-        "length": "15,000 km",
-        "rfs": "July 2009",
-        "owners": "Industrial Promotion Services,  Remgro Limited,  Herakles Telecom LLC,  Convergence Partners,  Shanduka,  Tata Communications",
-        "url": "http://www.seacom.mu",
-        "": "SEACOM wholly owns the East African portion of the system and two fiber pairs between Egypt and India. Tata Communications owns two fiber pairs from Egypt to India and the branch to Jeddah, which the company refers to as TGN-Eurasia. Both SEACOM and Tata Communications own fiber pairs on TE North for connectivity across Egypt to Europe."
+        "description": "SEACOM/Tata TGN-Eurasia",
+        "color": "#00a6e5"
       }
     },
     {
@@ -1315,16 +1102,9 @@
         ]
       },
       "properties": {
-        "name": "SEACOM/Tata TGN-Eurasia",
-        "description": "<div class=\"googft-info-window\">\n<b>id:</b> seacomtata-tgn-eurasia<br>\n<b>cable_id:</b> 1552<br>\n<b>description:</b> [{\"latlon\":\"-6.823198,39.269697\",\"name\":\"Dar Es Salaam, Tanzania\",\"landing_point_id\":4182},{\"latlon\":\"11.594657,43.148039\",\"name\":\"Djibouti City, Djibouti\",\"landing_point_id\":4177},{\"latlon\":\"21.481246,39.182762\",\"name\":\"Jeddah, Saudi Arabia\",\"landing_point_id\":4361},{\"latlon\":\"-25.968556,32.580627\",\"name\":\"Maputo, Mozambique\",\"landing_point_id\":4252},{\"latlon\":\"-4.053227,39.672850\",\"name\":\"Mombasa, Kenya\",\"landing_point_id\":5896},{\"latlon\":\"-28.950645,31.757858\",\"name\":\"Mtunzini, South Africa\",\"landing_point_id\":5942},{\"latlon\":\"19.075779,72.875866\",\"name\":\"Mumbai, India\",\"landing_point_id\":3212},{\"latlon\":\"29.116662,32.649894\",\"name\":\"Zafarana, Egypt\",\"landing_point_id\":9486}]<br>\n<b>name:</b> SEACOM/Tata TGN-Eurasia<br>\n<b>color:</b> #00a6e5<br>\n<b>length:</b> 15,000 km<br>\n<b>rfs:</b> July 2009<br>\n<b>owners:</b> Industrial Promotion Services,  Remgro Limited,  Herakles Telecom LLC,  Convergence Partners,  Shanduka,  Tata Communications<br>\n<b>url:</b> <a href=\"http://www.seacom.mu\" target=\"_blank\">http://www.seacom.mu</a><br>\n<b>col10:</b> <a href=\"SEACOM%20wholly%20owns%20the%20East%20African%20portion%20of%20the%20system%20and%20two%20fiber%20pairs%20between%20Egypt%20and%20India.%20Tata%20Communications%20owns%20two%20fiber%20pairs%20from%20Egypt%20to%20India%20and%20the%20branch%20to%20Jeddah,%20which%20the%20company%20refers%20to%20as%20TGN-Eurasia.%20Both%20SEACOM%20and%20Tata%20Communications%20own%20fiber%20pairs%20on%20TE%20North%20for%20connectivity%20across%20Egypt%20to%20Europe.\" target=\"_blank\">SEACOM wholly owns the East African portion of the system and two fiber pairs between Egypt and India. Tata Communications owns two fiber pairs from Egypt to India and the branch to Jeddah, which the company refers to as TGN-Eurasia. Both SEACOM and Tata Communications own fiber pairs on TE North for connectivity across Egypt to Europe.</a>\n</div>",
-        "id": "seacomtata-tgn-eurasia",
-        "cable_id": 1552,
-        "color": "#00a6e5",
-        "length": "15,000 km",
-        "rfs": "July 2009",
-        "owners": "Industrial Promotion Services,  Remgro Limited,  Herakles Telecom LLC,  Convergence Partners,  Shanduka,  Tata Communications",
-        "url": "http://www.seacom.mu",
-        "": "SEACOM wholly owns the East African portion of the system and two fiber pairs between Egypt and India. Tata Communications owns two fiber pairs from Egypt to India and the branch to Jeddah, which the company refers to as TGN-Eurasia. Both SEACOM and Tata Communications own fiber pairs on TE North for connectivity across Egypt to Europe."
+         "name": "SEACOM/Tata TGN-Eurasia",
+        "description": "SEACOM/Tata TGN-Eurasia",
+        "color": "#00a6e5"
       }
     },
     {
@@ -1346,15 +1126,8 @@
       },
       "properties": {
         "name": "SEACOM/Tata TGN-Eurasia",
-        "description": "<div class=\"googft-info-window\">\n<b>id:</b> seacomtata-tgn-eurasia<br>\n<b>cable_id:</b> 1552<br>\n<b>description:</b> [{\"latlon\":\"-6.823198,39.269697\",\"name\":\"Dar Es Salaam, Tanzania\",\"landing_point_id\":4182},{\"latlon\":\"11.594657,43.148039\",\"name\":\"Djibouti City, Djibouti\",\"landing_point_id\":4177},{\"latlon\":\"21.481246,39.182762\",\"name\":\"Jeddah, Saudi Arabia\",\"landing_point_id\":4361},{\"latlon\":\"-25.968556,32.580627\",\"name\":\"Maputo, Mozambique\",\"landing_point_id\":4252},{\"latlon\":\"-4.053227,39.672850\",\"name\":\"Mombasa, Kenya\",\"landing_point_id\":5896},{\"latlon\":\"-28.950645,31.757858\",\"name\":\"Mtunzini, South Africa\",\"landing_point_id\":5942},{\"latlon\":\"19.075779,72.875866\",\"name\":\"Mumbai, India\",\"landing_point_id\":3212},{\"latlon\":\"29.116662,32.649894\",\"name\":\"Zafarana, Egypt\",\"landing_point_id\":9486}]<br>\n<b>name:</b> SEACOM/Tata TGN-Eurasia<br>\n<b>color:</b> #00a6e5<br>\n<b>length:</b> 15,000 km<br>\n<b>rfs:</b> July 2009<br>\n<b>owners:</b> Industrial Promotion Services,  Remgro Limited,  Herakles Telecom LLC,  Convergence Partners,  Shanduka,  Tata Communications<br>\n<b>url:</b> <a href=\"http://www.seacom.mu\" target=\"_blank\">http://www.seacom.mu</a><br>\n<b>col10:</b> <a href=\"SEACOM%20wholly%20owns%20the%20East%20African%20portion%20of%20the%20system%20and%20two%20fiber%20pairs%20between%20Egypt%20and%20India.%20Tata%20Communications%20owns%20two%20fiber%20pairs%20from%20Egypt%20to%20India%20and%20the%20branch%20to%20Jeddah,%20which%20the%20company%20refers%20to%20as%20TGN-Eurasia.%20Both%20SEACOM%20and%20Tata%20Communications%20own%20fiber%20pairs%20on%20TE%20North%20for%20connectivity%20across%20Egypt%20to%20Europe.\" target=\"_blank\">SEACOM wholly owns the East African portion of the system and two fiber pairs between Egypt and India. Tata Communications owns two fiber pairs from Egypt to India and the branch to Jeddah, which the company refers to as TGN-Eurasia. Both SEACOM and Tata Communications own fiber pairs on TE North for connectivity across Egypt to Europe.</a>\n</div>",
-        "id": "seacomtata-tgn-eurasia",
-        "cable_id": 1552,
-        "color": "#00a6e5",
-        "length": "15,000 km",
-        "rfs": "July 2009",
-        "owners": "Industrial Promotion Services,  Remgro Limited,  Herakles Telecom LLC,  Convergence Partners,  Shanduka,  Tata Communications",
-        "url": "http://www.seacom.mu",
-        "": "SEACOM wholly owns the East African portion of the system and two fiber pairs between Egypt and India. Tata Communications owns two fiber pairs from Egypt to India and the branch to Jeddah, which the company refers to as TGN-Eurasia. Both SEACOM and Tata Communications own fiber pairs on TE North for connectivity across Egypt to Europe."
+        "description": "SEACOM/Tata TGN-Eurasia",
+        "color": "#00a6e5"
       }
     },
     {
@@ -1376,15 +1149,8 @@
       },
       "properties": {
         "name": "SEACOM/Tata TGN-Eurasia",
-        "description": "<div class=\"googft-info-window\">\n<b>id:</b> seacomtata-tgn-eurasia<br>\n<b>cable_id:</b> 1552<br>\n<b>description:</b> [{\"latlon\":\"-6.823198,39.269697\",\"name\":\"Dar Es Salaam, Tanzania\",\"landing_point_id\":4182},{\"latlon\":\"11.594657,43.148039\",\"name\":\"Djibouti City, Djibouti\",\"landing_point_id\":4177},{\"latlon\":\"21.481246,39.182762\",\"name\":\"Jeddah, Saudi Arabia\",\"landing_point_id\":4361},{\"latlon\":\"-25.968556,32.580627\",\"name\":\"Maputo, Mozambique\",\"landing_point_id\":4252},{\"latlon\":\"-4.053227,39.672850\",\"name\":\"Mombasa, Kenya\",\"landing_point_id\":5896},{\"latlon\":\"-28.950645,31.757858\",\"name\":\"Mtunzini, South Africa\",\"landing_point_id\":5942},{\"latlon\":\"19.075779,72.875866\",\"name\":\"Mumbai, India\",\"landing_point_id\":3212},{\"latlon\":\"29.116662,32.649894\",\"name\":\"Zafarana, Egypt\",\"landing_point_id\":9486}]<br>\n<b>name:</b> SEACOM/Tata TGN-Eurasia<br>\n<b>color:</b> #00a6e5<br>\n<b>length:</b> 15,000 km<br>\n<b>rfs:</b> July 2009<br>\n<b>owners:</b> Industrial Promotion Services,  Remgro Limited,  Herakles Telecom LLC,  Convergence Partners,  Shanduka,  Tata Communications<br>\n<b>url:</b> <a href=\"http://www.seacom.mu\" target=\"_blank\">http://www.seacom.mu</a><br>\n<b>col10:</b> <a href=\"SEACOM%20wholly%20owns%20the%20East%20African%20portion%20of%20the%20system%20and%20two%20fiber%20pairs%20between%20Egypt%20and%20India.%20Tata%20Communications%20owns%20two%20fiber%20pairs%20from%20Egypt%20to%20India%20and%20the%20branch%20to%20Jeddah,%20which%20the%20company%20refers%20to%20as%20TGN-Eurasia.%20Both%20SEACOM%20and%20Tata%20Communications%20own%20fiber%20pairs%20on%20TE%20North%20for%20connectivity%20across%20Egypt%20to%20Europe.\" target=\"_blank\">SEACOM wholly owns the East African portion of the system and two fiber pairs between Egypt and India. Tata Communications owns two fiber pairs from Egypt to India and the branch to Jeddah, which the company refers to as TGN-Eurasia. Both SEACOM and Tata Communications own fiber pairs on TE North for connectivity across Egypt to Europe.</a>\n</div>",
-        "id": "seacomtata-tgn-eurasia",
-        "cable_id": 1552,
-        "color": "#00a6e5",
-        "length": "15,000 km",
-        "rfs": "July 2009",
-        "owners": "Industrial Promotion Services,  Remgro Limited,  Herakles Telecom LLC,  Convergence Partners,  Shanduka,  Tata Communications",
-        "url": "http://www.seacom.mu",
-        "": "SEACOM wholly owns the East African portion of the system and two fiber pairs between Egypt and India. Tata Communications owns two fiber pairs from Egypt to India and the branch to Jeddah, which the company refers to as TGN-Eurasia. Both SEACOM and Tata Communications own fiber pairs on TE North for connectivity across Egypt to Europe."
+        "description": "SEACOM/Tata TGN-Eurasia",
+        "color": "#00a6e5"
       }
     },
     {
@@ -1406,15 +1172,8 @@
       },
       "properties": {
         "name": "SEACOM/Tata TGN-Eurasia",
-        "description": "<div class=\"googft-info-window\">\n<b>id:</b> seacomtata-tgn-eurasia<br>\n<b>cable_id:</b> 1552<br>\n<b>description:</b> [{\"latlon\":\"-6.823198,39.269697\",\"name\":\"Dar Es Salaam, Tanzania\",\"landing_point_id\":4182},{\"latlon\":\"11.594657,43.148039\",\"name\":\"Djibouti City, Djibouti\",\"landing_point_id\":4177},{\"latlon\":\"21.481246,39.182762\",\"name\":\"Jeddah, Saudi Arabia\",\"landing_point_id\":4361},{\"latlon\":\"-25.968556,32.580627\",\"name\":\"Maputo, Mozambique\",\"landing_point_id\":4252},{\"latlon\":\"-4.053227,39.672850\",\"name\":\"Mombasa, Kenya\",\"landing_point_id\":5896},{\"latlon\":\"-28.950645,31.757858\",\"name\":\"Mtunzini, South Africa\",\"landing_point_id\":5942},{\"latlon\":\"19.075779,72.875866\",\"name\":\"Mumbai, India\",\"landing_point_id\":3212},{\"latlon\":\"29.116662,32.649894\",\"name\":\"Zafarana, Egypt\",\"landing_point_id\":9486}]<br>\n<b>name:</b> SEACOM/Tata TGN-Eurasia<br>\n<b>color:</b> #00a6e5<br>\n<b>length:</b> 15,000 km<br>\n<b>rfs:</b> July 2009<br>\n<b>owners:</b> Industrial Promotion Services,  Remgro Limited,  Herakles Telecom LLC,  Convergence Partners,  Shanduka,  Tata Communications<br>\n<b>url:</b> <a href=\"http://www.seacom.mu\" target=\"_blank\">http://www.seacom.mu</a><br>\n<b>col10:</b> <a href=\"SEACOM%20wholly%20owns%20the%20East%20African%20portion%20of%20the%20system%20and%20two%20fiber%20pairs%20between%20Egypt%20and%20India.%20Tata%20Communications%20owns%20two%20fiber%20pairs%20from%20Egypt%20to%20India%20and%20the%20branch%20to%20Jeddah,%20which%20the%20company%20refers%20to%20as%20TGN-Eurasia.%20Both%20SEACOM%20and%20Tata%20Communications%20own%20fiber%20pairs%20on%20TE%20North%20for%20connectivity%20across%20Egypt%20to%20Europe.\" target=\"_blank\">SEACOM wholly owns the East African portion of the system and two fiber pairs between Egypt and India. Tata Communications owns two fiber pairs from Egypt to India and the branch to Jeddah, which the company refers to as TGN-Eurasia. Both SEACOM and Tata Communications own fiber pairs on TE North for connectivity across Egypt to Europe.</a>\n</div>",
-        "id": "seacomtata-tgn-eurasia",
-        "cable_id": 1552,
-        "color": "#00a6e5",
-        "length": "15,000 km",
-        "rfs": "July 2009",
-        "owners": "Industrial Promotion Services,  Remgro Limited,  Herakles Telecom LLC,  Convergence Partners,  Shanduka,  Tata Communications",
-        "url": "http://www.seacom.mu",
-        "": "SEACOM wholly owns the East African portion of the system and two fiber pairs between Egypt and India. Tata Communications owns two fiber pairs from Egypt to India and the branch to Jeddah, which the company refers to as TGN-Eurasia. Both SEACOM and Tata Communications own fiber pairs on TE North for connectivity across Egypt to Europe."
+        "description": "SEACOM/Tata TGN-Eurasia",
+        "color": "#00a6e5"
       }
     },
     {
@@ -1451,15 +1210,8 @@
       },
       "properties": {
         "name": "SEACOM/Tata TGN-Eurasia",
-        "description": "<div class=\"googft-info-window\">\n<b>id:</b> seacomtata-tgn-eurasia<br>\n<b>cable_id:</b> 1552<br>\n<b>description:</b> [{\"latlon\":\"-6.823198,39.269697\",\"name\":\"Dar Es Salaam, Tanzania\",\"landing_point_id\":4182},{\"latlon\":\"11.594657,43.148039\",\"name\":\"Djibouti City, Djibouti\",\"landing_point_id\":4177},{\"latlon\":\"21.481246,39.182762\",\"name\":\"Jeddah, Saudi Arabia\",\"landing_point_id\":4361},{\"latlon\":\"-25.968556,32.580627\",\"name\":\"Maputo, Mozambique\",\"landing_point_id\":4252},{\"latlon\":\"-4.053227,39.672850\",\"name\":\"Mombasa, Kenya\",\"landing_point_id\":5896},{\"latlon\":\"-28.950645,31.757858\",\"name\":\"Mtunzini, South Africa\",\"landing_point_id\":5942},{\"latlon\":\"19.075779,72.875866\",\"name\":\"Mumbai, India\",\"landing_point_id\":3212},{\"latlon\":\"29.116662,32.649894\",\"name\":\"Zafarana, Egypt\",\"landing_point_id\":9486}]<br>\n<b>name:</b> SEACOM/Tata TGN-Eurasia<br>\n<b>color:</b> #00a6e5<br>\n<b>length:</b> 15,000 km<br>\n<b>rfs:</b> July 2009<br>\n<b>owners:</b> Industrial Promotion Services,  Remgro Limited,  Herakles Telecom LLC,  Convergence Partners,  Shanduka,  Tata Communications<br>\n<b>url:</b> <a href=\"http://www.seacom.mu\" target=\"_blank\">http://www.seacom.mu</a><br>\n<b>col10:</b> <a href=\"SEACOM%20wholly%20owns%20the%20East%20African%20portion%20of%20the%20system%20and%20two%20fiber%20pairs%20between%20Egypt%20and%20India.%20Tata%20Communications%20owns%20two%20fiber%20pairs%20from%20Egypt%20to%20India%20and%20the%20branch%20to%20Jeddah,%20which%20the%20company%20refers%20to%20as%20TGN-Eurasia.%20Both%20SEACOM%20and%20Tata%20Communications%20own%20fiber%20pairs%20on%20TE%20North%20for%20connectivity%20across%20Egypt%20to%20Europe.\" target=\"_blank\">SEACOM wholly owns the East African portion of the system and two fiber pairs between Egypt and India. Tata Communications owns two fiber pairs from Egypt to India and the branch to Jeddah, which the company refers to as TGN-Eurasia. Both SEACOM and Tata Communications own fiber pairs on TE North for connectivity across Egypt to Europe.</a>\n</div>",
-        "id": "seacomtata-tgn-eurasia",
-        "cable_id": 1552,
-        "color": "#00a6e5",
-        "length": "15,000 km",
-        "rfs": "July 2009",
-        "owners": "Industrial Promotion Services,  Remgro Limited,  Herakles Telecom LLC,  Convergence Partners,  Shanduka,  Tata Communications",
-        "url": "http://www.seacom.mu",
-        "": "SEACOM wholly owns the East African portion of the system and two fiber pairs between Egypt and India. Tata Communications owns two fiber pairs from Egypt to India and the branch to Jeddah, which the company refers to as TGN-Eurasia. Both SEACOM and Tata Communications own fiber pairs on TE North for connectivity across Egypt to Europe."
+        "description": "SEACOM/Tata TGN-Eurasia",
+        "color": "#00a6e5"
       }
     },
     {
@@ -1481,15 +1233,8 @@
       },
       "properties": {
         "name": "SEACOM/Tata TGN-Eurasia",
-        "description": "<div class=\"googft-info-window\">\n<b>id:</b> seacomtata-tgn-eurasia<br>\n<b>cable_id:</b> 1552<br>\n<b>description:</b> [{\"latlon\":\"-6.823198,39.269697\",\"name\":\"Dar Es Salaam, Tanzania\",\"landing_point_id\":4182},{\"latlon\":\"11.594657,43.148039\",\"name\":\"Djibouti City, Djibouti\",\"landing_point_id\":4177},{\"latlon\":\"21.481246,39.182762\",\"name\":\"Jeddah, Saudi Arabia\",\"landing_point_id\":4361},{\"latlon\":\"-25.968556,32.580627\",\"name\":\"Maputo, Mozambique\",\"landing_point_id\":4252},{\"latlon\":\"-4.053227,39.672850\",\"name\":\"Mombasa, Kenya\",\"landing_point_id\":5896},{\"latlon\":\"-28.950645,31.757858\",\"name\":\"Mtunzini, South Africa\",\"landing_point_id\":5942},{\"latlon\":\"19.075779,72.875866\",\"name\":\"Mumbai, India\",\"landing_point_id\":3212},{\"latlon\":\"29.116662,32.649894\",\"name\":\"Zafarana, Egypt\",\"landing_point_id\":9486}]<br>\n<b>name:</b> SEACOM/Tata TGN-Eurasia<br>\n<b>color:</b> #00a6e5<br>\n<b>length:</b> 15,000 km<br>\n<b>rfs:</b> July 2009<br>\n<b>owners:</b> Industrial Promotion Services,  Remgro Limited,  Herakles Telecom LLC,  Convergence Partners,  Shanduka,  Tata Communications<br>\n<b>url:</b> <a href=\"http://www.seacom.mu\" target=\"_blank\">http://www.seacom.mu</a><br>\n<b>col10:</b> <a href=\"SEACOM%20wholly%20owns%20the%20East%20African%20portion%20of%20the%20system%20and%20two%20fiber%20pairs%20between%20Egypt%20and%20India.%20Tata%20Communications%20owns%20two%20fiber%20pairs%20from%20Egypt%20to%20India%20and%20the%20branch%20to%20Jeddah,%20which%20the%20company%20refers%20to%20as%20TGN-Eurasia.%20Both%20SEACOM%20and%20Tata%20Communications%20own%20fiber%20pairs%20on%20TE%20North%20for%20connectivity%20across%20Egypt%20to%20Europe.\" target=\"_blank\">SEACOM wholly owns the East African portion of the system and two fiber pairs between Egypt and India. Tata Communications owns two fiber pairs from Egypt to India and the branch to Jeddah, which the company refers to as TGN-Eurasia. Both SEACOM and Tata Communications own fiber pairs on TE North for connectivity across Egypt to Europe.</a>\n</div>",
-        "id": "seacomtata-tgn-eurasia",
-        "cable_id": 1552,
-        "color": "#00a6e5",
-        "length": "15,000 km",
-        "rfs": "July 2009",
-        "owners": "Industrial Promotion Services,  Remgro Limited,  Herakles Telecom LLC,  Convergence Partners,  Shanduka,  Tata Communications",
-        "url": "http://www.seacom.mu",
-        "": "SEACOM wholly owns the East African portion of the system and two fiber pairs between Egypt and India. Tata Communications owns two fiber pairs from Egypt to India and the branch to Jeddah, which the company refers to as TGN-Eurasia. Both SEACOM and Tata Communications own fiber pairs on TE North for connectivity across Egypt to Europe."
+        "description": "SEACOM/Tata TGN-Eurasia",
+        "color": "#00a6e5"
       }
     },
     {
@@ -1516,15 +1261,8 @@
       },
       "properties": {
         "name": "SEACOM/Tata TGN-Eurasia",
-        "description": "<div class=\"googft-info-window\">\n<b>id:</b> seacomtata-tgn-eurasia<br>\n<b>cable_id:</b> 1552<br>\n<b>description:</b> [{\"latlon\":\"-6.823198,39.269697\",\"name\":\"Dar Es Salaam, Tanzania\",\"landing_point_id\":4182},{\"latlon\":\"11.594657,43.148039\",\"name\":\"Djibouti City, Djibouti\",\"landing_point_id\":4177},{\"latlon\":\"21.481246,39.182762\",\"name\":\"Jeddah, Saudi Arabia\",\"landing_point_id\":4361},{\"latlon\":\"-25.968556,32.580627\",\"name\":\"Maputo, Mozambique\",\"landing_point_id\":4252},{\"latlon\":\"-4.053227,39.672850\",\"name\":\"Mombasa, Kenya\",\"landing_point_id\":5896},{\"latlon\":\"-28.950645,31.757858\",\"name\":\"Mtunzini, South Africa\",\"landing_point_id\":5942},{\"latlon\":\"19.075779,72.875866\",\"name\":\"Mumbai, India\",\"landing_point_id\":3212},{\"latlon\":\"29.116662,32.649894\",\"name\":\"Zafarana, Egypt\",\"landing_point_id\":9486}]<br>\n<b>name:</b> SEACOM/Tata TGN-Eurasia<br>\n<b>color:</b> #00a6e5<br>\n<b>length:</b> 15,000 km<br>\n<b>rfs:</b> July 2009<br>\n<b>owners:</b> Industrial Promotion Services,  Remgro Limited,  Herakles Telecom LLC,  Convergence Partners,  Shanduka,  Tata Communications<br>\n<b>url:</b> <a href=\"http://www.seacom.mu\" target=\"_blank\">http://www.seacom.mu</a><br>\n<b>col10:</b> <a href=\"SEACOM%20wholly%20owns%20the%20East%20African%20portion%20of%20the%20system%20and%20two%20fiber%20pairs%20between%20Egypt%20and%20India.%20Tata%20Communications%20owns%20two%20fiber%20pairs%20from%20Egypt%20to%20India%20and%20the%20branch%20to%20Jeddah,%20which%20the%20company%20refers%20to%20as%20TGN-Eurasia.%20Both%20SEACOM%20and%20Tata%20Communications%20own%20fiber%20pairs%20on%20TE%20North%20for%20connectivity%20across%20Egypt%20to%20Europe.\" target=\"_blank\">SEACOM wholly owns the East African portion of the system and two fiber pairs between Egypt and India. Tata Communications owns two fiber pairs from Egypt to India and the branch to Jeddah, which the company refers to as TGN-Eurasia. Both SEACOM and Tata Communications own fiber pairs on TE North for connectivity across Egypt to Europe.</a>\n</div>",
-        "id": "seacomtata-tgn-eurasia",
-        "cable_id": 1552,
-        "color": "#00a6e5",
-        "length": "15,000 km",
-        "rfs": "July 2009",
-        "owners": "Industrial Promotion Services,  Remgro Limited,  Herakles Telecom LLC,  Convergence Partners,  Shanduka,  Tata Communications",
-        "url": "http://www.seacom.mu",
-        "": "SEACOM wholly owns the East African portion of the system and two fiber pairs between Egypt and India. Tata Communications owns two fiber pairs from Egypt to India and the branch to Jeddah, which the company refers to as TGN-Eurasia. Both SEACOM and Tata Communications own fiber pairs on TE North for connectivity across Egypt to Europe."
+        "description": "SEACOM/Tata TGN-Eurasia",
+        "color": "#00a6e5"
       }
     },
     {
@@ -1551,15 +1289,8 @@
       },
       "properties": {
         "name": "SEACOM/Tata TGN-Eurasia",
-        "description": "<div class=\"googft-info-window\">\n<b>id:</b> seacomtata-tgn-eurasia<br>\n<b>cable_id:</b> 1552<br>\n<b>description:</b> [{\"latlon\":\"-6.823198,39.269697\",\"name\":\"Dar Es Salaam, Tanzania\",\"landing_point_id\":4182},{\"latlon\":\"11.594657,43.148039\",\"name\":\"Djibouti City, Djibouti\",\"landing_point_id\":4177},{\"latlon\":\"21.481246,39.182762\",\"name\":\"Jeddah, Saudi Arabia\",\"landing_point_id\":4361},{\"latlon\":\"-25.968556,32.580627\",\"name\":\"Maputo, Mozambique\",\"landing_point_id\":4252},{\"latlon\":\"-4.053227,39.672850\",\"name\":\"Mombasa, Kenya\",\"landing_point_id\":5896},{\"latlon\":\"-28.950645,31.757858\",\"name\":\"Mtunzini, South Africa\",\"landing_point_id\":5942},{\"latlon\":\"19.075779,72.875866\",\"name\":\"Mumbai, India\",\"landing_point_id\":3212},{\"latlon\":\"29.116662,32.649894\",\"name\":\"Zafarana, Egypt\",\"landing_point_id\":9486}]<br>\n<b>name:</b> SEACOM/Tata TGN-Eurasia<br>\n<b>color:</b> #00a6e5<br>\n<b>length:</b> 15,000 km<br>\n<b>rfs:</b> July 2009<br>\n<b>owners:</b> Industrial Promotion Services,  Remgro Limited,  Herakles Telecom LLC,  Convergence Partners,  Shanduka,  Tata Communications<br>\n<b>url:</b> <a href=\"http://www.seacom.mu\" target=\"_blank\">http://www.seacom.mu</a><br>\n<b>col10:</b> <a href=\"SEACOM%20wholly%20owns%20the%20East%20African%20portion%20of%20the%20system%20and%20two%20fiber%20pairs%20between%20Egypt%20and%20India.%20Tata%20Communications%20owns%20two%20fiber%20pairs%20from%20Egypt%20to%20India%20and%20the%20branch%20to%20Jeddah,%20which%20the%20company%20refers%20to%20as%20TGN-Eurasia.%20Both%20SEACOM%20and%20Tata%20Communications%20own%20fiber%20pairs%20on%20TE%20North%20for%20connectivity%20across%20Egypt%20to%20Europe.\" target=\"_blank\">SEACOM wholly owns the East African portion of the system and two fiber pairs between Egypt and India. Tata Communications owns two fiber pairs from Egypt to India and the branch to Jeddah, which the company refers to as TGN-Eurasia. Both SEACOM and Tata Communications own fiber pairs on TE North for connectivity across Egypt to Europe.</a>\n</div>",
-        "id": "seacomtata-tgn-eurasia",
-        "cable_id": 1552,
-        "color": "#00a6e5",
-        "length": "15,000 km",
-        "rfs": "July 2009",
-        "owners": "Industrial Promotion Services,  Remgro Limited,  Herakles Telecom LLC,  Convergence Partners,  Shanduka,  Tata Communications",
-        "url": "http://www.seacom.mu",
-        "": "SEACOM wholly owns the East African portion of the system and two fiber pairs between Egypt and India. Tata Communications owns two fiber pairs from Egypt to India and the branch to Jeddah, which the company refers to as TGN-Eurasia. Both SEACOM and Tata Communications own fiber pairs on TE North for connectivity across Egypt to Europe."
+        "description": "SEACOM/Tata TGN-Eurasia",
+        "color": "#00a6e5"
       }
     },
     {
@@ -1641,15 +1372,8 @@
       },
       "properties": {
         "name": "SEACOM/Tata TGN-Eurasia",
-        "description": "<div class=\"googft-info-window\">\n<b>id:</b> seacomtata-tgn-eurasia<br>\n<b>cable_id:</b> 1552<br>\n<b>description:</b> [{\"latlon\":\"-6.823198,39.269697\",\"name\":\"Dar Es Salaam, Tanzania\",\"landing_point_id\":4182},{\"latlon\":\"11.594657,43.148039\",\"name\":\"Djibouti City, Djibouti\",\"landing_point_id\":4177},{\"latlon\":\"21.481246,39.182762\",\"name\":\"Jeddah, Saudi Arabia\",\"landing_point_id\":4361},{\"latlon\":\"-25.968556,32.580627\",\"name\":\"Maputo, Mozambique\",\"landing_point_id\":4252},{\"latlon\":\"-4.053227,39.672850\",\"name\":\"Mombasa, Kenya\",\"landing_point_id\":5896},{\"latlon\":\"-28.950645,31.757858\",\"name\":\"Mtunzini, South Africa\",\"landing_point_id\":5942},{\"latlon\":\"19.075779,72.875866\",\"name\":\"Mumbai, India\",\"landing_point_id\":3212},{\"latlon\":\"29.116662,32.649894\",\"name\":\"Zafarana, Egypt\",\"landing_point_id\":9486}]<br>\n<b>name:</b> SEACOM/Tata TGN-Eurasia<br>\n<b>color:</b> #00a6e5<br>\n<b>length:</b> 15,000 km<br>\n<b>rfs:</b> July 2009<br>\n<b>owners:</b> Industrial Promotion Services,  Remgro Limited,  Herakles Telecom LLC,  Convergence Partners,  Shanduka,  Tata Communications<br>\n<b>url:</b> <a href=\"http://www.seacom.mu\" target=\"_blank\">http://www.seacom.mu</a><br>\n<b>col10:</b> <a href=\"SEACOM%20wholly%20owns%20the%20East%20African%20portion%20of%20the%20system%20and%20two%20fiber%20pairs%20between%20Egypt%20and%20India.%20Tata%20Communications%20owns%20two%20fiber%20pairs%20from%20Egypt%20to%20India%20and%20the%20branch%20to%20Jeddah,%20which%20the%20company%20refers%20to%20as%20TGN-Eurasia.%20Both%20SEACOM%20and%20Tata%20Communications%20own%20fiber%20pairs%20on%20TE%20North%20for%20connectivity%20across%20Egypt%20to%20Europe.\" target=\"_blank\">SEACOM wholly owns the East African portion of the system and two fiber pairs between Egypt and India. Tata Communications owns two fiber pairs from Egypt to India and the branch to Jeddah, which the company refers to as TGN-Eurasia. Both SEACOM and Tata Communications own fiber pairs on TE North for connectivity across Egypt to Europe.</a>\n</div>",
-        "id": "seacomtata-tgn-eurasia",
-        "cable_id": 1552,
-        "color": "#00a6e5",
-        "length": "15,000 km",
-        "rfs": "July 2009",
-        "owners": "Industrial Promotion Services,  Remgro Limited,  Herakles Telecom LLC,  Convergence Partners,  Shanduka,  Tata Communications",
-        "url": "http://www.seacom.mu",
-        "": "SEACOM wholly owns the East African portion of the system and two fiber pairs between Egypt and India. Tata Communications owns two fiber pairs from Egypt to India and the branch to Jeddah, which the company refers to as TGN-Eurasia. Both SEACOM and Tata Communications own fiber pairs on TE North for connectivity across Egypt to Europe."
+        "description": "SEACOM/Tata TGN-Eurasia",
+        "color": "#00a6e5"
       }
     },
     {
@@ -1696,14 +1420,8 @@
       },
       "properties": {
         "name": "The East African Marine System (TEAMS)",
-        "description": "<div class=\"googft-info-window\">\n<b>id:</b> the-east-african-marine-system-teams<br>\n<b>cable_id:</b> 1516<br>\n<b>description:</b> [{\"latlon\":\"25.121671,56.333737\",\"name\":\"Fujairah, United Arab Emirates\",\"landing_point_id\":5962},{\"latlon\":\"-4.053227,39.672850\",\"name\":\"Mombasa, Kenya\",\"landing_point_id\":5896}]<br>\n<b>name:</b> The East African Marine System (TEAMS)<br>\n<b>color:</b> #f5ca00<br>\n<b>length:</b> 4,900 km<br>\n<b>rfs:</b> October 2009<br>\n<b>owners:</b> Etisalat,  TEAMS Ltd.<br>\n<b>url:</b> <br>\n<b>col10:</b> \n</div>",
-        "id": "the-east-african-marine-system-teams",
-        "cable_id": 1516,
+        "description": "The East African Marine System (TEAMS)",
         "color": "#f5ca00",
-        "length": "4,900 km",
-        "rfs": "October 2009",
-        "owners": "Etisalat,  TEAMS Ltd.",
-        "url": "",
         "": ""
       }
     },
@@ -1726,14 +1444,8 @@
       },
       "properties": {
         "name": "Main One",
-        "description": "<div class=\"googft-info-window\">\n<b>id:</b> main-one<br>\n<b>cable_id:</b> 1565<br>\n<b>description:</b> [{\"latlon\":\"5.558302,-0.201065\",\"name\":\"Accra, Ghana\",\"landing_point_id\":4181},{\"latlon\":\"6.438895,3.423247\",\"name\":\"Lagos, Nigeria\",\"landing_point_id\":3280},{\"latlon\":\"38.642259,-9.107377\",\"name\":\"Seixal, Portugal\",\"landing_point_id\":9058}]<br>\n<b>name:</b> Main One<br>\n<b>color:</b> #f4868e<br>\n<b>length:</b> 7,000 km<br>\n<b>rfs:</b> July 2010<br>\n<b>owners:</b> Main One Cable Company<br>\n<b>url:</b> <a href=\"http://www.mainonecable.com\" target=\"_blank\">http://www.mainonecable.com</a><br>\n<b>col10:</b> \n</div>",
-        "id": "main-one",
-        "cable_id": 1565,
+        "description": "Main One",
         "color": "#f4868e",
-        "length": "7,000 km",
-        "rfs": "July 2010",
-        "owners": "Main One Cable Company",
-        "url": "http://www.mainonecable.com",
         "": ""
       }
     },
@@ -1796,14 +1508,8 @@
       },
       "properties": {
         "name": "Main One",
-        "description": "<div class=\"googft-info-window\">\n<b>id:</b> main-one<br>\n<b>cable_id:</b> 1565<br>\n<b>description:</b> [{\"latlon\":\"5.558302,-0.201065\",\"name\":\"Accra, Ghana\",\"landing_point_id\":4181},{\"latlon\":\"6.438895,3.423247\",\"name\":\"Lagos, Nigeria\",\"landing_point_id\":3280},{\"latlon\":\"38.642259,-9.107377\",\"name\":\"Seixal, Portugal\",\"landing_point_id\":9058}]<br>\n<b>name:</b> Main One<br>\n<b>color:</b> #f4868e<br>\n<b>length:</b> 7,000 km<br>\n<b>rfs:</b> July 2010<br>\n<b>owners:</b> Main One Cable Company<br>\n<b>url:</b> <a href=\"http://www.mainonecable.com\" target=\"_blank\">http://www.mainonecable.com</a><br>\n<b>col10:</b> \n</div>",
-        "id": "main-one",
-        "cable_id": 1565,
+        "description": "Main One",
         "color": "#f4868e",
-        "length": "7,000 km",
-        "rfs": "July 2010",
-        "owners": "Main One Cable Company",
-        "url": "http://www.mainonecable.com",
         "": ""
       }
     }
