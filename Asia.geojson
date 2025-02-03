@@ -1352,14 +1352,8 @@
       },
       "properties": {
         "name": "i2i Cable Network (i2icn)",
-        "description": "<div class=\"googft-info-window\">\n<b>id:</b> i2i-cable-network-i2icn<br>\n<b>cable_id:</b> 1179<br>\n<b>description:</b> [{\"latlon\":\"13.063516,80.243049\",\"name\":\"Chennai, India\",\"landing_point_id\":4191},{\"latlon\":\"1.338244,103.647114\",\"name\":\"Tuas, Singapore\",\"landing_point_id\":5938}]<br>\n<b>name:</b> i2i Cable Network (i2icn)<br>\n<b>color:</b> #bd74b0<br>\n<b>length:</b> 3,200 km<br>\n<b>rfs:</b> April 2002<br>\n<b>owners:</b> airtel (Bharti)<br>\n<b>url:</b> <a href=\"http://www.airtel.in\" target=\"_blank\">http://www.airtel.in</a><br>\n<b>col10:</b> \n</div>",
-        "id": "i2i-cable-network-i2icn",
-        "cable_id": 1179,
+        "description": "i2i Cable Network (i2icn)",
         "color": "#bd74b0",
-        "length": "3,200 km",
-        "rfs": "April 2002",
-        "owners": "airtel (Bharti)",
-        "url": "http://www.airtel.in",
         "": ""
       }
     },
