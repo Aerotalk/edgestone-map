@@ -1,0 +1,444 @@
+{
+  "type": "FeatureCollection",
+  "name": "SouthAmerica",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -38.542964,
+            -3.718705,
+            0
+          ],
+          [
+            -33.186355,
+            0.151503,
+            0
+          ],
+          [
+            -28.663651,
+            -3.487756,
+            0
+          ],
+          [
+            -28.663651,
+            -12.818772,
+            0
+          ],
+          [
+            -32.047688,
+            -17.473329,
+            0
+          ],
+          [
+            -39.257242,
+            -26.967491,
+            0
+          ],
+          [
+            -44.517538,
+            -24.79556,
+            0
+          ],
+          [
+            -46.328076,
+            -23.961915,
+            0
+          ]
+        ]
+      },
+      "properties": {
+        "name": "South America-1 (SAm-1)",
+        "description": "South America-1 (SAm-1)",
+        "color": "#8cc751",
+        "": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -46.328076,
+            -23.961915,
+            0
+          ],
+          [
+            -40.83185,
+            -28.093419,
+            0
+          ],
+          [
+            -50.440158,
+            -39.433257,
+            0
+          ],
+          [
+            -56.695442,
+            -36.470908,
+            0
+          ]
+        ]
+      },
+      "properties": {
+        "name": "South America-1 (SAm-1)",    
+        "description": "South America-1 (SAm-1)",
+        "color": "#8cc751",       
+        "": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -44.517538,
+            -24.79556,
+            0
+          ],
+          [
+            -43.209558,
+            -22.903463,
+            0
+          ]
+        ]
+      },
+      "properties": {
+        "name": "South America-1 (SAm-1)",      
+        "description": "South America-1 (SAm-1)",
+        "color": "#8cc751",       
+        "": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -80.914429,
+            -2.272902,
+            0
+          ],
+          [
+            -84.332645,
+            -2.965979,
+            0
+          ]
+        ]
+      },
+      "properties": {
+        "name": "South America-1 (SAm-1)",
+        "description": "South America-1 (SAm-1)",
+        "color": "#8cc751",      
+        "": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -81.053782,
+            -4.153832,
+            0
+          ],
+          [
+            -83.965327,
+            -4.739228,
+            0
+          ]
+        ]
+      },
+      "properties": {
+        "name": "South America-1 (SAm-1)",  
+        "description": "South America-1 (SAm-1)",
+        "color": "#8cc751",       
+        "": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -66.106693,
+            18.466135,
+            0
+          ],
+          [
+            -67.441784,
+            18.768465,
+            0
+          ],
+          [
+            -74.147092,
+            12.416907,
+            0
+          ],
+          [
+            -74.779773,
+            10.940409,
+            0
+          ]
+        ]
+      },
+      "properties": {
+        "name": "South America-1 (SAm-1)",
+        "description": "South America-1 (SAm-1)",
+        "color": "#8cc751",       
+        "": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -38.504513,
+            -12.96997,
+            0
+          ],
+          [
+            -32.047688,
+            -17.473329,
+            0
+          ]
+        ]
+      },
+      "properties": {
+        "name": "South America-1 (SAm-1)",
+        "description": "South America-1 (SAm-1)",
+        "color": "#8cc751",            
+        "": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -80.088964,
+            26.350607,
+            0
+          ],
+          [
+            -79.910368,
+            24.702273,
+            0
+          ],
+          [
+            -81.107582,
+            24.248454,
+            0
+          ],
+          [
+            -83.589463,
+            24.248454,
+            0
+          ],
+          [
+            -86.296989,
+            21.742117,
+            0
+          ],
+          [
+            -86.296989,
+            20.368878,
+            0
+          ],
+          [
+            -87.491355,
+            17.751131,
+            0
+          ],
+          [
+            -88.597161,
+            15.727301,
+            0
+          ]
+        ]
+      },
+      "properties": {
+        "name": "South America-1 (SAm-1)",
+        "description": "South America-1 (SAm-1)",
+        "color": "#8cc751",      
+        "": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -90.822225,
+            13.934742,
+            0
+          ],
+          [
+            -92.932093,
+            10.068167,
+            0
+          ],
+          [
+            -86.232165,
+            6.579105,
+            0
+          ],
+          [
+            -84.332645,
+            -2.965979,
+            0
+          ]
+        ]
+      },
+      "properties": {
+        "name": "South America-1 (SAm-1)",
+        "description": "South America-1 (SAm-1)",
+        "color": "#8cc751",     
+        "": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -84.332645,
+            -2.965979,
+            0
+          ],
+          [
+            -83.965327,
+            -4.739228,
+            0
+          ]
+        ]
+      },
+      "properties": {
+        "name": "South America-1 (SAm-1)",
+        "description": "South America-1 (SAm-1)",
+        "color": "#8cc751",      
+        "": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -83.965327,
+            -4.739228,
+            0
+          ],
+          [
+            -82.332963,
+            -12.919891,
+            0
+          ],
+          [
+            -76.874292,
+            -12.278437,
+            0
+          ],
+          [
+            -82.142288,
+            -13.853213,
+            0
+          ],
+          [
+            -80.849236,
+            -20.072227,
+            0
+          ],
+          [
+            -70.306755,
+            -18.473471,
+            0
+          ],
+          [
+            -80.658561,
+            -20.970317,
+            0
+          ],
+          [
+            -77.814372,
+            -33.633975,
+            0
+          ],
+          [
+            -71.620431,
+            -33.045603,
+            0
+          ]
+        ]
+      },
+      "properties": {
+        "name": "South America-1 (SAm-1)",
+        "description": "South America-1 (SAm-1)",
+        "color": "#8cc751",      
+        "": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -38.542964,
+            -3.718705,
+            0
+          ],
+          [
+            -36.711276,
+            1.109797,
+            0
+          ],
+          [
+            -54.999046,
+            19.100335,
+            0
+          ],
+          [
+            -65.200792,
+            19.100335,
+            0
+          ],
+          [
+            -66.106693,
+            18.466135,
+            0
+          ],
+          [
+            -74.363454,
+            28.374829,
+            0
+          ],
+          [
+            -80.088964,
+            26.350607,
+            0
+          ]
+        ]
+      },
+      "properties": {
+        "name": "South America-1 (SAm-1)",
+        "description": "South America-1 (SAm-1)",
+        "color": "#8cc751",        
+        "": ""
+      }
+    }
+  ]
+}

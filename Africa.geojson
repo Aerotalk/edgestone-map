@@ -1,0 +1,1517 @@
+{
+  "type": "FeatureCollection",
+  "name": "africa",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            18.155567,
+            -33.348037,
+            0
+          ],
+          [
+            16.542614,
+            -33.594963,
+            0
+          ],
+          [
+            7.55206,
+            -24.11867,
+            0
+          ],
+          [
+            7.550372,
+            -23.055444,
+            0
+          ],
+          [
+            7.558178,
+            -18.366636,
+            0
+          ]
+        ]
+      },
+      "properties": {
+        "name": "West African Cable System (WACS)",
+        "description": "West African Cable System (WACS)",
+        "color": "#548f51",     
+        "": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            7.558178,
+            -18.366636,
+            0
+          ],
+          [
+            7.570415,
+            -10.726717,
+            0
+          ],
+          [
+            7.550372,
+            -6.922139,
+            0
+          ],
+          [
+            7.577588,
+            -4.628411,
+            0
+          ],
+          [
+            7.579065,
+            -3.97269,
+            0
+          ],
+          [
+            5.2896,
+            0.360293,
+            0
+          ],
+          [
+            4.296615,
+            0.360293,
+            0
+          ],
+          [
+            0.770165,
+            0.360293,
+            0
+          ],
+          [
+            -1.197606,
+            0.360293,
+            0
+          ],
+          [
+            -2.46608,
+            0.360293,
+            0
+          ],
+          [
+            -10.78682,
+            0.360293,
+            0
+          ],
+          [
+            -20.6943,
+            14.362658,
+            0
+          ],
+          [
+            -20.6943,
+            15.066587,
+            0
+          ],
+          [
+            -20.6943,
+            20.304401,
+            0
+          ],
+          [
+            -17.095958,
+            25.026516,
+            0
+          ],
+          [
+            -17.095958,
+            27.615634,
+            0
+          ],
+          [
+            -17.095958,
+            29.392253,
+            0
+          ],
+          [
+            -9.107408,
+            38.642658,
+            0
+          ]
+        ]
+      },
+      "properties": {
+         "name": "West African Cable System (WACS)",
+        "description": "West African Cable System (WACS)",
+        "color": "#548f51",
+        "": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            14.533437,
+            -22.685447,
+            0
+          ],
+          [
+            7.550372,
+            -23.055444,
+            0
+          ]
+        ]
+      },
+      "properties": {
+         "name": "West African Cable System (WACS)",
+        "description": "West African Cable System (WACS)",
+        "color": "#548f51",
+        "": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.34999,
+            -5.93338,
+            0
+          ],
+          [
+            7.550372,
+            -6.922139,
+            0
+          ]
+        ]
+      },
+      "properties": {
+        "name": "West African Cable System (WACS)",
+        "description": "West African Cable System (WACS)",
+        "color": "#548f51",
+        "": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            7.570415,
+            -10.726717,
+            0
+          ],
+          [
+            13.235057,
+            -8.812608,
+            0
+          ]
+        ]
+      },
+      "properties": {
+        "name": "West African Cable System (WACS)",
+        "description": "West African Cable System (WACS)",
+        "color": "#548f51",
+        "": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            7.577588,
+            -4.628411,
+            0
+          ],
+          [
+            11.863677,
+            -4.778808,
+            0
+          ]
+        ]
+      },
+      "properties": {
+        "name": "West African Cable System (WACS)",
+        "description": "West African Cable System (WACS)",
+        "color": "#548f51",
+        "": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            5.2896,
+            0.360293,
+            0
+          ],
+          [
+            9.208686,
+            4.014761,
+            0
+          ]
+        ]
+      },
+      "properties": {
+        "name": "West African Cable System (WACS)",
+        "description": "West African Cable System (WACS)",
+        "color": "#548f51",
+        "": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            3.423521,
+            6.439096,
+            0
+          ],
+          [
+            4.296615,
+            0.360293,
+            0
+          ]
+        ]
+      },
+      "properties": {
+        "name": "West African Cable System (WACS)",
+        "description": "West African Cable System (WACS)",
+        "color": "#548f51",
+        "": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            1.227837,
+            6.12623,
+            0
+          ],
+          [
+            0.770165,
+            0.360293,
+            0
+          ]
+        ]
+      },
+      "properties": {
+        "name": "West African Cable System (WACS)",
+        "description": "West African Cable System (WACS)",
+        "color": "#548f51",
+        "": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.204305,
+            5.558297,
+            0
+          ],
+          [
+            -1.197606,
+            0.360293,
+            0
+          ]
+        ]
+      },
+      "properties": {
+         "name": "West African Cable System (WACS)",
+        "description": "West African Cable System (WACS)",
+        "color": "#548f51",
+        "": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.026235,
+            5.3235,
+            0
+          ],
+          [
+            -2.46608,
+            0.360293,
+            0
+          ]
+        ]
+      },
+      "properties": {
+         "name": "West African Cable System (WACS)",
+        "description": "West African Cable System (WACS)",
+        "color": "#548f51",
+        "": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -23.505628,
+            14.935341,
+            0
+          ],
+          [
+            -20.6943,
+            15.066587,
+            0
+          ]
+        ]
+      },
+      "properties": {
+         "name": "West African Cable System (WACS)",
+        "description": "West African Cable System (WACS)",
+        "color": "#548f51",
+        "": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -17.095958,
+            27.615634,
+            0
+          ],
+          [
+            -16.132036,
+            27.615634,
+            0
+          ],
+          [
+            -15.699946,
+            27.99984,
+            0
+          ]
+        ]
+      },
+      "properties": {
+        "name": "West African Cable System (WACS)",
+        "description": "West African Cable System (WACS)",
+        "color": "#548f51",
+        "": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -2.974862,
+            51.222435,
+            0
+          ],
+          [
+            -4.441183,
+            51.289159,
+            0
+          ],
+          [
+            -14.970267,
+            48.742804,
+            0
+          ],
+          [
+            -14.955551,
+            37.025179,
+            0
+          ],
+          [
+            -9.107408,
+            38.642658,
+            0
+          ]
+        ]
+      },
+      "properties": {
+        "name": "West African Cable System (WACS)",
+        "description": "West African Cable System (WACS)",
+        "color": "#548f51",
+        "": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            46.585006,
+            1.003401,
+            0
+          ],
+          [
+            45.344224,
+            2.041562,
+            0
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Eastern Africa Submarine System (EASSy)",
+        "description": "Eastern Africa Submarine System (EASSy)",
+        "color": "#b16f3f",      
+        "": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            43.243376,
+            -11.700591,
+            0
+          ],
+          [
+            41.762497,
+            -12.157655,
+            0
+          ]
+        ]
+      },
+      "properties": {
+       "name": "Eastern Africa Submarine System (EASSy)",
+        "description": "Eastern Africa Submarine System (EASSy)",
+        "color": "#b16f3f",
+        "": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            43.663229,
+            -23.354795,
+            0
+          ],
+          [
+            37.53928,
+            -23.34184,
+            0
+          ]
+        ]
+      },
+      "properties": {
+       "name": "Eastern Africa Submarine System (EASSy)",
+        "description": "Eastern Africa Submarine System (EASSy)",
+        "color": "#b16f3f",
+        "": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            32.580582,
+            -25.968228,
+            0
+          ],
+          [
+            36.144693,
+            -25.747459,
+            0
+          ]
+        ]
+      },
+      "properties": {
+       "name": "Eastern Africa Submarine System (EASSy)",
+        "description": "Eastern Africa Submarine System (EASSy)",
+        "color": "#b16f3f",
+        "": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            39.672936,
+            -4.052885,
+            0
+          ],
+          [
+            42.873314,
+            -3.82976,
+            0
+          ]
+        ]
+      },
+      "properties": {
+       "name": "Eastern Africa Submarine System (EASSy)",
+        "description": "Eastern Africa Submarine System (EASSy)",
+        "color": "#b16f3f",
+        "": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            42.507894,
+            -6.586582,
+            0
+          ],
+          [
+            39.26975,
+            -6.823141,
+            0
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Eastern Africa Submarine System (EASSy)",
+        "description": "Eastern Africa Submarine System (EASSy)",
+        "color": "#b16f3f",
+        "": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            43.148012,
+            11.59485,
+            0
+          ],
+          [
+            43.321861,
+            11.833648,
+            0
+          ]
+        ]
+      },
+      "properties": {
+       "name": "Eastern Africa Submarine System (EASSy)",
+        "description": "Eastern Africa Submarine System (EASSy)",
+        "color": "#b16f3f",
+        "": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            31.757966,
+            -28.95057,
+            0
+          ],
+          [
+            34.201131,
+            -29.018744,
+            0
+          ],
+          [
+            36.144693,
+            -25.747459,
+            0
+          ]
+        ]
+      },
+      "properties": {
+       "name": "Eastern Africa Submarine System (EASSy)",
+        "description": "Eastern Africa Submarine System (EASSy)",
+        "color": "#b16f3f",
+        "": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            36.144693,
+            -25.747459,
+            0
+          ],
+          [
+            37.53928,
+            -23.34184,
+            0
+          ]
+        ]
+      },
+      "properties": {
+       "name": "Eastern Africa Submarine System (EASSy)",
+        "description": "Eastern Africa Submarine System (EASSy)",
+        "color": "#b16f3f",
+        "": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            37.53928,
+            -23.34184,
+            0
+          ],
+          [
+            41.101703,
+            -17.001647,
+            0
+          ],
+          [
+            41.762497,
+            -12.157655,
+            0
+          ]
+        ]
+      },
+      "properties": {
+       "name": "Eastern Africa Submarine System (EASSy)",
+        "description": "Eastern Africa Submarine System (EASSy)",
+        "color": "#b16f3f",
+        "": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            41.762497,
+            -12.157655,
+            0
+          ],
+          [
+            42.507894,
+            -6.586582,
+            0
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Eastern Africa Submarine System (EASSy)",
+        "description": "Eastern Africa Submarine System (EASSy)",
+        "color": "#b16f3f",
+        "": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            42.507894,
+            -6.586582,
+            0
+          ],
+          [
+            42.873314,
+            -3.82976,
+            0
+          ]
+        ]
+      },
+      "properties": {
+       "name": "Eastern Africa Submarine System (EASSy)",
+        "description": "Eastern Africa Submarine System (EASSy)",
+        "color": "#b16f3f",
+        "": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            42.873314,
+            -3.82976,
+            0
+          ],
+          [
+            42.926903,
+            -3.42394,
+            0
+          ],
+          [
+            46.585006,
+            1.003401,
+            0
+          ],
+          [
+            48.195111,
+            2.95178,
+            0
+          ],
+          [
+            52.51348,
+            12.137739,
+            0
+          ],
+          [
+            52.399972,
+            12.647296,
+            0
+          ],
+          [
+            45.243902,
+            10.800372,
+            0
+          ],
+          [
+            43.835179,
+            10.969492,
+            0
+          ],
+          [
+            43.294011,
+            11.876873,
+            0
+          ],
+          [
+            43.462796,
+            12.131823,
+            0
+          ],
+          [
+            42.401771,
+            13.877756,
+            0
+          ],
+          [
+            41.968204,
+            13.829621,
+            0
+          ],
+          [
+            38.272546,
+            19.909688,
+            0
+          ],
+          [
+            37.219643,
+            19.615571,
+            0
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Eastern Africa Submarine System (EASSy)",
+        "description": "Eastern Africa Submarine System (EASSy)",
+        "color": "#b16f3f",
+        "": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            31.757966,
+            -28.95057,
+            0
+          ],
+          [
+            33.784232,
+            -35.492896,
+            0
+          ]
+        ]
+      },
+      "properties": {
+        "name": "SAFE",
+        "description": "SAFE",
+        "color": "#8cc751",      
+        "": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            76.269574,
+            9.9384,
+            0
+          ],
+          [
+            75.880102,
+            0.01514,
+            0
+          ]
+        ]
+      },
+      "properties": {
+       "name": "SAFE",
+        "description": "SAFE",
+        "color": "#8cc751",  
+        "": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            54.04816,
+            -21.000039,
+            0
+          ],
+          [
+            55.279236,
+            -21.000039,
+            0
+          ],
+          [
+            58.363364,
+            -21.000039,
+            0
+          ],
+          [
+            58.795454,
+            -20.47398,
+            0
+          ],
+          [
+            74.519482,
+            -0.437593,
+            0
+          ],
+          [
+            96.201627,
+            6.234129,
+            0
+          ],
+          [
+            100.363026,
+            5.353846,
+            0
+          ]
+        ]
+      },
+      "properties": {
+       "name": "SAFE",
+        "description": "SAFE",
+        "color": "#8cc751",  
+        "": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            18.445878,
+            -33.727194,
+            0
+          ],
+          [
+            18.896956,
+            -35.492896,
+            0
+          ],
+          [
+            33.784232,
+            -35.492896,
+            0
+          ],
+          [
+            41.274707,
+            -35.492896,
+            0
+          ]
+        ]
+      },
+      "properties": {
+       "name": "SAFE",
+        "description": "SAFE",
+        "color": "#8cc751",  
+        "": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            41.274707,
+            -35.492896,
+            0
+          ],
+          [
+            54.04816,
+            -21.000039,
+            0
+          ],
+          [
+            54.474342,
+            -20.47398,
+            0
+          ],
+          [
+            57.48547,
+            -20.47398,
+            0
+          ],
+          [
+            58.795454,
+            -20.47398,
+            0
+          ]
+        ]
+      },
+      "properties": {
+        "name": "SAFE",
+        "description": "SAFE",
+        "color": "#8cc751",  
+        "": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            38.249971,
+            21.713533,
+            0
+          ],
+          [
+            39.182826,
+            21.481544,
+            0
+          ]
+        ]
+      },
+      "properties": {
+        "name": "SEACOM/Tata TGN-Eurasia",
+        "description": "SEACOM/Tata TGN-Eurasia",
+        "color": "#00a6e5"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            43.148012,
+            11.59485,
+            0
+          ],
+          [
+            44.127177,
+            12.020527,
+            0
+          ]
+        ]
+      },
+      "properties": {
+         "name": "SEACOM/Tata TGN-Eurasia",
+        "description": "SEACOM/Tata TGN-Eurasia",
+        "color": "#00a6e5"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            72.875936,
+            19.076115,
+            0
+          ],
+          [
+            72.605036,
+            18.932275,
+            0
+          ],
+          [
+            70.692911,
+            17.605714,
+            0
+          ],
+          [
+            63.387993,
+            15.747071,
+            0
+          ]
+        ]
+      },
+      "properties": {
+        "name": "SEACOM/Tata TGN-Eurasia",
+        "description": "SEACOM/Tata TGN-Eurasia",
+        "color": "#00a6e5"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            63.387993,
+            15.747071,
+            0
+          ],
+          [
+            52.723618,
+            13.002983,
+            0
+          ]
+        ]
+      },
+      "properties": {
+         "name": "SEACOM/Tata TGN-Eurasia",
+        "description": "SEACOM/Tata TGN-Eurasia",
+        "color": "#00a6e5"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            32.580582,
+            -25.968228,
+            0
+          ],
+          [
+            36.447873,
+            -26.003886,
+            0
+          ]
+        ]
+      },
+      "properties": {
+        "name": "SEACOM/Tata TGN-Eurasia",
+        "description": "SEACOM/Tata TGN-Eurasia",
+        "color": "#00a6e5"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            42.873947,
+            -6.79541,
+            0
+          ],
+          [
+            39.26975,
+            -6.823141,
+            0
+          ]
+        ]
+      },
+      "properties": {
+        "name": "SEACOM/Tata TGN-Eurasia",
+        "description": "SEACOM/Tata TGN-Eurasia",
+        "color": "#00a6e5"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            43.248439,
+            -3.97163,
+            0
+          ],
+          [
+            39.672936,
+            -4.052885,
+            0
+          ]
+        ]
+      },
+      "properties": {
+        "name": "SEACOM/Tata TGN-Eurasia",
+        "description": "SEACOM/Tata TGN-Eurasia",
+        "color": "#00a6e5"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            52.723618,
+            13.002983,
+            0
+          ],
+          [
+            52.912657,
+            12.259672,
+            0
+          ],
+          [
+            48.559687,
+            2.892704,
+            0
+          ],
+          [
+            43.316375,
+            -3.458499,
+            0
+          ],
+          [
+            43.248439,
+            -3.97163,
+            0
+          ]
+        ]
+      },
+      "properties": {
+        "name": "SEACOM/Tata TGN-Eurasia",
+        "description": "SEACOM/Tata TGN-Eurasia",
+        "color": "#00a6e5"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            43.248439,
+            -3.97163,
+            0
+          ],
+          [
+            42.873947,
+            -6.79541,
+            0
+          ]
+        ]
+      },
+      "properties": {
+        "name": "SEACOM/Tata TGN-Eurasia",
+        "description": "SEACOM/Tata TGN-Eurasia",
+        "color": "#00a6e5"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            42.873947,
+            -6.79541,
+            0
+          ],
+          [
+            41.496027,
+            -16.987131,
+            0
+          ],
+          [
+            36.447873,
+            -26.003886,
+            0
+          ]
+        ]
+      },
+      "properties": {
+        "name": "SEACOM/Tata TGN-Eurasia",
+        "description": "SEACOM/Tata TGN-Eurasia",
+        "color": "#00a6e5"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            36.447873,
+            -26.003886,
+            0
+          ],
+          [
+            34.590392,
+            -29.166067,
+            0
+          ],
+          [
+            31.757966,
+            -28.95057,
+            0
+          ]
+        ]
+      },
+      "properties": {
+        "name": "SEACOM/Tata TGN-Eurasia",
+        "description": "SEACOM/Tata TGN-Eurasia",
+        "color": "#00a6e5"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            52.723618,
+            13.002983,
+            0
+          ],
+          [
+            45.882121,
+            11.227257,
+            0
+          ],
+          [
+            45.235041,
+            11.206011,
+            0
+          ],
+          [
+            44.386895,
+            11.600466,
+            0
+          ],
+          [
+            44.127177,
+            12.020527,
+            0
+          ],
+          [
+            43.999955,
+            12.226159,
+            0
+          ],
+          [
+            43.683694,
+            12.24826,
+            0
+          ],
+          [
+            42.66381,
+            13.965136,
+            0
+          ],
+          [
+            42.781959,
+            14.29539,
+            0
+          ],
+          [
+            38.249971,
+            21.713533,
+            0
+          ],
+          [
+            34.568028,
+            27.474309,
+            0
+          ],
+          [
+            33.903225,
+            27.730871,
+            0
+          ],
+          [
+            33.30235,
+            28.276257,
+            0
+          ],
+          [
+            32.613706,
+            29.104164,
+            0
+          ]
+        ]
+      },
+      "properties": {
+        "name": "SEACOM/Tata TGN-Eurasia",
+        "description": "SEACOM/Tata TGN-Eurasia",
+        "color": "#00a6e5"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            39.672936,
+            -4.052885,
+            0
+          ],
+          [
+            43.835179,
+            -3.482986,
+            0
+          ],
+          [
+            48.892194,
+            2.622738,
+            0
+          ],
+          [
+            53.174696,
+            11.770356,
+            0
+          ],
+          [
+            64.2277,
+            14.602863,
+            0
+          ],
+          [
+            61.761221,
+            23.510891,
+            0
+          ],
+          [
+            56.333722,
+            25.121681,
+            0
+          ]
+        ]
+      },
+      "properties": {
+        "name": "The East African Marine System (TEAMS)",
+        "description": "The East African Marine System (TEAMS)",
+        "color": "#f5ca00",
+        "": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.204305,
+            5.558297,
+            0
+          ],
+          [
+            0.307958,
+            0.732513,
+            0
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Main One",
+        "description": "Main One",
+        "color": "#f4868e",
+        "": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -9.107408,
+            38.642658,
+            0
+          ],
+          [
+            -10.427835,
+            34.795911,
+            0
+          ],
+          [
+            -10.106194,
+            33.84911,
+            0
+          ],
+          [
+            -14.382472,
+            28.896938,
+            0
+          ],
+          [
+            -14.382472,
+            28.037754,
+            0
+          ],
+          [
+            -20.316221,
+            20.306093,
+            0
+          ],
+          [
+            -20.316221,
+            14.394433,
+            0
+          ],
+          [
+            -10.646465,
+            0.732513,
+            0
+          ],
+          [
+            3.115435,
+            0.732513,
+            0
+          ],
+          [
+            3.423521,
+            6.439096,
+            0
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Main One",
+        "description": "Main One",
+        "color": "#f4868e",
+        "": ""
+      }
+    }
+  ]
+}
