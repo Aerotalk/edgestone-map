@@ -1254,7 +1254,7 @@ style="position: absolute; top: 10px; left: 50px; z-index: 1000; padding: 5px; f
                     "icon-image": "tower-marker",
                     "icon-size": 1.2,
                     "icon-allow-overlap": true,
-                    "text-field": ["get", "name"],
+                    "text-field": ["get", "description"],
                     "text-offset": [0, 1.5],
                     "text-anchor": "top",
                     "text-size": 12,
@@ -1872,10 +1872,6 @@ style="position: absolute; top: 10px; left: 50px; z-index: 1000; padding: 5px; f
       let popupContent = "";
       if (e.features && e.features[0]) {
         const feature = e.features[0];
-        const name = feature.properties.name;
-        if (name) {
-          popupContent += `<div style="color: #fff; background: rgba(0,0,0,0.7); padding: 8px; border-radius: 4px;">${name}</div>`;
-        }
         const description = feature.properties.description;
         if (description) {
           popupContent += `<div style="color: #fff; background: rgba(0,0,0,0.7); padding: 8px; border-radius: 4px; margin-top: 4px;">${description}</div>`;
