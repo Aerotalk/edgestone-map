@@ -1854,7 +1854,7 @@ style="position: absolute; top: 10px; left: 50px; z-index: 1000; padding: 5px; f
             });
             map.on("load", function() {
   // Ensure that currentLinePopup is declared globally:
-         var currentLinePopup = null;
+         var currentLinePopup = -1;
            // Add hover events for lines (combined popup for both name and description)
 mapFiles_LineStrings.forEach(function (lineId) {
   // When mouse enters the line, create a combined popup
