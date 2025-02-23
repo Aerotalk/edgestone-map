@@ -1852,7 +1852,11 @@ style="position: absolute; top: 10px; left: 50px; z-index: 1000; padding: 5px; f
                 }
               });
             });
-             // Add hover events for each cable line layer in mapFiles_LineStrings
+            map.on("load", function() {
+  // Ensure that currentLinePopup is declared globally:
+  var currentLinePopup = null;
+
+  // Add hover events for each cable line layer in mapFiles_LineStrings
   mapFiles_LineStrings.forEach(function (lineId) {
     // Mouseenter: Show a combined popup with name and description
     map.on("mouseenter", lineId, function(e) {
@@ -1901,8 +1905,8 @@ style="position: absolute; top: 10px; left: 50px; z-index: 1000; padding: 5px; f
         currentLinePopup = null;
       }
     });
-  });     
-
+  });
+});
             // Add filter toggle functionality
             const filterToggle = document.getElementById("filterToggle");
             const filtersPanel = document.getElementById("filters");
