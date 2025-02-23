@@ -1854,10 +1854,12 @@ style="position: absolute; top: 10px; left: 50px; z-index: 1000; padding: 5px; f
             });
             map.on("load", function() {
   // Ensure that currentLinePopup is declared globally:
-         var currentLinePopup = null;
-           // Add hover events for lines (combined popup for both name and description)
+         // Ensure that currentLinePopup is declared globally:
+  var currentLinePopup = null;
+
+// Add hover events for each cable line layer in mapFiles_LineStrings
 mapFiles_LineStrings.forEach(function (lineId) {
-  // When mouse enters the line, create a combined popup
+  // Mouseenter: Show a combined popup with name and description
   map.on("mouseenter", lineId, function(e) {
     map.getCanvas().style.cursor = "pointer";
 
@@ -1867,7 +1869,7 @@ mapFiles_LineStrings.forEach(function (lineId) {
       currentLinePopup = null;
     }
 
-    // Build combined popup content
+    // Build the combined popup content for name and description
     let popupContent = "";
     if (e.features && e.features[0]) {
       const feature = e.features[0];
@@ -1883,7 +1885,7 @@ mapFiles_LineStrings.forEach(function (lineId) {
       console.warn("No features found on hover for layer:", lineId);
     }
 
-    // Create and store a single popup
+    // Create and store the popup (if content exists)
     if (popupContent) {
       currentLinePopup = new mapboxgl.Popup({
         closeButton: false,
@@ -1895,7 +1897,8 @@ mapFiles_LineStrings.forEach(function (lineId) {
         .addTo(map);
     }
   });
-  // When mouse leaves the line, remove the popup immediately
+
+  // Mouseleave: Remove the popup immediately
   map.on("mouseleave", lineId, function() {
     map.getCanvas().style.cursor = "";
     if (currentLinePopup) {
@@ -1903,7 +1906,8 @@ mapFiles_LineStrings.forEach(function (lineId) {
       currentLinePopup = null;
     }
   });
-});  
+});
+});
             // Add filter toggle functionality
             const filterToggle = document.getElementById("filterToggle");
             const filtersPanel = document.getElementById("filters");
