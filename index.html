@@ -1050,7 +1050,8 @@ a,
                       </div> -->
             </div>
           </div>
-
+          <input type="text" id="searchBox" placeholder="Search cables..." onkeyup="searchCables()" 
+style="position: absolute; top: 10px; left: 50px; z-index: 1000; padding: 5px; font-size: 14px;"/>
           <div id="map">
             <button type="button" id="zoomOutButton" class="zoom-out-button">
               View the whole footprint
@@ -1106,6 +1107,46 @@ a,
     }
     */
               });
+                  function searchCables() {
+        let input = document.getElementById("searchBox").value.toLowerCase();
+
+        if (!input) {
+            // Reset visibility if search is cleared
+            mapFiles_LineStrings.forEach(function(lineId) {
+                map.setLayoutProperty(lineId, "visibility", "visible");
+                map.setLayoutProperty(lineId + "_symbol", "visibility", "visible");
+            });
+            return;
+        }
+
+        // Hide all cables first
+        mapFiles_LineStrings.forEach(function(lineId) {
+            map.setLayoutProperty(lineId, "visibility", "none");
+            map.setLayoutProperty(lineId + "_symbol", "visibility", "none");
+        });
+
+        // Show only the matching cable
+        let found = false;
+        mapFiles_LineStrings.forEach(function(lineId) {
+            if (lineId.toLowerCase().includes(input)) {
+                map.setLayoutProperty(lineId, "visibility", "visible");
+                map.setLayoutProperty(lineId + "_symbol", "visibility", "visible");
+
+                // Zoom to the cable
+                let source = map.getSource(lineId);
+                if (source && source._data && source._data.features.length > 0) {
+                    let coordinates = source._data.features[0].geometry.coordinates[0];
+                    map.flyTo({ center: coordinates, zoom: 4, duration: 2000 });
+                    found = true;
+                }
+            }
+        });
+
+    if (!found) {
+        console.log("Cable not found!");
+    }
+}
+
           </script>
         </body>
       </html>
@@ -1813,24 +1854,47 @@ a,
               });
             });
             // Add hover events for lines
-            mapFiles_LineStrings.forEach(function (lineId) {
-              map.on("mouseenter", lineId, function (e) {
-                map.getCanvas().style.cursor = "pointer";
+              // Declare a global variable for the line popup
+var currentLinePopup = null;
 
-                const name = e.features[0].properties.name;
-                if (name) {
-                  const coordinates = e.lngLat;
-                  new mapboxgl.Popup({
-                    closeButton: false,
-                    closeOnClick: false,
-                    className: "line-popup",
-                  })
-                    .setLngLat(coordinates)
-                    .setHTML(
-                      `<div style="color: #fff; background: rgba(0,0,0,0.7); padding: 8px; border-radius: 4px;">${name}</div>`
-                    )
-                    .addTo(map);
-                }
+// Update your mouseenter handler for lines:
+mapFiles_LineStrings.forEach(function (lineId) {
+  map.on("mouseenter", lineId, function (e) {
+    map.getCanvas().style.cursor = "pointer";
+
+    // Remove any existing popup first
+    if (currentLinePopup) {
+      currentLinePopup.remove();
+      currentLinePopup = null;
+    }
+
+    const name = e.features[0].properties.name;
+    if (name) {
+      const coordinates = e.lngLat;
+      // Create and assign the popup to the global variable
+      currentLinePopup = new mapboxgl.Popup({
+        closeButton: false,
+        closeOnClick: false,
+        className: "line-popup",
+      })
+        .setLngLat(coordinates)
+        .setHTML(
+          `<div style="color: #fff; background: rgba(0,0,0,0.7); padding: 8px; border-radius: 4px;">${name}</div>`
+        )
+        .addTo(map);
+    }
+  });
+
+  // Add a mouseleave handler for the same line layer:
+  map.on("mouseleave", lineId, function (e) {
+    map.getCanvas().style.cursor = "";
+    // Remove the popup immediately (or with a fade-out if desired)
+    if (currentLinePopup) {
+      currentLinePopup.remove();
+      currentLinePopup = null;
+    }
+  });
+});
 
                 const description = e.features[0].properties.description;
                 if (description) {
@@ -1858,6 +1922,144 @@ a,
                 if (popups[0]) popups[0].remove();
               });
             });
+            // Declare a global variable to keep track of the currently open line popup
+var currentLinePopup = null;
+
+// Function to add hover and click events for a given filename (used for both point and line layers)
+function addHoverAndClickEvents(filename) {
+  // --------------------
+  // Handle Point Features (e.g., Partner PoP points)
+  // --------------------
+  map.on("mouseenter", `${filename}_points`, function(e) {
+    map.getCanvas().style.cursor = "pointer";
+    e.preventDefault();
+
+    // Remove any existing popup (from line hover or previous point)
+    if (currentLinePopup) {
+      currentLinePopup.remove();
+      currentLinePopup = null;
+    }
+    if (currentPopup) {
+      currentPopup.remove();
+      currentPopup = null;
+    }
+
+    var feature = e.features[0];
+    var coordinates = feature.geometry.coordinates.slice();
+
+    // Create the popup for the point
+    currentPopup = new mapboxgl.Popup({
+      className: "point-popup",
+      offset: 15,
+      focusAfterOpen: false,
+    })
+      .setLngLat(coordinates)
+      .setHTML(`
+        <div style="background-color: #fff; border: none; text-decoration: none;">
+          <img src="https://edgestone.in/wp-content/uploads/2024/12/Untitled_design-removebg-preview-1.png" 
+               style="display: block; margin: 0 auto; height: 110px; width: 110px;">
+          <h4>Partner PoP at ${feature.properties.name}</h4>
+          <p style="white-space: normal; word-wrap: break-word;">
+            ${feature.properties.address.replace(/\n/g, "<br>")}
+          </p>
+        </div>
+      `)
+      .addTo(map);
+  });
+
+  // Handle click on clusters (for point features)
+  map.on("click", `${filename}_clusters`, function(e) {
+    const features = map.queryRenderedFeatures(e.point, {
+      layers: [`${filename}_clusters`],
+    });
+    const clusterId = features[0].properties.cluster_id;
+    map.getCanvas().style.cursor = "pointer";
+    e.preventDefault();
+    if (currentPopup) {
+      currentPopup.remove();
+      currentPopup = null;
+    }
+    map.getSource(filename).getClusterExpansionZoom(clusterId, function(err, clusterZoom) {
+      if (err) return;
+      currentZoom = map.getZoom();
+      let zoomLevel = currentZoom < 3 ? clusterZoom + 2 : clusterZoom + 1;
+      map.flyTo({
+        center: features[0].geometry.coordinates,
+        zoom: zoomLevel,
+        duration: 4000,
+        essential: true,
+      });
+    });
+  });
+
+  // Remove point popup on mouseleave
+  map.on("mouseleave", `${filename}_points`, function(e) {
+    map.getCanvas().style.cursor = "";
+    if (currentPopup && !currentPopup.isOpen()) {
+      currentPopup.remove();
+      currentPopup = null;
+    }
+    // Also clear any line popup if present
+    if (currentLinePopup) {
+      currentLinePopup.remove();
+      currentLinePopup = null;
+    }
+  });
+
+  // (Optional) For clusters, just reset cursor on mouseleave
+  map.on("mouseenter", `${filename}_clusters`, function(e) {
+    map.getCanvas().style.cursor = "pointer";
+    e.preventDefault();
+  });
+  map.on("mouseleave", `${filename}_clusters`, function(e) {
+    map.getCanvas().style.cursor = "";
+    e.preventDefault();
+  });
+
+  // --------------------
+  // Handle Cable Line Features
+  // --------------------
+  // Hover: When the mouse enters the cable line (layer id equals filename)
+  map.on("mouseenter", filename, function(e) {
+    map.getCanvas().style.cursor = "pointer";
+
+    // Remove any previous line popup
+    if (currentLinePopup) {
+      currentLinePopup.remove();
+      currentLinePopup = null;
+    }
+
+    // Build popup content using the properties 'name' and 'description'
+    let popupContent = "";
+    const name = e.features[0].properties.name;
+    if (name) {
+      popupContent += `<div style="color: #fff; background: rgba(0,0,0,0.7); padding: 8px; border-radius: 4px;">${name}</div>`;
+    }
+    const description = e.features[0].properties.description;
+    if (description) {
+      popupContent += `<div style="color: #fff; background: rgba(0,0,0,0.7); padding: 8px; border-radius: 4px;">${description}</div>`;
+    }
+
+    // Create the popup for the cable line and store it in currentLinePopup
+    currentLinePopup = new mapboxgl.Popup({
+      closeButton: false,
+      closeOnClick: false,
+      className: "line-popup",
+    })
+      .setLngLat(e.lngLat)
+      .setHTML(popupContent)
+      .addTo(map);
+  });
+
+  // Remove the cable line popup on mouse leave
+  map.on("mouseleave", filename, function(e) {
+    map.getCanvas().style.cursor = "";
+    if (currentLinePopup) {
+      currentLinePopup.remove();
+      currentLinePopup = null;
+    }
+  });
+}
 
             // Add filter toggle functionality
             const filterToggle = document.getElementById("filterToggle");
