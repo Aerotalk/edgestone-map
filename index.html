@@ -1852,50 +1852,57 @@ style="position: absolute; top: 10px; left: 50px; z-index: 1000; padding: 5px; f
                 }
               });
             });
-                                // Add hover events for lines
-            mapFiles_LineStrings.forEach(function (lineId) {
-              // When mouse enters the line, create a single popup that combines name and description
-              map.on("mouseenter", lineId, function(e) {
-                map.getCanvas().style.cursor = "pointer";
+              // Add hover events for lines
+mapFiles_LineStrings.forEach(function (lineId) {
+  // When mouse enters the line, create a combined popup
+  map.on("mouseenter", lineId, function (e) {
+    map.getCanvas().style.cursor = "pointer";
 
-                // Remove any existing popup immediately
-                if (currentLinePopup) {
-                  currentLinePopup.remove();
-                  currentLinePopup = null;
-                }
+    // Remove any existing line popup immediately
+    if (currentLinePopup) {
+      currentLinePopup.remove();
+      currentLinePopup = null;
+    }
 
-                // Build combined popup content
-                let popupContent = "";
-                const name = e.features[0].properties.name;
-                const description = e.features[0].properties.description;
-                if (name) {
-                  popupContent += `<div style="color: #fff; background: rgba(0,0,0,0.7); padding: 8px; border-radius: 4px;">${name}</div>`;
-                }
-                if (description) {
-                  popupContent += `<div style="color: #fff; background: rgba(0,0,0,0.7); padding: 8px; border-radius: 4px; margin-top: 4px;">${description}</div>`;
-                }
+    // Build the combined popup content for name and description
+    let popupContent = "";
+    const name = e.features[0].properties.name;
+    if (name) {
+      popupContent += `<div style="color: #fff; background: rgba(0,0,0,0.7); padding: 8px; border-radius: 4px;">${name}</div>`;
+    }
+    const description = e.features[0].properties.description;
+    if (description) {
+      popupContent += `<div style="color: #fff; background: rgba(0,0,0,0.7); padding: 8px; border-radius: 4px; margin-top: 4px;">${description}</div>`;
+    }
 
-                // Create and store the popup
-                currentLinePopup = new mapboxgl.Popup({
-                  closeButton: false,
-                  closeOnClick: false,
-                  className: "line-popup",
-                })
-                  .setLngLat(e.lngLat)
-                  .setHTML(popupContent)
-                  .addTo(map);
-              });
+    // Create and store the popup
+    currentLinePopup = new mapboxgl.Popup({
+      closeButton: false,
+      closeOnClick: false,
+      className: "line-popup",
+    })
+      .setLngLat(e.lngLat)
+      .setHTML(popupContent)
+      .addTo(map);
+  });
 
-              // When mouse leaves the line, remove the popup immediately
-              map.on("mouseleave", lineId, function() {
-                map.getCanvas().style.cursor = "";
+  // When mouse leaves the line, remove the popup immediately
+  map.on("mouseleave", lineId, function () {
+    map.getCanvas().style.cursor = "";
+    if (currentLinePopup) {
+      currentLinePopup.remove();
+      currentLinePopup = null;
+    }
+  });
+
+  // Ensure the popup is removed if the mouse moves out of the map entirely
+  map.on("mouseout", lineId, function () {
     if (currentLinePopup) {
       currentLinePopup.remove();
       currentLinePopup = null;
     }
   });
 });
-
             // Add filter toggle functionality
             const filterToggle = document.getElementById("filterToggle");
             const filtersPanel = document.getElementById("filters");
