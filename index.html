@@ -357,16 +357,16 @@ a,
           background: #fff;
           padding: 0px !important;
           border-radius: 20px !important;
-          /*clip-path: polygon(
-            15% 0%,
-            /* top-left */ 85% 0%,
-            /* top-right */ 100% 15%,
-            /* right-top */ 100% 85%,
-            /* right-bottom */ 85% 100%,
-            /* bottom-right */ 15% 100%,
-            /* bottom-left */ 0% 85%,
-            /* left-bottom */ 0% 15% /* left-top */
-          /* );*/
+          clip-path: polygon(
+    18% 2%,   /* softened top-left */
+    82% 2%,   /* softened top-right */
+    98% 18%,  /* rounded right-top */
+    98% 82%,  /* rounded right-bottom */
+    82% 98%,  /* softened bottom-right */
+    18% 98%,  /* softened bottom-left */
+    2% 82%,   /* rounded left-bottom */
+    2% 18%    /* rounded left-top */
+           );
           padding: 20px !important;
           box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1) !important;
           pointer-events: auto;
