@@ -354,34 +354,29 @@ a,
         }
 
         .mapboxgl-popup-content {
-  background: transparent;
-  padding: 0 !important;
-  border: none;
-  box-shadow: none;
+  background: #ffffff;
+  padding: 20px !important;
+  border-radius: 20px !important;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
   pointer-events: auto;
   position: relative;
   text-align: center;
   min-width: 220px;
-  border-radius: 30px;
 }
 
+/* Remove hex background if present */
 .mapboxgl-popup-content::before {
-  content: '';
-  position: absolute;
-  inset: 0;
-  background-image: url('data:image/svg+xml;utf8,<svg width="100%" height="100%" viewBox="0 0 200 230" xmlns="http://www.w3.org/2000/svg"><path fill="white" d="M58.78,5.77c9.09-5.25,20.35-5.25,29.44,0l70.28,40.51c9.09,5.25,14.72,15,14.72,25.6v81.24c0,10.6-5.63,20.35-14.72,25.6l-70.28,40.51c-9.09,5.25-20.35,5.25-29.44,0L17.5,178.72c-9.09-5.25-14.72-15-14.72-25.6V71.88c0-10.6,5.63-20.35,14.72-25.6L58.78,5.77z"/></svg>');
-  background-size: cover;
-  background-repeat: no-repeat;
-  z-index: -1;
-  border-radius: 40px;
+  display: none !important;
 }
 
+/* Reset any inner element styling */
 .mapboxgl-popup-content > * {
-  padding: 20px;
-  background: linear-gradient(145deg, #ffffff, #f5f5f5);
-  border-radius: 40px;
-  box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+  border-radius: 0 !important;
+  background: none !important;
+  box-shadow: none !important;
+  padding: 0 !important;
 }
+
 
         .mapboxgl-popup-tip {
           display: none;
